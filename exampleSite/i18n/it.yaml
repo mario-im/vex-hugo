@@ -1,23 +1,26 @@
 - id: "add_to_cart"
-  translation: Aggiungi al carrello
+  translation: "Aggiungi al carrello"
 
 - id: "send"
-  translation: Invia Ora
+  translation: "Invia Ora"
 
 - id: "subscribe"
-  translation: Iscriviti
+  translation: "Iscriviti"
 
 - id: "read_more"
-  translation: Per saperne di più
+  translation: "Per saperne di più""
 
 - id: "subscribe"
-  translation: Iscriviti
+  translation: "Iscriviti"
 
 - id: "subscribe"
-  translation: Iscriviti
+  translation: "Iscriviti"
 
 - id: "subscribe"
-  translation: Iscriviti
+  translation: "Iscriviti"
 
 - id: "contact"
-  translation: Contatti
+  translation: "Contatti"
+
+-id: "Browse All Products"
+  translation: "Sfoglia tutti i prodotti"
