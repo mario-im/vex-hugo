@@ -9,19 +9,19 @@ contentDir = "content/english"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 languageCode = "en-us"
 languageName = "En"
-weight = 1
+weight = 2
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 languageCode = "fr-fr"
 languageName = "Fr"
-weight = 2
+weight = 3
 [Languages.it]
 contentDir = "content/italiano"
 copyright = "Creato con da [Mario](https://mariocali.im/) per [BonsaiBlu](https://www.facebook.com/bonsaiblu)"
 languageCode = "It-it"
 languageName = "It"
-weight = 3
+weight = 1
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
@@ -88,7 +88,7 @@ link = "plugins/slick/slick.min.js"
 link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 [params.preloader]
 enable = true
-preloader = ""
+preloader = "BonsaiBlu"
 [params.snipcart]
 enable = false
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
