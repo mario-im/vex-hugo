@@ -8,7 +8,7 @@
   translation: "Iscriviti"
 
 - id: "read_more"
-  translation: "Per saperne di più""
+  translation: "Per saperne di più"
 
 - id: "subscribe"
   translation: "Iscriviti"
@@ -17,4 +17,10 @@
   translation: "Iscriviti"
 
 - id: "subscribe"
-  translation: "Iscriviti"s
+  translation: "Iscriviti"
+
+- id: "contact"
+  translation: "Contact"
+
+-id: "Browse All Products"
+  translation: "Browse All Products"
