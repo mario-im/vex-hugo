@@ -1,5 +1,5 @@
 baseurl = "https://bonsaiblu-test.netlify.app"
-disableLanguages = [Fr]
+disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
@@ -18,10 +18,10 @@ languageName = "Fr"
 weight = 3
 [Languages.it]
 contentDir = "content/italiano"
-copyright = "Creato con :blue_heart: da [Mario](https://mariocali.im/) per [BonsaiBlu](https://www.facebook.com/bonsaiblu)"
+copyright = "Creato con da [Mario](https://mariocali.im/) per [BonsaiBlu](https://www.facebook.com/bonsaiblu)"
 languageCode = "It-it"
 languageName = "It"
-weight = 1
+weight = "1"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
@@ -88,7 +88,7 @@ link = "plugins/slick/slick.min.js"
 link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 [params.preloader]
 enable = true
-preloader = "BonsaiBlu"
+preloader = "/image/logo001.png"
 [params.snipcart]
 enable = false
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
