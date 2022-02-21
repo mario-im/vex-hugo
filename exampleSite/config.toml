@@ -60,7 +60,7 @@ author = "Themefisher"
 contact_form_action = "#"
 currency = "$"
 description = "This is meta description"
-logo = "images/logo001.png"
+logo = "images/logo-text.png"
 logo_width = "100px"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
