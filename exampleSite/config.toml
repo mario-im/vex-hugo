@@ -18,8 +18,8 @@ languageName = "Fr"
 weight = 3
 [Languages.it]
 contentDir = "content/italiano"
-copyright = "Creato con da [Mario](https://mariocali.im/) per [BonsaiBlu](https://www.facebook.com/bonsaiblu)"
-languageCode = "It-it"
+copyright = "Creato con ::tf-ion-ios-cart-outline:: da [Mario](https://mariocali.im/) per [BonsaiBlu](https://www.facebook.com/bonsaiblu)"
+languageCode = "it-it"
 languageName = "It"
 weight = "1"
 [markup.goldmark.renderer]
