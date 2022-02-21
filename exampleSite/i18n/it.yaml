@@ -1,15 +1,23 @@
----
 - id: add_to_cart
   translation: Aggiungi al carrello
+
 - id: send
   translation: Invia Ora
+
 - id: subscribe
   translation: Iscriviti
+
 - id: read_more
   translation: Per saperne di più
+
 - id: subscribe
   translation: Iscriviti
+
 - id: subscribe
   translation: Iscriviti
+
 - id: subscribe
   translation: Iscriviti
+
+- id: contact
+  translation: Contatti
