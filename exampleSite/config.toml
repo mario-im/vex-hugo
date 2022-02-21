@@ -1,4 +1,4 @@
-baseurl = "https://bonsaiblu-test.netlify.com"
+baseurl = "https://bonsaiblu-test.netlify.app"
 disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
