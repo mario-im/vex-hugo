@@ -6,7 +6,7 @@ banner:
   image: "images/watch.png"
   button:
     enable: true
-    label: "Browse All Products"
+    label: {{ i18n Browse All Products" }}
     link: "products/"
 
 ############################# Feature ############################
