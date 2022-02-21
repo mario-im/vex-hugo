@@ -56,10 +56,10 @@ name = "Contact"
 url = "contact/"
 weight = 5
 [params]
-author = "Themefisher"
+author = "Mario | BonsaiBlu"
 contact_form_action = "#"
-currency = "$"
-description = "This is meta description"
+currency = "€"
+description = "Bonsai Blu Milano. Circolo ricreativo"
 logo = "images/logo-text.png"
 logo_width = "100px"
 [[params.plugins.css]]
