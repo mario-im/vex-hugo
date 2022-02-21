@@ -16,6 +16,12 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
+[Languages.fr]
+contentDir = "content/italiano"
+copyright = "Creato con da [Mario](https://mariocali.it/) per [BonsaiBlu](https://www.facebook.com/bonsaiblu)"
+languageCode = "it-it"
+languageName = "It"
+weight = 3
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
