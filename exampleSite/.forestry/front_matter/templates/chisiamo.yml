@@ -1,0 +1,66 @@
+---
+label: chisiamo
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: field_group
+  name: office
+  label: office
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: mobile
+    label: mobile
+  - type: text
+    name: email
+    label: email
+  - type: text
+    name: location
+    label: location
+  - type: textarea
+    name: content
+    label: content
+- type: field_group
+  name: opennig_hour
+  label: opennig_hour
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: list
+    name: day_time
+    label: day_time
+  - name: calendario
+    type: datetime
+    label: calendario
+    description: ''
+    config:
+      required: false
+      date_format: 
+      time_format: 
+      display_utc: false
+- name: lista
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: lista
+- name: immagine
+  type: file
+  config:
+    maxSize: 64
+  label: immagine
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: gallery
+pages:
+- exampleSite/content/italiano/chi-siamo/_index.md
