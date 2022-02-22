@@ -76,7 +76,7 @@ products:
   title: Queste sono alcune delle piante del club
 subscription:
   enable: true
-  bg_image: image/amici000.jpg
+  bg_image: images/amici000.png
   title: Get Product Updates
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   placeholder: Your Email Address Here
