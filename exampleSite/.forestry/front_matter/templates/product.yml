@@ -3,28 +3,31 @@ label: Product
 hide_body: false
 fields:
 - type: text
-  name: title
-  label: title
+  name: titolo
+  label: titolo
 - type: datetime
-  name: date
-  label: date
+  name: data
+  label: data
 - type: image_gallery
   name: images
   label: images
 - type: text
-  name: description
-  label: description
+  name: descrizione
+  label: descrizione
 - type: text
-  name: price
-  label: price
+  name: prezzo
+  label: prezzo
   hidden: false
 - type: text
   name: discount_price
   label: discount_price
-  hidden: false
+  hidden: true
 - type: tag_list
-  name: colors
-  label: colors
+  name: essenza
+  label: essenza
 - type: tag_list
-  name: sizes
-  label: sizes
+  name: dimensioni
+  label: dimensioni
+pages:
+- exampleSite/content/italiano/products/Acero.md
+- exampleSite/content/italiano/products/pinte.md
