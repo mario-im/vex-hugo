@@ -20,8 +20,8 @@ features:
     icon: fa-solid fa-fingerprint
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
-  - title: Elegant Design
-    icon: tf-ion-ios-bell-outline
+  - title: Boschi
+    icon: fa-solid fa-trees
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Easy Pricing
