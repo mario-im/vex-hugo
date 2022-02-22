@@ -13,11 +13,11 @@ banner:
     link: products/
 features:
   enable: true
-  title: Our Core Features
+  title: I principi del club
   image: images/watch-2.png
   left_side:
-  - title: Smooth Touch
-    icon: tf-ion-ios-alarm-outline
+  - title: Impronta
+    icon: tf-ion-finger-print-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Elegant Design
