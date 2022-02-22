@@ -82,8 +82,32 @@ subscription:
   placeholder: Your Email Address Here
 testimonial:
   enable: true
-  title: Watch Review
+  title: I soci fondatori
   testimonial_item:
+  - name: Donato
+    designation: ''
+    image: ''
+    content: ''
+  - name: ''
+    designation: ''
+    image: ''
+    content: ''
+  - name: ''
+    designation: ''
+    image: ''
+    content: ''
+  - name: ''
+    designation: ''
+    image: ''
+    content: ''
+  - name: ''
+    designation: ''
+    image: ''
+    content: ''
+  - name: ''
+    designation: ''
+    image: ''
+    content: ''
   - name: Jonathon Andrew
     designation: CEO, Themefisher
     image: images/avater.png

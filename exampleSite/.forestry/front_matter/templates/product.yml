@@ -17,9 +17,11 @@ fields:
 - type: text
   name: price
   label: price
+  hidden: false
 - type: text
   name: discount_price
   label: discount_price
+  hidden: false
 - type: tag_list
   name: colors
   label: colors
