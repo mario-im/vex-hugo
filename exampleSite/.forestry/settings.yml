@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: heading
   label: Homepage
@@ -12,9 +12,6 @@ sections:
 - type: document
   path: exampleSite/data/en/homepage.yml
   label: Homepage (en)
-- type: document
-  path: exampleSite/data/fr/homepage.yml
-  label: Homepage (fr)
 - type: heading
   label: Blog Post
 - type: directory
@@ -26,10 +23,11 @@ sections:
   templates:
   - post
 - type: directory
-  path: exampleSite/content/french/blog
-  label: Post (fr)
+  path: exampleSite/content/italiano/blog
+  label: Post (it)
   create: documents
   match: "**/*"
+  new_doc_ext: '20191203072044'
   templates:
   - post
 - type: heading
@@ -42,8 +40,8 @@ sections:
   templates:
   - product
 - type: directory
-  path: exampleSite/content/french/products
-  label: Products (fr)
+  path: exampleSite/content/italiano/products
+  label: Products (it)
   create: documents
   match: "**/*"
   templates:
@@ -54,8 +52,8 @@ sections:
   path: exampleSite/content/english/contact/_index.md
   label: Contact (en)
 - type: document
-  path: exampleSite/content/french/contact/_index.md
-  label: Contact (fr)
+  path: exampleSite/content/italiano/contact/_index.md
+  label: Contact (it)
 - type: heading
   label: All Pages
 - type: directory
@@ -64,8 +62,8 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/content/french
-  label: All Page (fr)
+  path: exampleSite/content/italiano
+  label: All Page (it)
   create: all
   match: "**/*"
 - type: heading
