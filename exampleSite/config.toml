@@ -69,7 +69,7 @@ weight = 6
 [params]
 author = "Mario | BonsaiBlu"
 contact_form_action = "#"
-currency = "€"
+currency = ""
 description = "Bonsai Blu Milano. Circolo ricreativo"
 logo = "images/logo-text.png"
 logo_width = "250px"
