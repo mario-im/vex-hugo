@@ -5,9 +5,7 @@ $primary-font: 'Josefin Sans',
 sans-serif;
 $secondary-font: 'Droid Serif',
 serif;
-// $primary-color: #f9a743;
-//$primary-color: #3E8643; //verde
-$primary-color: #2C4397
+$primary-color: #f9a743;
 $icon-font: 'themefisher-font' !important;
 
 /*--
@@ -204,9 +202,7 @@ a:active {
   display: inline-block;
   background-color: $primary-color;
   box-shadow: 0 15px 40px rgba(249, 167, 68, 0.5);
-//  background-image: linear-gradient(bottom, rgba(255, 239, 206, 0) 0%, rgba(255, 239, 206, 0.25) 100%);
-  background-image: linear-gradient(bottom, rgba(100, 168, 95, 0) 0%, rgba(117, 168, 95, 0.25) 100%);
-
+  background-image: linear-gradient(bottom, rgba(255, 239, 206, 0) 0%, rgba(255, 239, 206, 0.25) 100%);
 
   &:hover,
   &:focus {
