@@ -69,6 +69,9 @@ description = "Bonsai Blu Milano. Circolo ricreativo"
 logo = "images/logo-text.png"
 logo_width = "250px"
 
+[taxonomies]
+archive = "archive"
+
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
 [[params.plugins.css]]
