@@ -14,7 +14,7 @@ banner:
 features:
   enable: true
   title: I principi del club
-  image: images/watch-2.png
+  image: images/bonsai002.png
   left_side:
   - title: Impronta
     icon: fa-solid fa-fingerprint
