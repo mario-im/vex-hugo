@@ -95,6 +95,9 @@ link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 [taxonomies]
 archive = "archive"
 
+# add iframe
+unsafe = true
+
 [params.preloader]
 enable = true
 preloader = "images/logo001.png"
