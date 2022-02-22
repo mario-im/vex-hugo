@@ -17,7 +17,7 @@ features:
   image: images/watch-2.png
   left_side:
   - title: Impronta
-    icon: tf-ion-finger-print-outline
+    icon: ion:finger-print-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Elegant Design
