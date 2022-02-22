@@ -53,6 +53,11 @@ about_product:
   enable: true
   title: Un gruppo di amici
   items:
+  - image: image/amici003.jpg
+    title: Amici
+    content: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+    button: ''
   - image: images/amici100.png
     title: Lorem ipsum dolor sit amet.
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
