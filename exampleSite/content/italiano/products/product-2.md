@@ -13,7 +13,7 @@ description : "this is meta description"
 
 # product Price
 price: ""
-discount_price: "25.00"
+discount_price: ""
 
 # product variation
 colors : ["black","white","gray"]
