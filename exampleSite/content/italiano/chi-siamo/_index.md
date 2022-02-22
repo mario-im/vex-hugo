@@ -27,5 +27,8 @@ opennig_hour:
 immagine: "/images/bonsai100.png"
 lista: []
 gallery: []
+menu:
+  main:
+    weight: 2
 
 ---
