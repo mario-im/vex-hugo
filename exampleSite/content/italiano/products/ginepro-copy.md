@@ -3,7 +3,7 @@ data = 2022-02-21T23:00:00Z
 date = "2022-02-01T00:59:00+01:00"
 description = "this is a meta description"
 draft = true
-images = ["/images/bonsai100.png", "/images/bonsai012.jpg", "/images/bonsai015.jpg"]
+images = ["/images/bonsai015.jpg", "/images/bonsai100.png", "/images/bonsai012.jpg"]
 title = "Ginepro-(copy)"
 titolo = "Ginepro"
 
