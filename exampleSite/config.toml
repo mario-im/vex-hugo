@@ -91,6 +91,10 @@ link = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 
+# adding taxonomy term 'archive'
+[taxonomies]
+archive = "archive"
+
 [params.preloader]
 enable = true
 preloader = "images/logo001.png"
