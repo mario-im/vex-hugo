@@ -25,7 +25,7 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: albero
-    icon: fa-solid fa-tree-deciduous
+    icon: fa-solid fa-trees
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   right_side:
