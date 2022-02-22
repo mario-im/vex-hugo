@@ -23,5 +23,9 @@ opennig_hour:
   - 'Ottobre:'
   - 'Novembre:'
   - 'Dicembre:'
+  calendario: 
+immagine: "/images/bonsai100.png"
+lista: []
+gallery: []
 
 ---

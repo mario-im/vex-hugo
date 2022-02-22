@@ -62,3 +62,5 @@ fields:
   type: image_gallery
   config: {}
   label: gallery
+pages:
+- exampleSite/content/italiano/chi-siamo/_index.md
