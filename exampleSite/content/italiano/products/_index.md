@@ -1,6 +1,5 @@
 ---
-title: "All latest Smart Watch"
-description : "this is a meta description"
+title: "Le piante del club"
+description : "Ecco a voi alcune delle piante del gruppo"
 draft: false
 ---
-

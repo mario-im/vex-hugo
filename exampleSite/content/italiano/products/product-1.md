@@ -1,22 +1,20 @@
 ---
 title: "Apple Watch"
-date: 2019-10-17T11:22:16+06:00
-images: 
-  - "images/showcase/showcase-1.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+data: 2019-10-17T11:22:16+06:00
+images:
+  - "images/bonsai011.jpg"
+  - "images/bonsai012.jpg"
+  - "images/bonsai013.jpg"
+  - "images/bonsai014.jpg"
 
 # meta description
-description : "this is meta description"
+descrizione : "Scrivere qui una descrizione"
 
 # product Price
-price: "30.00"
-discount_price: "25.00"
 
 # product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
+essenza : ["black","white","gray"]
+dimensioni : ["small","medium","large"]
 
 # button link if you don't want to use snipcart. empty link will not show button
 button_link: "#"
@@ -24,4 +22,4 @@ button_link: "#"
 draft: false
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
