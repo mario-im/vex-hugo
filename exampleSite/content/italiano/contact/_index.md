@@ -2,7 +2,7 @@
 title: Contact
 description: this is a meta description
 office:
-  title: Spazio incontri
+  title: Dove ci troviamo
   mobile: '0124857985320'
   email: demo@email.com
   location: 6/a, Via De Amicis - 20089 Rozzano (MI)
