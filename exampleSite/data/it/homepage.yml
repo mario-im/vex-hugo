@@ -29,8 +29,8 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   right_side:
-  - title: Quercia
-    icon: fa-duotone fa-leaf-oak
+  - title: Astro
+    icon: fa-solid fa-user-astronaut
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Elegant Design
