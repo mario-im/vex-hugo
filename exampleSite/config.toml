@@ -69,7 +69,7 @@ description = "Bonsai Blu Milano. Circolo ricreativo"
 logo = "images/logo-text.png"
 logo_width = "250px"
 
-[taxonomies]
+[[taxonomies]]
 archive = "archive"
 
 [[params.plugins.css]]
