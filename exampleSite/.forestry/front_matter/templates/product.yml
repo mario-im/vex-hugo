@@ -17,7 +17,7 @@ fields:
 - type: text
   name: prezzo
   label: prezzo
-  hidden: true
+  hidden: false
 - type: text
   name: discount_price
   label: discount_price
