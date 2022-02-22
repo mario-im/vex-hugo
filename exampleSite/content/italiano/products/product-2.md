@@ -1,9 +1,9 @@
 ---
-title: "Galaxy Watch"
+title: "Pianta Piante"
 date: 2019-10-17T11:22:16+06:00
 images:
-  - "images/bonsai002.jpg"
-  - "images/bonsai003.jpg"
+  - "images/bonsai002.png"
+  - "images/bonsai003.png"
   - "images/bonsai004.jpg"
   - "images/bonsai005.jpg"
 
