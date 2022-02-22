@@ -28,3 +28,5 @@ fields:
 - type: tag_list
   name: dimensioni
   label: dimensioni
+pages:
+- exampleSite/content/italiano/products/Acero.md
