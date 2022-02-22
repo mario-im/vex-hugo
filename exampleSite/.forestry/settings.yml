@@ -54,6 +54,8 @@ sections:
 - type: document
   path: exampleSite/content/italiano/contact/_index.md
   label: Contact (it)
+- type: heading
+  label: About
 - type: document
   path: exampleSite/content/italiano/chi-siamo/_index.md
   label: Chi siamo (it)
