@@ -34,7 +34,7 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Elegant Design
-    icon: fa-duotone fa-seedling
+    icon: fa-solid fa-signs-post
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Easy Pricing
