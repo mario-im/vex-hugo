@@ -1,27 +1,24 @@
 ---
-title: "Chi siamo"
-description : "this is a meta description"
-
+title: Chi siamo
+description: this is a meta description l
 office:
-  title : "Central Office"
-  mobile : "0124857985320"
-  email : "demo@email.com"
-  location : "Dhaka, Bangladedsh"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
-
-# opennig hour
+  title: Central Office
+  mobile: '0124857985320'
+  email: demo@email.com
+  location: Dhaka, Bangladedsh
+  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+    eirmod tempor invidunt ut labore et dolore magna
 opennig_hour:
-  title : "Opening Hours"
+  title: Opening Hours
   day_time:
-    - "Monday: 9:00 – 19:00"
-    - "Tuesday: 9:00 – 19:00"
-    - "Wednesday: 9:00 – 19:00"
-    - "Thursday: 9:00 – 19:00"
-    - "Friday: 9:00 – 19:00"
-    - "Saturday: 9:00 – 19:00"
-    - "sunday: 9:00 – 19:00"
+  - 'Monday: 9:00 – 19:00'
+  - 'Tuesday: 9:00 – 19:00'
+  - 'Wednesday: 9:00 – 19:00'
+  - 'Thursday: 9:00 – 19:00'
+  - 'Friday: 9:00 – 19:00'
+  - 'Saturday: 9:00 – 19:00'
+  - 'sunday: 9:00 – 19:00'
 
-draft: false
 ---
 lease read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
 
