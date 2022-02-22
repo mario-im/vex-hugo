@@ -80,7 +80,7 @@ link = "plugins/themefisher-font/themefisher-font.min.css"
 link = "plugins/slick/slick.min.css"
 [[params.plugins.css]]
 link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css"
-[[params.plugin.css]]
+[[params.plugins.css]]
 link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.js"
