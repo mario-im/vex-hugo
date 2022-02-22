@@ -24,8 +24,8 @@ features:
     icon: fa-solid fa-trees
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
+  - title: albero
+    icon: fa-solid fa-tree-deciduous
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   right_side:
