@@ -3,7 +3,6 @@ data = ""
 descrizione = ""
 dimensioni = []
 discount_price = ""
-draft = true
 essenza = []
 images = ["/images/amici009.jpg", "/images/amici014.jpg", "/images/amici016.jpg", "/images/amici006.jpg"]
 prezzo = ""
