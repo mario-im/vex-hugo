@@ -1,5 +1,6 @@
 ---
-title: "Le piante del club"
-description : "Ecco a voi alcune delle piante del gruppo"
-draft: false
+title: Ginepro
+description: this is a meta description
+date: '2022-02-01T00:59:00+01:00'
+
 ---
