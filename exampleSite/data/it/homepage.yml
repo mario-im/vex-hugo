@@ -51,7 +51,7 @@ promo:
     consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
 about_product:
   enable: true
-  title: Why Choose Apple Watch
+  title: Gli amici del club
   items:
   - image: images/amici100.png
     title: Lorem ipsum dolor sit amet.
