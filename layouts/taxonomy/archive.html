@@ -2,7 +2,6 @@
   <body>
     <div id="blog">
       {{ partial "header.html" . }}
-      {{ partial "sidebar.html" . }}
       <div id="main" data-behavior="{{ .Scratch.Get "sidebarBehavior" }}"
         class="{{ with .Params.coverImage }}hasCover{{ end }}
                {{ if eq .Params.coverMeta "out" }}hasCoverMetaOut{{ else }}hasCoverMetaIn{{ end }}
@@ -23,4 +22,4 @@
       </div>
     </div>
   </body>
-{{ partial "foot.html" . }}
+{{ partial "footer.html" . }}
