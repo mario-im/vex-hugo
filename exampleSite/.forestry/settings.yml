@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: heading
   label: Homepage
@@ -41,7 +41,7 @@ sections:
   - product
 - type: directory
   path: exampleSite/content/italiano/products
-  label: Products (it)
+  label: Essenze (it)
   create: documents
   match: "**/*"
   templates:
@@ -53,7 +53,7 @@ sections:
   label: Contact (en)
 - type: document
   path: exampleSite/content/italiano/contact/_index.md
-  label: Contact (it)
+  label: Contatti (it)
 - type: heading
   label: About
 - type: document
