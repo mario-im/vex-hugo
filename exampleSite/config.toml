@@ -5,7 +5,12 @@ googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
 title = "BonsaiBlu"
-
+[Languages.en]
+contentDir = "content/english"
+copyright = "Create with  💙 by [Mario](https://mariocali.im/) for [BonsaiBlu](https://www.facebook.com/bonsaiblu)"
+languageCode = "en-us"
+languageName = "En"
+weight = 2
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Create with  💙 by [Mario](https://mariocali.im/) for [BonsaiBlu](https://www.facebook.com/bonsaiblu)"
@@ -18,51 +23,49 @@ copyright = "Creato con 💙 da [Mario](https://mariocali.im/) per [BonsaiBlu](h
 languageCode = "it-it"
 languageName = "It"
 weight = "1"
-[Languages.en]
-contentDir = "content/english"
-copyright = "Create with  💙 by [Mario](https://mariocali.im/) for [BonsaiBlu](https://www.facebook.com/bonsaiblu)"
-languageCode = "en-us"
-languageName = "En"
-weight = 2
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-name = "Blog"
-url = "blog/"
-weight = 1
-[[menu.footer]]
-name = "Contact"
-url = "contact/"
-weight = 2
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 4
 [[menu.footer]]
 name = "Terms & Conditions"
 url = "terms-conditions/"
 weight = 3
 [[menu.footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 4
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-[[menu.main]]
-name = "Products"
-url = "products/"
+name = "Contact"
+url = "contact/"
 weight = 2
-[[menu.main]]
+[[menu.footer]]
 name = "Blog"
 url = "blog/"
-weight = 3
+weight = 1
 [[menu.main]]
 name = "Review"
 pre = "#"
 url = "testimonial"
+weight = 5
+[[menu.main]]
+name = "Blog"
+url = "blog/"
 weight = 4
+[[menu.main]]
+name = "I nostri lavori"
+url = "products/"
+weight = 3
+[[menu.main]]
+name = "Chi siamo"
+url = "chi-siamo/"
+weight = 2
 [[menu.main]]
 name = "Contact"
 url = "contact/"
-weight = 5
+weight = 6
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
 [params]
 author = "Mario | BonsaiBlu"
 contact_form_action = "#"
@@ -90,14 +93,6 @@ link = "plugins/bootstrap/bootstrap.min.js"
 link = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
-
-# adding taxonomy term 'archive'
-[taxonomies]
-archive = "archive"
-
-# add iframe
-unsafe = true
-
 [params.preloader]
 enable = true
 preloader = "images/logo001.png"
@@ -107,3 +102,6 @@ snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1
 [params.subscription]
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+[taxonomies]
+archive = "archive"
+unsafe = true
