@@ -44,7 +44,7 @@ weight = 4
 [[menu.main]]
 name = "Chi siamo"
 url = "chi-siamo/"
-weight = ""
+weight = 2
 [[menu.main]]
 name = "Home"
 url = "/"
@@ -52,20 +52,20 @@ weight = 1
 [[menu.main]]
 name = "Products"
 url = "products/"
-weight = 2
+weight = 3
 [[menu.main]]
 name = "Blog"
 url = "blog/"
-weight = 3
+weight = 4
 [[menu.main]]
 name = "Review"
 pre = "#"
 url = "testimonial"
-weight = 4
+weight = 5
 [[menu.main]]
 name = "Contact"
 url = "contact/"
-weight = 5
+weight = 6
 [params]
 author = "Mario | BonsaiBlu"
 contact_form_action = "#"

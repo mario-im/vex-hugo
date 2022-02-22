@@ -9,7 +9,7 @@ banner:
   image: images/img001.png
   button:
     enable: true
-    label: Sfoglia tutti i prodotti
+    label: Guarda i nostri lavori
     link: products/
 features:
   enable: true
