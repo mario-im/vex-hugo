@@ -51,9 +51,9 @@ promo:
     consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
 about_product:
   enable: true
-  title: Why Choose Apple Watch
+  title: Un gruppo di amici
   items:
-  - image: images/amici100.png
+  - image: images/showcase/showcase-4.png
     title: Lorem ipsum dolor sit amet.
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
       sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
