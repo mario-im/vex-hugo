@@ -7,15 +7,19 @@ fields:
   config:
     required: false
   label: Titolo
-- name: testo
-  type: blocks
-  template_types: []
-  config:
-    min: 
-    max: 
-  label: testo
 - name: immagine
   type: file
   config:
     maxSize: 64
   label: immagine
+- name: testo
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: testo
+pages:
+- exampleSite/content/italiano/chi-siamo
