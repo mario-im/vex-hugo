@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: heading
   label: Homepage
@@ -57,7 +57,7 @@ sections:
 - type: heading
   label: About
 - type: document
-  path: exampleSite/content/italiano/chi-siamo
+  path: exampleSite/content/italiano/chi-siamo/chi-siamo.yml
   label: Chi siamo (it)
 - type: heading
   label: All Pages
