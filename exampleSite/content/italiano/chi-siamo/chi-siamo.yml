@@ -1,4 +1,4 @@
----
+c---
 banner:
   enable: true
   title: Benvenuti su sito del club Bonsai Blu
@@ -11,36 +11,6 @@ banner:
     enable: true
     label: Guarda i nostri lavori
     link: products/
-features:
-  enable: true
-  title: I principi del club
-  image: images/bonsai002.png
-  left_side:
-  - title: Impronta
-    icon: fa-solid fa-fingerprint
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Boschi
-    icon: fa-solid fa-leaf
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: albero
-    icon: fa-solid fa-seedling
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  right_side:
-  - title: Astro
-    icon: fa-solid fa-user-astronaut
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Elegant Design
-    icon: fa-solid fa-signs-post
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Lunga vita e prosperità
-    icon: fa-solid fa-hand-spock
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
 promo:
   enable: true
   image: images/bonsai001.png
@@ -71,15 +41,6 @@ about_product:
       enable: false
       label: Check Features
       link: "#/"
-products:
-  enable: true
-  title: Queste sono alcune delle piante del club
-subscription:
-  enable: true
-  bg_image: images/amici000.png
-  title: Get Product Updates
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  placeholder: Your Email Address Here
 testimonial:
   enable: true
   title: I soci fondatori
