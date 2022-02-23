@@ -1,0 +1,125 @@
+---
+banner:
+  enable: true
+  title: Benvenuti su sito del club Bonsai Blu
+  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
+    adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima
+    hic at, nostrum nihil!
+  image: images/bonsai100.png
+  button:
+    enable: true
+    label: Guarda i nostri lavori
+    link: products/
+features:
+  enable: true
+  title: I principi del club
+  image: images/bonsai002.png
+  left_side:
+  - title: Impronta
+    icon: fa-solid fa-fingerprint
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
+      inventore?
+  - title: Boschi
+    icon: fa-solid fa-leaf
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
+      inventore?
+  - title: albero
+    icon: fa-solid fa-seedling
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
+      inventore?
+  right_side:
+  - title: Astro
+    icon: fa-solid fa-user-astronaut
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
+      inventore?
+  - title: Elegant Design
+    icon: fa-solid fa-signs-post
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
+      inventore?
+  - title: Lunga vita e prosperità
+    icon: fa-solid fa-hand-spock
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
+      inventore?
+promo:
+  enable: true
+  image: images/bonsai001.png
+  title: Taglia, piega e modella
+  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
+    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
+    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
+    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+about_product:
+  enable: true
+  title: Gli amici del club
+  items:
+  - image: images/amici100.png
+    title: Lorem ipsum dolor sit amet.
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
+      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
+      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+    button:
+      enable: false
+      label: Check Features
+      link: "#/"
+  - image: images/amici003.jpg
+    title: Lorem ipsum dolor sit amet.
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
+      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
+      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+    button:
+      enable: false
+      label: Check Features
+      link: "#/"
+products:
+  enable: true
+  title: Queste sono alcune delle piante del club
+subscription:
+  enable: true
+  bg_image: images/amici000.png
+  title: Get Product Updates
+  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  placeholder: Your Email Address Here
+testimonial:
+  enable: true
+  title: I soci fondatori
+  testimonial_item:
+  - name: Donato
+    designation: maestro
+    image: ''
+    content: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+      when an unknown printer took a galley of type and scrambled it to make a type
+      specimen book. It has survived not only five centuries, but also the leap into
+      electronic typesetting, remaining essentially unchanged. It was popularised
+      in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+      and more recently with desktop publishing software like Aldus PageMaker including
+      versions of Lorem Ipsum
+  - name: ''
+    designation: ''
+    image: ''
+    content: ''
+  - name: Jonathon Andrew
+    designation: CEO, Themefisher
+    image: images/avater.png
+    content: A wonderful serenity has taken possession of my entire soul, like these
+      sweet mornings of spring which I enjoy with my whole heart. I am alone, and
+      feel the charm of existence in this spot, which was created for the bliss of
+      souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
+      sense of mere tranquil existence, that I neglect my talents.
+  - name: Jonathon Andrew
+    designation: CEO, Themefisher
+    image: images/avater.png
+    content: A wonderful serenity has taken possession of my entire soul, like these
+      sweet mornings of spring which I enjoy with my whole heart. I am alone, and
+      feel the charm of existence in this spot, which was created for the bliss of
+      souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
+      sense of mere tranquil existence, that I neglect my talents.
+  - name: Jonathon Andrew
+    designation: CEO, Themefisher
+    image: images/avater.png
+    content: A wonderful serenity has taken possession of my entire soul, like these
+      sweet mornings of spring which I enjoy with my whole heart. I am alone, and
+      feel the charm of existence in this spot, which was created for the bliss of
+      souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
+      sense of mere tranquil existence, that I neglect my talents.
