@@ -12,14 +12,5 @@ fields:
   config:
     maxSize: 64
   label: immagine
-- name: testo
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: testo
 pages:
 - exampleSite/content/italiano/chi-siamo
