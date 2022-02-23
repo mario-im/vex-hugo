@@ -42,6 +42,10 @@ name = "Blog"
 url = "blog/"
 weight = 1
 [[menu.main]]
+name = "Chi siamo"
+url = "chi-siamo/"
+weight = 2
+[[menu.main]]
 name = "Contact"
 url = "contact/"
 weight = 6
