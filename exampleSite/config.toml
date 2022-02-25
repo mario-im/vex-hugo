@@ -50,7 +50,7 @@ name = "Contact"
 url = "contact/"
 weight = 6
 [[menu.main]]
-name = "Review"
+name = "Soci"
 pre = "#"
 url = "testimonial"
 weight = 5
