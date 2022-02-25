@@ -9,11 +9,13 @@ office:
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
     eirmod tempor invidunt ut labore et dolore magna
 opennig_hour:
-  title: Calendario incontri 2022 | 20:30 - 23:30
+  title: 'Calendario incontri 2022 | Orario: dalle ore 20:30'
   day_time:
-  - 'Gennaio: '
-  - "Febbraio: \n"
-  - 'Marzo:'
+  - 'Gennaio: 14 -21'
+  - 'Febbraio: 4 - 18
+
+    '
+  - 'Marzo: 4 -18 - 24'
   - 'Aprile:'
   - 'Maggio:'
   - 'Giugno:'
