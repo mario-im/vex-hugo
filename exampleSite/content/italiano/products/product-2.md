@@ -18,6 +18,7 @@ discount_price: ""
 # product variation
 colors : ["black","white","gray"]
 sizes : ["small","medium","large"]
+essenza : ["ginepro"]
 
 # button link if you don't want to use snipcart. empty link will not show button
 button_link: ""
