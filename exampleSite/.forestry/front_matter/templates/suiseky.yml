@@ -1,0 +1,32 @@
+---
+label: Product
+hide_body: false
+fields:
+- type: text
+  name: titolo
+  label: titolo
+- type: datetime
+  name: data
+  label: data
+- type: image_gallery
+  name: images
+  label: images
+- type: text
+  name: descrizione
+  label: descrizione
+- type: text
+  name: prezzo
+  label: prezzo
+  hidden: false
+- type: text
+  name: discount_price
+  label: discount_price
+  hidden: true
+- type: tag_list
+  name: roccia
+  label: roccia
+- type: tag_list
+  name: dimensioni
+  label: dimensioni
+pages:
+- exampleSite/content/italiano/suiseky/Roccia.md
