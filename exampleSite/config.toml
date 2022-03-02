@@ -48,20 +48,20 @@ weight = 2
 [[menu.main]]
 name = "Contact"
 url = "contact/"
-weight = 6
+weight = 7
 [[menu.main]]
 name = "Review"
 pre = "#"
 url = "testimonial"
-weight = 5
+weight = 6
 [[menu.main]]
 name = "Blog"
 url = "blog/"
-weight = 4
+weight = 5
 [[menu.main]]
 name = "Suiseky"
 url = "suiseky/"
-weight = ""
+weight = 4
 [[menu.main]]
 name = "Essenze"
 url = "products/"
