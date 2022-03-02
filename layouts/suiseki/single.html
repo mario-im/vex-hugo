@@ -15,7 +15,7 @@
       </div>
       <div class="col-lg-6 col-md-7 offset-lg-1">
         <h1 class="mb-4">{{ .Title }}</h1>
-        {{ with .Params.descrizione}}<p><strong>Descrizione </strong>{{ delimit . ", " | title}}</p>{{ end }}
+        {{ with .Params.descrizione}}<p><strong>Descrizione </strong> </p>{{ end }}
         {{ with .Params.colors }}<p><strong>Colore: </strong>{{ delimit . ", " | title}}</p>{{ end }}
         {{ with .Params.sizes }}<p><strong>Sizes: </strong>{{ delimit . ", " | title}}</p>{{ end }}
         {{ with .Params.roccia }}<p><strong>Roccia: </strong>{{ delimit . ", " | title}}</p>{{ end }}
