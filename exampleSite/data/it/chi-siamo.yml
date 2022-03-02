@@ -1,8 +1,8 @@
 ---
 banner_chisiamo:
   enable: true
-  title: 'BonsaiBlu, chi siamo '
-  content: "Uh, Lorraine. How did you know I was here? No, Marty, we've already agreed
+  title: Chi siamo noi del Bonsaiblu?
+  content: Uh, Lorraine. How did you know I was here? No, Marty, we've already agreed
     that having information about the future could be extremely dangerous. Even if
     your intentions are good, they could backfire drastically. Whatever you've got
     to tell me I'll find out through the natural course of time. Ah well, sort of.
@@ -10,12 +10,7 @@ banner_chisiamo:
     to replace that clock. Thirty years ago, lightning struck that clock tower and
     the clock hasn't run since. We at the Hill Valley Preservation Society think it
     should be preserved exactly the way it is as part of our history and heritage.
-    Your, your right.\n\n"
-  image: images/bonsai100.png
-  button:
-    enable: false
-    label: Guarda i nostri lavori
-    link: products/
+    Your, your right.
 promo_chisiamo:
   enable: true
   image: images/bonsai001.png

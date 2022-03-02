@@ -42,6 +42,10 @@ name = "Blog"
 url = "blog/"
 weight = 1
 [[menu.main]]
+name = "Chi Siamo"
+url = "chi-siamo/"
+weight = 2
+[[menu.main]]
 name = "Suiseki"
 url = "suiseki/"
 weight = 4
@@ -58,10 +62,6 @@ weight = 6
 name = "Contact"
 url = "contact/"
 weight = 7
-[[menu.main]]
-name = "Chi Siamo"
-url = "chi-siamo/"
-weight = 2
 [[menu.main]]
 name = "Essenze"
 url = "products/"
