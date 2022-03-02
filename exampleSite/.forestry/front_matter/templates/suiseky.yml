@@ -3,7 +3,7 @@ label: suiseki
 hide_body: false
 fields:
 - type: text
-  name: titolo
+  name: title
   label: titolo
 - type: datetime
   name: data
