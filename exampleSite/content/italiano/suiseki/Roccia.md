@@ -7,7 +7,7 @@ images = ["/images/suiseki.jpg"]
 prezzo = ""
 roccia = ["granito"]
 colors = ["grigio" , "bianco"]
-titolo = "tempio"
+title = "tempio"
 
 +++
 
