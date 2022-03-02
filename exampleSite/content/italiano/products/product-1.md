@@ -7,7 +7,7 @@ images:
 - images/bonsai013.jpg
 - images/bonsai014.jpg
 descrizione: Scrivere qui una descrizione
-prezzo: ''
+prezzo: "10"
 essenza:
 - ginepro
 dimensioni:
