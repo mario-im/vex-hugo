@@ -47,6 +47,15 @@ sections:
   templates:
   - product
 - type: heading
+  label: Suiseky
+- type: directory
+  path: exampleSite/content/italiano/suiseky
+  label: Suiseky (it)
+  create: documents
+  match: "**/*"
+  templates:
+  - product
+- type: heading
   label: Contact
 - type: document
   path: exampleSite/content/english/contact/_index.md
