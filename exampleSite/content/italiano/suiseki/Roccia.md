@@ -6,6 +6,9 @@ discount_price = ""
 images = ["/images/suiseki.jpg"]
 prezzo = ""
 roccia = ["granito"]
+colors = ["grigio" , "bianco"]
 titolo = "tempio"
 
 +++
+
+Suiseki (in giapponese すいせき o 水石, letteralmente: "pietra lavorata dall'acqua") è l'arte giapponese di disporre pietre trovate in natura ed aventi un aspetto particolare in una maniera che sia gradevole e in grado di favorire la meditazione. Suiseki si compone delle parole sui ("acqua") e seki ("pietra"). Con lo stesso termine vengono indicate anche le singole pietre raccolte. Comune è inoltre la denominazione cinese pietra dello studioso (inglese scholar's rock, cinese gōngshí, 供石). In Corea sono note come suseok (수석 )
