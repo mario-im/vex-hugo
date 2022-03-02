@@ -1,5 +1,5 @@
 ---
-label: Suiseky
+label: suiseki
 hide_body: false
 fields:
 - type: text
@@ -32,5 +32,5 @@ fields:
   name: colors
   label: colore
 pages:
-- exampleSite/content/italiano/suiseky/Roccia.md
-- exampleSite/content/italiano/suiseky/pietra.md
+- exampleSite/content/italiano/suiseki/Roccia.md
+- exampleSite/content/italiano/suiseki/pietra.md

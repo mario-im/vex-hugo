@@ -47,21 +47,21 @@ sections:
   templates:
   - product
 - type: heading
-  label: Suiseky
+  label: suiseki
 - type: directory
-  path: exampleSite/content/italiano/suiseky
-  label: Suiseky (it)
+  path: exampleSite/content/italiano/suiseki
+  label: suiseki (it)
   create: documents
   match: "**/*"
   templates:
-  - suiseky
+  - suiseki
 - type: directory
-  path: exampleSite/content/english/suiseky
-  label: Suiseky (en)
+  path: exampleSite/content/english/suiseki
+  label: suiseki (en)
   create: documents
   match: "**/*"
   templates:
-  - suiseky
+  - suiseki
 - type: heading
   label: Contact
 - type: document
