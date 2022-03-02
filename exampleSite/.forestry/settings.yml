@@ -73,7 +73,7 @@ sections:
 - type: heading
   label: About
 - type: document
-  path: exampleSite/data/it/chi-siamo.yml
+  path: exampleSite/content/italiano/chi-siamo
   label: Chi siamo (it)
 - type: heading
   label: All Pages
