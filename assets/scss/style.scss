@@ -468,7 +468,13 @@ s.price {
 
 .product-info {
   text-align: center;
+  .price {
+    font-size: 100%;
+  }
+}
 
+.suiseky-info {
+  text-align: center;
   .price {
     font-size: 100%;
   }
