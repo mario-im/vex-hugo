@@ -27,7 +27,7 @@ fields:
   label: essenza
 - type: tag_list
   name: roccia
-  label: roccia  
+  label: roccia
 - type: tag_list
   name: dimensioni
   label: dimensioni
