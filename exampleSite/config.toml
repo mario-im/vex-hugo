@@ -42,10 +42,6 @@ name = "Blog"
 url = "blog/"
 weight = 1
 [[menu.main]]
-name = "Suiseky"
-url = ""
-weight = ""
-[[menu.main]]
 name = "Chi Siamo"
 url = "chi-siamo/"
 weight = 2
@@ -62,6 +58,10 @@ weight = 5
 name = "Blog"
 url = "blog/"
 weight = 4
+[[menu.main]]
+name = "Suiseky"
+url = ""
+weight = ""
 [[menu.main]]
 name = "Essenze"
 url = "products/"
