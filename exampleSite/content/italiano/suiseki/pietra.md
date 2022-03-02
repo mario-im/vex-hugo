@@ -6,7 +6,7 @@ discount_price = ""
 images = ["/images/suiseki.jpg"]
 prezzo = ""
 roccia = []
-title = ["Suiseki"]
+title = "Suiseki"
 colors = ["blu"]
 
 +++
