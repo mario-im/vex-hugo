@@ -54,7 +54,7 @@ sections:
   create: documents
   match: "**/*"
   templates:
-  - product
+  - suiseky
 - type: heading
   label: Contact
 - type: document
