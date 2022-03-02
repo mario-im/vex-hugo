@@ -28,6 +28,9 @@ fields:
 - type: tag_list
   name: dimensioni
   label: dimensioni
+- type: tag_list
+  name: colors
+  label: colore
 pages:
 - exampleSite/content/italiano/suiseky/Roccia.md
 - exampleSite/content/italiano/suiseky/pietra.md
