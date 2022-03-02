@@ -1,5 +1,5 @@
 ---
-banner-chisiamo:
+banner_chisiamo:
   enable: true
   title: 'BonsaiBlu, chi siamo '
   content: "Uh, Lorraine. How did you know I was here? No, Marty, we've already agreed
@@ -16,7 +16,7 @@ banner-chisiamo:
     enable: false
     label: Guarda i nostri lavori
     link: products/
-promo-chisiamo:
+promo_chisiamo:
   enable: true
   image: images/bonsai001.png
   title: Taglia, piega e modella
@@ -24,7 +24,7 @@ promo-chisiamo:
     deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
     obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
     consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
-about_product-chisiamo:
+about_product_chisiamo:
   enable: true
   title: Gli amici del club
   items:
@@ -46,7 +46,7 @@ about_product-chisiamo:
       enable: false
       label: Check Features
       link: "#/"
-testimonial-chisiamo:
+testimonial_chisiamo:
   enable: false
   title: I soci fondatori
   testimonial_item:
