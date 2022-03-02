@@ -1,7 +1,7 @@
 ---
 banner_chisiamo:
   enable: true
-  title: Chi siamo noi del Bonsaiblu^
+  title: Chi siamo noi del Bonsaiblu?
 promo_chisiamo:
   enable: true
   image: images/bonsai001.png
