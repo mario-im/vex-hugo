@@ -16,7 +16,7 @@
           </div>
           <img class="img-fluid" src="{{range first 1 .Params.images}}{{.|absURL}}{{end}}" alt="{{.Title}}">
         </div>
-        <div class="product-info">
+        <div class="suiseky-info">
         <h4 class="mb-2"><a href="{{.Permalink}}" class="link-title">{{.Title}}</a></h4>
         <p class="price">{{if .Params.discount_price}}{{site.Params.currency}}{{.Params.discount_price}}{{else}}{{site.Params.currency}}{{.Params.price}}{{end}}
           {{if .Params.discount_price}}<s class="price">{{site.Params.currency}}{{ .Params.price }}</s>{{end}}
