@@ -60,7 +60,7 @@ url = "blog/"
 weight = 4
 [[menu.main]]
 name = "Suiseky"
-url = ""
+url = "suiseky/"
 weight = ""
 [[menu.main]]
 name = "Essenze"
