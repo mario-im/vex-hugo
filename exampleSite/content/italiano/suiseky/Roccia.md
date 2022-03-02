@@ -7,5 +7,8 @@ images = ["/images/amici015.jpg", "/images/bonsai006.jpg", "/images/bonsai002.pn
 prezzo = ""
 roccia = ["granito"]
 titolo = "tempio"
+[menu.main]
+name = "Suiseky"
+weight = 4
 
 +++
