@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: heading
   label: Homepage
@@ -55,6 +55,13 @@ sections:
   match: "**/*"
   templates:
   - suiseky
+  - type: directory
+    path: exampleSite/content/english/suiseky
+    label: Suiseky (en)
+    create: documents
+    match: "**/*"
+    templates:
+    - suiseky
 - type: heading
   label: Contact
 - type: document
