@@ -55,13 +55,13 @@ sections:
   match: "**/*"
   templates:
   - suiseky
-  - type: directory
-    path: exampleSite/content/english/suiseky
-    label: Suiseky (en)
-    create: documents
-    match: "**/*"
-    templates:
-    - suiseky
+- type: directory
+  path: exampleSite/content/english/suiseky
+  label: Suiseky (en)
+  create: documents
+  match: "**/*"
+  templates:
+  - suiseky
 - type: heading
   label: Contact
 - type: document
