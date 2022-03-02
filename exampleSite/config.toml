@@ -42,7 +42,7 @@ name = "Blog"
 url = "blog/"
 weight = 1
 [[menu.main]]
-name = "suiseki"
+name = "Suiseki"
 url = "suiseki/"
 weight = 4
 [[menu.main]]
