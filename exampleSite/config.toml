@@ -3,7 +3,7 @@ defaultContentLanguage = "it"
 disableLanguages = ["en", "fr"]
 googleAnalytics = ""
 summarylength = "20"
-theme = "vex-hugo"
+theme = "vex-hugo-v1"
 title = "BonsaiBlu"
 [Languages.en]
 contentDir = "content/english"
