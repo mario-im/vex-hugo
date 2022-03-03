@@ -6,6 +6,7 @@ sans-serif;
 $secondary-font: 'Droid Serif',
 serif;
 $primary-color: #f9a743;
+$secondary-color: #FF6F61; /* colore pantone 2019*/
 $icon-font: 'themefisher-font' !important;
 
 /*--
@@ -97,6 +98,10 @@ a {
 
 .bg-orange {
   background: $primary-color;
+}
+
+.bg-color2 {
+  background: $secondary-color;
 }
 
 .bg-opacity {
