@@ -17,7 +17,7 @@ title = "Verso la cima"
 
 {{< vimeo 49718712 >}}
 
-{{< video autoplay="true" loop="true" src="https://object.readmorejoy.com/self/1576392627610795.mp4" >}}
+{{< video autoplay="true" loop="true" src="https://jsoncompare.org/LearningContainer/SampleFiles/Video/MP4/sample-mp4-file.mp4" >}}
 
 {{< video src="/holiday.webm" type="video/webm" preload="auto" >}}
-{{< video src="https://object.readmorejoy.com/self/1576392627610795.mp4" type="video/mp4" preload="auto" >}}
+{{< video src="https://jsoncompare.org/LearningContainer/SampleFiles/Video/MP4/sample-mp4-file.mp4" type="video/mp4" preload="auto" >}}
