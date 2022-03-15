@@ -17,3 +17,5 @@ title = "Verso la cima"
 
 {{< vimeo 49718712 >}}
 {{< vimeo id="49718712" class="flex-video" >}}
+
+{{< video autoplay="true" loop="true" src="https://object.readmorejoy.com/self/1576392627610795.mp4" >}}
