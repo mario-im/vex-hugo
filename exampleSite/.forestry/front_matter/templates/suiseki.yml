@@ -34,6 +34,9 @@ fields:
 - type: tag_list
   name: categoria
   label: categoria
+- type: tag_list
+  name: poetico
+  label: poetico
 pages:
 - exampleSite/content/italiano/suiseki/Roccia.md
 - exampleSite/content/italiano/suiseki/pietra.md
