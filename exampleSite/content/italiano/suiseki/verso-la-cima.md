@@ -13,3 +13,4 @@ roccia = []
 title = "Verso la cima"
 
 +++
+{{< youtube 09jf3ow9jfw >}}
