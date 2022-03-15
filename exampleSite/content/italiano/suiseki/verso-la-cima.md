@@ -14,3 +14,6 @@ title = "Verso la cima"
 
 +++
 {{< youtube wHDe5582RXw >}}
+
+{{< vimeo 49718712 >}}
+{{< vimeo id="49718712" class="flex-video" >}}
