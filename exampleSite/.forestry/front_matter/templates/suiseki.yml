@@ -37,6 +37,9 @@ fields:
 - type: tag_list
   name: poetico
   label: poetico
+- type: tag_list
+  name: origine
+  label: origine
 pages:
 - exampleSite/content/italiano/suiseki/Roccia.md
 - exampleSite/content/italiano/suiseki/pietra.md
