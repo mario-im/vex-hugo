@@ -17,6 +17,7 @@
         <h1 class="mb-4">{{ .Title }}</h1>
         {{ with .Params.descrizione}}<p><strong>Nome proprietario: </strong>{{ delimit . ", " | }}</p>{{ end }}
         {{ with .Params.colors }}<p><strong>Colore: </strong>{{ delimit . ", " | title}}</p>{{ end }}
+        {{ with .Params.categoria }}<p><strong>Categoria: </strong>{{ delimit . ", " | title}}</p>{{ end }}
         {{ with .Params.sizes }}<p><strong>Sizes: </strong>{{ delimit . ", " | title}}</p>{{ end }}
         {{ with .Params.roccia }}<p><strong>Roccia: </strong>{{ delimit . ", " | title}}</p>{{ end }}
         {{ with .Params.dimensioni }}<p><strong>Dimensioni: </strong>{{ delimit . ", " | }}</p>{{ end }}

@@ -31,6 +31,9 @@ fields:
 - type: tag_list
   name: colors
   label: colore
+- type: tag_list
+  name: categoria
+  label: categoria
 pages:
 - exampleSite/content/italiano/suiseki/Roccia.md
 - exampleSite/content/italiano/suiseki/pietra.md
