@@ -13,7 +13,7 @@ banner_chisiamo:
     Your, your right.
 promo_chisiamo:
   enable: true
-  - image: images/bonsai001.png
+  image: images/bonsai001.png
   title: Taglia, piega e modella
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
     deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
