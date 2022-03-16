@@ -2,6 +2,7 @@
 banner_chisiamo:
   enable: true
   title: Chi siamo noi del Bonsaiblu?
+  image: images/bonsai001.png
   content: Uh, Lorraine. How did you know I was here? No, Marty, we've already agreed
     that having information about the future could be extremely dangerous. Even if
     your intentions are good, they could backfire drastically. Whatever you've got
