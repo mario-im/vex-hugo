@@ -18,7 +18,7 @@ promo_chisiamo:
     Per qualche anno ho provato anche a dipingere, e poi avendo un grande amore per la natura trasmessa sicuramente da mio Nonno Filippo e dalla mia terra, la Puglia, mi porta ad incontrare il Bonsai. <br><br>
     Inizialmente praticato da autodidatta e poi con Salvatore Liporace, che mi ha portato fino a tutto quello che conosco.
 about_product_chisiamo:
-  enable: true
+  enable: false
   title: Gli amici del club
   items:
   - image: images/amici100.png
