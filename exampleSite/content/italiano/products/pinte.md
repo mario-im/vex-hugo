@@ -3,6 +3,7 @@ data = 2022-02-08T23:00:00Z
 descrizione = "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
 dimensioni = []
 discount_price = ""
+draft = true
 essenza = []
 images = ["/images/amici014.jpg", "/images/amici009.jpg", "/images/amici016.jpg", "/images/amici006.jpg"]
 titolo = "piante piante"
