@@ -49,10 +49,12 @@ promo:
   enable: true
   image: images/bonsai001.png
   title: Taglia, piega e modella
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  content: "Molti pensano che l'arte del bonsai sia difficile e sai che c'è, hanno
+    ragione.\n\nSai perché? Siamo pieni di preconcetti e d'informazioni sbagliate.\n\nMa
+    tranquilli, ci siamo passati tutti. Il club nasce proprio per questo, aiutare,
+    confrontarsi e imparare. Tutto questo ti aiuterà a far crescere e lavorare nel
+    migliore dei modi le tue piante. \n\nE se le piante non dovessero bastarti, ricorda
+    che esistono anche i Suiseki"
 about_product:
   enable: true
   title: Gli amici del club
