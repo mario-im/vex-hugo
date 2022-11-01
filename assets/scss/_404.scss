@@ -1,154 +1,68 @@
-$bgColor: #f7f7f7;
-$jaggedDistance: 32px;
-
-// boo
-$booSize: $jaggedDistance * 5;
-$booBg: $bgColor;
-$booShadow: darken($booBg, 5%);
-
-// face
-$booFaceSize: round($jaggedDistance / 1.3333);
-$booFaceColor: #9b9b9b;
-
-// ===========
-
-@keyframes floating {
-	0% {
-		transform: translate3d(0, 0, 0);
-	}
-	45% {
-		transform: translate3d(0, -10%, 0);
-	}
-  55% {
-		transform: translate3d(0, -10%, 0);
-	}
-	100% {
-		transform: translate3d(0, 0, 0);
-	}
+.scontainer{
+  min-height: 100vh;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-content: center;
+  -ms-flex-line-pack: center;
+  align-content: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
-@keyframes floatingShadow {
-	0% {
-		transform: scale(1);
-	}
-	45% {
-		transform: scale(.85);
-	}
-  55% {
-		transform: scale(.85);
-	}
-	100% {
-		transform: scale(1);
-	}
+.page404 {
+  width: 400px;
+  height: auto;
 }
 
-// ===========
-
-@mixin border-bottom-jagged($size, $color-outer) {
-  position: relative;
-  padding-bottom: $size;
-
-  &::after {
-    content: '';
-    display: block;
-    position: absolute;
-    left: -($size / 1.7);
-    bottom: -($jaggedDistance / 3.85);
-    width: calc(100% + #{$size});
-    height: $size;
-    background-repeat: repeat-x;
-    background-size: $size $size;
-    background-position: left bottom;
-    background-image: linear-gradient(-45deg, $color-outer ($size / 2), transparent 0),
-                      linear-gradient(45deg, $color-outer ($size / 2), transparent 0),
-                      linear-gradient(-45deg, $booFaceColor ($size / 1.7), transparent 0),
-                      linear-gradient(45deg, $booFaceColor ($size / 1.7), transparent 0);
-  }
+#tree{
+  stroke: #59513C;
 }
 
-// ===========
-
-body {
-  background-color: $bgColor;
+#wood-stump{
+  stroke: #59513C;
+  -webkit-animation: wood-stump 3s infinite ease-in-out;
+  -moz-animation: wood-stump 3s infinite ease-in-out;
+  -o-animation: wood-stump 3s infinite ease-in-out;
+  animation: wood-stump 3s infinite ease-in-out;
 }
 
-.container {
-  font-family: 'Varela Round', sans-serif;
-  color: $booFaceColor;
-  position: relative;
-  height: 100vh;
-  text-align: center;
-  font-size: $jaggedDistance / 2;
+@-webkit-keyframes wood-stump{ 0% { -webkit-transform: translate(100px)  } 50% { -webkit-transform:  translate(50px); } 100% { -webkit-transform:  translate(100px); } }
+@-moz-keyframes wood-stump{ 0% { -moz-transform:  translate(100px);  } 50% { -moz-transform:  translate(50px); } 100% { -moz-transform:  translate(100px); } }
+@-o-keyframes wood-stump{ 0% { -o-transform:  translate(100px);  } 50% { -o-transform:  translate(50px); } 100% { -o-transform:  translate(100px); } }
+@keyframes wood-stump{ 0% {-webkit-transform:  translate(100px);-moz-transform:  translate(100px);-ms-transform:   translate(100px);transform:  translate(100px);  } 50% {-webkit-transform:  translate(0px);-moz-transform:  translate(0px);-ms-transform:  translate(0px);transform:  translate(0px); } 100% {-webkit-transform:  translate(100px); -moz-transform:  translate(100px);-ms-transform:  translate(100px);transform:  translate(100px); } }
 
-  h1 {
-    font-size: $jaggedDistance;
-    margin-top: $jaggedDistance;
-  }
+
+#leaf{
+  stroke: #59513C;
+  -webkit-animation: leaf 7s infinite ease-in-out;
+  -moz-animation: leaf 7s infinite ease-in-out;
+  -o-animation: leaf 7s infinite ease-in-out;
+  animation: leaf 7s infinite ease-in-out;
 }
 
-.boo-wrapper {
-  width: 100%;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  paddig-top: $jaggedDistance * 2;
-  paddig-bottom: $jaggedDistance * 2;
+@-webkit-keyframes leaf{ 0% { -webkit-transform: translate(0, 70px)  } 50% { -webkit-transform:  translate(0, 50px); } 100% { -webkit-transform:  translate(0, 70px); } }
+@-moz-keyframes leaf{ 0% { -moz-transform:  translate(0, 70px);  } 50% { -moz-transform:  translate(0, 50px); } 100% { -moz-transform:  translate(0, 70px); } }
+@-o-keyframes leaf{ 0% { -o-transform:  translate(0, 70px);  } 50% { -o-transform:  translate(0, 50px); } 100% { -o-transform:  translate(0, 70px); } }
+@keyframes leaf{ 0% {-webkit-transform:  translate(0, 70px);-moz-transform:  translate(0, 70px);-ms-transform:   translate(0, 70px);transform:  translate(0, 70px);  } 50% {-webkit-transform:  translate(0px);-moz-transform:  translate(0px);-ms-transform:  translate(0px);transform:  translate(0px); } 100% {-webkit-transform:  translate(0, 70px); -moz-transform:  translate(0, 70px);-ms-transform:  translate(0, 70px);transform:  translate(0, 70px); } }
+
+#border{
+  stroke: #59513C;
 }
 
-.boo {
-  width: $booSize;
-  height: $booSize + ($booSize * .15);
-  background-color: $booBg;
-  margin-left: auto;
-  margin-right: auto;
-  border: (($jaggedDistance / 1.65)  - ($jaggedDistance /2)) solid $booFaceColor;
-  border-bottom: 0;
-  overflow: hidden;
-  border-radius: ($booSize / 2) ($booSize / 2) 0 0;
-  box-shadow: -($jaggedDistance / 2) 0 0 2px rgba($booShadow, .5) inset;
-  @include border-bottom-jagged($jaggedDistance, $bgColor);
-  animation: floating 3s ease-in-out infinite;
-
-  .face {
-    width: $booFaceSize;
-    height: $jaggedDistance / 10;
-    border-radius: 5px;
-    background-color: $booFaceColor;
-    position: absolute;
-    left: 50%;
-    bottom: $jaggedDistance + $booFaceSize;
-    transform: translateX(-50%);
-
-    &::before,
-    &::after {
-      content: '';
-      display: block;
-      width: $booFaceSize / 4;
-      height: $booFaceSize / 4;
-      background-color: $booFaceColor;
-      border-radius: 50%;
-      position: absolute;
-      bottom: $jaggedDistance + ($booFaceSize / 3);
-    }
-
-    &::before {
-      left: -$booFaceSize;
-    }
-
-    &::after {
-      right: -$booFaceSize;
-    }
-  }
+#Page{
+ fill: #59513C;
 }
-
-.shadow {
-  width: $booSize - $jaggedDistance;
-  height: $jaggedDistance / 2;
-  background-color: rgba($booShadow, .75);
-  margin-top: $jaggedDistance * 1.25;
-  margin-right: auto;
-  margin-left: auto;
-  border-radius: 50%;
-  animation: floatingShadow 3s ease-in-out infinite;
+#notFound{
+  fill: #A7444B;
 }
