@@ -13,7 +13,7 @@ banner:
   image: images/bonsai100.png
   button:
     enable: true
-    label: Perché non ci vieni a trovare?
+    label: Perché non vieni a trovarci?
     link: Contact/
 features:
   enable: false
