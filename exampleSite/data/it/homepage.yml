@@ -12,7 +12,7 @@ banner:
     label: Guarda i nostri lavori
     link: products/
 features:
-  enable: true
+  enable: false
   title: I principi del club
   image: images/bonsai002.png
   left_side:
