@@ -56,7 +56,7 @@ promo:
     migliore dei modi le tue piante. \n\nE se le piante non dovessero bastarti, ricorda
     che esistono anche i Suiseki!"
 about_product:
-  enable: true
+  enable: false
   title: Gli amici del club
   items:
   - image: images/amici100.png
