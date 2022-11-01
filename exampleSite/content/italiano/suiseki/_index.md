@@ -11,6 +11,5 @@ descrizione:
   pietra dello studioso (inglese scholar''s rock, cinese gōngshí, 供石). In Corea sono
   note come suseok (수석 ). Non si tratta di pietre qualsiasi, ma di pietre dotate di
   notevole forza espressiva, con una particolare forma, colore e struttura.'
-draft: true
 
 ---
