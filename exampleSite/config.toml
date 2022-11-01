@@ -28,10 +28,6 @@ unsafe = true
 [[menu.footer]]
 name = "Contatti"
 url = "contact/"
-weight = 2
-[[menu.footer]]
-name = "Blog"
-url = "blog/"
 weight = 1
 [[menu.main]]
 name = "Chi Siamo"
