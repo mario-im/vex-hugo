@@ -12,7 +12,7 @@ banner:
     Se l’argomento ha suscitato qualche interesse, siamo a disposizione per fornire tutti i necessari dettagli e condividere le nostre esperienze.
   image: images/bonsai100.png
   button:
-    enable: false
+    enable: true
     label: Perché non ci vieni a trovare?
     link: Contact/
 features:
