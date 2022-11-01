@@ -3,10 +3,11 @@ banner_chisiamo:
   enable: true
   title: Chi siamo noi del Bonsaiblu?
   image: images/bonsai001.png
-  content: "Siamo un grupo di amici che si ritrova per condividere le proprie esperienze
-    sui bonsai.\n\nCi ritroviamo circa due o tre volte al mese, dipende dai lavori
-    delle nostre piante, ma non solo. \n\nPuò capitare che il tempo non basti e alcuni
-    componenti del Club si ritrovano per lavorare insieme le varie essenze.\n\n"
+  content: |+
+    Siamo un grupo di amici che si ritrova per condividere la passione e l'esperienza di lavorazione sui bonsai.
+
+    Grazie ai consigli del Maestro Donato Donisi e con 36 anni d'esperienza e passione del club, lavoriamo le nostre piante e condividendo tutto quello che impariamo.
+
 promo_chisiamo:
   enable: true
   image: images/bonsai001.png
