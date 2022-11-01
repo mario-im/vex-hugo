@@ -40,7 +40,7 @@ about_product_chisiamo:
       label: Check Features
       link: "#/"
 testimonial_chisiamo:
-  enable: false
+  enable: true
   title: I soci fondatori
   testimonial_item:
   - name: Donato
