@@ -3,15 +3,10 @@ banner_chisiamo:
   enable: true
   title: Chi siamo noi del Bonsaiblu?
   image: images/bonsai001.png
-  content: Uh, Lorraine. How did you know I was here? No, Marty, we've already agreed
-    that having information about the future could be extremely dangerous. Even if
-    your intentions are good, they could backfire drastically. Whatever you've got
-    to tell me I'll find out through the natural course of time. Ah well, sort of.
-    Save the clock tower, save the clock tower. Mayor Wilson is sponsoring an initiative
-    to replace that clock. Thirty years ago, lightning struck that clock tower and
-    the clock hasn't run since. We at the Hill Valley Preservation Society think it
-    should be preserved exactly the way it is as part of our history and heritage.
-    Your, your right.
+  content: "Siamo un grupo di amici che si ritrova per condividere le proprie esperienze
+    sui bonsai.\n\nCi ritroviamo circa due o tre volte al mese, dipende dai lavori
+    delle nostre piante, ma non solo. \n\nPuò capitare che il tempo non basti e alcuni
+    componenti del Club si ritrovano per lavorare insieme le varie essenze.\n\n"
 promo_chisiamo:
   enable: true
   image: images/bonsai001.png
