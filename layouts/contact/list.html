@@ -31,15 +31,15 @@
     <div class="row justify-content-center">
       <div class="col-lg-8">
         <h2 class="font-weight-bold mb-4">{{ .Title | markdownify }}</h2>
-        <form action="{{ site.Params.contact_form_action }}" method="POST" class="row">
+        <form action="{{ site.Params.contact_form_action }}" method="POST" class="row" netlify>
           <div class="col-lg-6 mb-3">
-            <input type="text" class="form-control mb-2" id="name" name="name" placeholder="Your Name">
+            <input type="text" class="form-control mb-2" id="name" name="name" placeholder="Il tuo nome">
           </div>
           <div class="col-lg-6 mb-3">
-            <input type="email" class="form-control mb-2" id="email" name="email" placeholder="Your Email">
+            <input type="email" class="form-control mb-2" id="email" name="email" placeholder="La tua Email">
           </div>
           <div class="col-12 mb-3">
-            <textarea name="message" id="message" class="form-control mb-2" placeholder="Your Message"></textarea>
+            <textarea name="message" id="message" class="form-control mb-2" placeholder="Scrivi il tuo messaggio"></textarea>
           </div>
           <div class="col-12 text-right">
             <button type="submit" value="send" class="btn btn-main btn-main-sm">{{ i18n "send" }}</button>
