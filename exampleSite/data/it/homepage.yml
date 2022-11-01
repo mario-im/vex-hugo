@@ -72,7 +72,7 @@ about_product:
       label: Check Features
       link: "#/"
 products:
-  enable: true
+  enable: false
   title: Queste sono alcune delle piante del club
 subscription:
   enable: false
