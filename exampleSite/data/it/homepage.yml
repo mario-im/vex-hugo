@@ -8,7 +8,7 @@ banner:
     hic at, nostrum nihil!
   image: images/bonsai100.png
   button:
-    enable: true
+    enable: false
     label: Guarda i nostri lavori
     link: products/
 features:
