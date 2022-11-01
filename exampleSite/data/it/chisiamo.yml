@@ -12,10 +12,17 @@ promo_chisiamo:
   enable: true
   image: images/bonsai001.png
   title: Donato Danisi
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  content: "Ho sempre avuto nel mio dna tanto piacere nel creare, sin da bambino disegnavo
+    e ritagliavo carta per trasformala in forme di vario genere, poi ho dedicato il
+    mio tempo libero al traforo, non so quanti hanno avuto l'occasione di provare
+    a ritagliare tutto ciò che i disegni a disposizione offrivano, fra i più classici
+    vi erano i monumenti storici: Duomo di Milano, Torre Eiffel, Arco della Pace,
+    Mole Antoneliana, e tanto altro. \n\nIn seguito ho provato con il modellismo in
+    plastica: aerei, navi e carri armati, e successivamente con il montaggio di galeoni
+    in legno. \n\nPer qualche anno ho provato anche a dipingere, e poi avendo un grande
+    amore per la natura trasmessa sicuramente da mio Nonno Filippo e dalla mia terra,
+    la Puglia, mi porta ad incontrare il Bonsai. \n\nInizialmente praticato da autodidatta
+    e poi con Salvatore Liporace, che mi ha portato fino a tutto quello che conosco."
 about_product_chisiamo:
   enable: true
   title: Gli amici del club
