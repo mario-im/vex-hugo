@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contatti
 description: this is a meta description
 office:
   title: Dove ci incontriamo

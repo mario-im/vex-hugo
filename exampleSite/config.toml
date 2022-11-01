@@ -26,6 +26,10 @@ weight = "1"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
+name = "Contatti"
+url = "contact/"
+weight = 2
+[[menu.footer]]
 name = "Privacy Policy"
 url = "privacy-policy/"
 weight = 4
@@ -33,10 +37,6 @@ weight = 4
 name = "Terms & Conditions"
 url = "terms-conditions/"
 weight = 3
-[[menu.footer]]
-name = "Contact"
-url = "contact/"
-weight = 2
 [[menu.footer]]
 name = "Blog"
 url = "blog/"
@@ -54,12 +54,12 @@ name = "Blog"
 url = "blog/"
 weight = 5
 [[menu.main]]
-name = "Review"
+name = "I soci fondatori"
 pre = "#"
 url = "testimonial"
 weight = 6
 [[menu.main]]
-name = "Contact"
+name = "Contatti"
 url = "contact/"
 weight = 7
 [[menu.main]]
