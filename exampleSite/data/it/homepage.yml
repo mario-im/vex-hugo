@@ -81,7 +81,7 @@ subscription:
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   placeholder: Your Email Address Here
 testimonial:
-  enable: true
+  enable: false
   title: I soci fondatori
   testimonial_item:
   - name: Donato
