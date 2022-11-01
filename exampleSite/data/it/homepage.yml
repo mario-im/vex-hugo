@@ -13,8 +13,8 @@ banner:
   image: images/bonsai100.png
   button:
     enable: false
-    label: Guarda i nostri lavori
-    link: products/
+    label: Perché non ci vieni a trovare?
+    link: Contact/
 features:
   enable: false
   title: I principi del club
