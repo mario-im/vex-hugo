@@ -1,6 +1,6 @@
 ---
 title: Contatti
-description: this is a meta description
+description: Qui puoi trovare come contattare il club del Bonsai Blu di Milano
 office:
   title: Dove ci incontriamo
   mobile: '0124857985320'
