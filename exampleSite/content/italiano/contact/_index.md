@@ -25,6 +25,7 @@ opennig_hour:
   - 'Dicembre:'
 Maps:
   title: Maps
+  alt:
   images: images/maps.png
 
 ---
