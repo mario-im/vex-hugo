@@ -42,14 +42,9 @@ name = "Blog"
 url = "blog/"
 weight = 5
 [[menu.main]]
-name = "I soci"
-pre = "#"
-url = "testimonial_chisiamo"
-weight = 6
-[[menu.main]]
 name = "Contatti"
 url = "contact/"
-weight = 7
+weight = 6
 [[menu.main]]
 name = "Essenze"
 url = "products/"
