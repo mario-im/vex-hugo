@@ -43,6 +43,10 @@ testimonial_chisiamo:
   enable: true
   title: I soci fondatori
   testimonial_item:
+  - name: Luca
+    designation: ''
+    image: ''
+    content: ''
   - name: Donato
     designation: maestro
     image: images/donato.png
