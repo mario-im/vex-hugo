@@ -41,7 +41,7 @@ about_product_chisiamo:
       link: "#/"
 testimonial_chisiamo:
   enable: true
-  title: I soci fondatori
+  title: I soci
   testimonial_item:
   - name: Donato
     designation: maestro
