@@ -44,7 +44,7 @@ weight = 5
 [[menu.main]]
 name = "I soci"
 pre = "#"
-url = "testimonial-chisiamo"
+url = "testimonial_chisiamo"
 weight = 6
 [[menu.main]]
 name = "Contatti"
