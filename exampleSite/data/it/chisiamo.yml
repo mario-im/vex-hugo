@@ -43,14 +43,6 @@ testimonial_chisiamo:
   enable: true
   title: I soci fondatori
   testimonial_item:
-  - name: Fabio
-    designation: ''
-    image: ''
-    content: ''
-  - name: Luca
-    designation: ''
-    image: ''
-    content: ''
   - name: Donato
     designation: maestro
     image: images/donato.png
@@ -59,3 +51,11 @@ testimonial_chisiamo:
       dei risultati , anche se non do peso quando ciò non avviene. Penso sia riduttivo
       per una pianta restare nel proprio giardino, abbiamo il dovere di far ammirare
       le nostre opere.
+  - name: Fabio
+    designation: ''
+    image: ''
+    content: ''
+  - name: Luca
+    designation: ''
+    image: ''
+    content: ''
