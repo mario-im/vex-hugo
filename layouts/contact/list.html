@@ -14,15 +14,13 @@
           {{end }}
           {{with .location }} <li class="mb-3"><i class="tf-ion-ios-location mr-2"></i>{{ . }}
           </li>{{ end }}
-
+<!-- maps -->
           <li class="mb-3">
           {{ with .Params.Maps }}
-
           {{with .images}}   <img class="img-fluid" src="{{ .image | absURL }}" alt="">
-
             </li>{{ end }}
             {{ end }}
-
+<!-- end maps -->
 
         </ul>
       </div>
