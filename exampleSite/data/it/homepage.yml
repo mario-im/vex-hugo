@@ -88,7 +88,7 @@ subscription:
   placeholder: Your Email Address Here
 testimonial:
   enable: true
-  title: I soci fondatori
+  title: I fondatori
   testimonial_item:
   - name: Donato
     designation: maestro
