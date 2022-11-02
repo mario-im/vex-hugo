@@ -6,7 +6,7 @@ office:
   mobile: "- "
   email: " -"
   location: 6/a, Via De Amicis - 20089 Rozzano (MI)
-  content: Scivici per entrare nel nostro gruppo Whatsapp e rimanere sempre aggiornato
+  content: Scrivici per entrare nel nostro gruppo Whatsapp e rimanere sempre aggiornato
     su tutti i nostri incontri.
 opennig_hour:
   title: Calendario incontri 2022 | dalle ore 20:30
