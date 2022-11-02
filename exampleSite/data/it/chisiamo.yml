@@ -43,6 +43,10 @@ testimonial_chisiamo:
   enable: true
   title: I soci fondatori
   testimonial_item:
+  - name: Fabio
+    designation: ''
+    image: ''
+    content: ''
   - name: Luca
     designation: ''
     image: ''
