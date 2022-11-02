@@ -3,25 +3,22 @@ banner_chisiamo:
   enable: true
   title: Chi siamo noi del Bonsaiblu?
   image: images/bonsai001.png
-  content: Uh, Lorraine. How did you know I was here? No, Marty, we've already agreed
-    that having information about the future could be extremely dangerous. Even if
-    your intentions are good, they could backfire drastically. Whatever you've got
-    to tell me I'll find out through the natural course of time. Ah well, sort of.
-    Save the clock tower, save the clock tower. Mayor Wilson is sponsoring an initiative
-    to replace that clock. Thirty years ago, lightning struck that clock tower and
-    the clock hasn't run since. We at the Hill Valley Preservation Society think it
-    should be preserved exactly the way it is as part of our history and heritage.
-    Your, your right.
+  content: |+
+    Siamo un grupo di amici che si ritrova per condividere la passione e l'esperienza di lavorazione sui bonsai.
+
+    Grazie ai consigli del Maestro Donato Danisi e con 36 anni d'esperienza e passione del club, lavoriamo le nostre piante e condividendo tutto quello che impariamo.
+
 promo_chisiamo:
   enable: true
-  image: images/bonsai001.png
-  title: Taglia, piega e modella
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  image: images/donato.png
+  title: Donato Danisi
+  content: |-
+    Ho sempre avuto nel mio dna tanto piacere nel creare, sin da bambino disegnavo e ritagliavo carta per trasformala in forme di vario genere, poi ho dedicato il mio tempo libero al traforo, non so quanti hanno avuto l'occasione di provare a ritagliare tutto ciò che i disegni a disposizione offrivano, fra i più classici vi erano i monumenti storici: Duomo di Milano, Torre Eiffel, Arco della Pace, Mole Antoneliana, e tanto altro. <br><br>
+    In seguito ho provato con il modellismo in plastica: aerei, navi e carri armati, e successivamente con il montaggio di galeoni in legno. <br><br>
+    Per qualche anno ho provato anche a dipingere, e poi avendo un grande amore per la natura trasmessa sicuramente da mio Nonno Filippo e dalla mia terra, la Puglia, mi porta ad incontrare il Bonsai. <br><br>
+    Inizialmente praticato da autodidatta e poi con Salvatore Liporace, che mi ha portato fino a tutto quello che conosco.
 about_product_chisiamo:
-  enable: true
+  enable: false
   title: Gli amici del club
   items:
   - image: images/amici100.png
@@ -43,33 +40,22 @@ about_product_chisiamo:
       label: Check Features
       link: "#/"
 testimonial_chisiamo:
-  enable: false
+  enable: true
   title: I soci fondatori
   testimonial_item:
   - name: Donato
     designation: maestro
-    image: ''
-    content: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-      Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-      when an unknown printer took a galley of type and scrambled it to make a type
-      specimen book. It has survived not only five centuries, but also the leap into
-      electronic typesetting, remaining essentially unchanged. It was popularised
-      in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-      and more recently with desktop publishing software like Aldus PageMaker including
-      versions of Lorem Ipsum
+    image: images/donato.png
+    content: Trovo sia sempre eccitante prendere parte ad un evento, si dice che l'importante
+      non è vincere ma partecipare, avendo spirito agonistico spero sempre di ottenere
+      dei risultati , anche se non do peso quando ciò non avviene. Penso sia riduttivo
+      per una pianta restare nel proprio giardino, abbiamo il dovere di far ammirare
+      le nostre opere.
   - name: Fabio
-    designation: 'Maestro '
-    image: images/avater.png
-    content: A wonderful serenity has taken possession of my entire soul, like these
-      sweet mornings of spring which I enjoy with my whole heart. I am alone, and
-      feel the charm of existence in this spot, which was created for the bliss of
-      souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
-      sense of mere tranquil existence, that I neglect my talents.
-  - name: Nic
-    designation: Appassionato
-    image: images/avater.png
-    content: A wonderful serenity has taken possession of my entire soul, like these
-      sweet mornings of spring which I enjoy with my whole heart. I am alone, and
-      feel the charm of existence in this spot, which was created for the bliss of
-      souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
-      sense of mere tranquil existence, that I neglect my talents.
+    designation: ''
+    image: ''
+    content: ''
+  - name: Luca
+    designation: ''
+    image: ''
+    content: ''
