@@ -18,14 +18,12 @@
         </ul>
       </div>
       {{ end }}
+
       {{ with .Params.Maps }}
       <div class="col-md-6 text-center mb-5 mb-lg-0">
-        <img class="img-fluid" src="{{ .image | absURL }}" alt="">
+      {{with .images}}   <img class="img-fluid" src="{{ .image | absURL }}" alt="">{{ end }}
       </div>{{ end }}
-<!--
-  {{ with .Params.Maps }}
 
--->
 
 
 
