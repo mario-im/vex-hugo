@@ -16,7 +16,7 @@
           </li>{{ end }}
 <!-- maps -->
           <div class="mb-3">
-          {{ with .Params.Maps }}
+          {{ with .Maps }}
             <img class="img-fluid" src="{{ .image | absURL }}" alt="{{ .alt | markdownify }}"><p>{{ .alt | markdownify }}</p>
             </div>
             {{ end }}
