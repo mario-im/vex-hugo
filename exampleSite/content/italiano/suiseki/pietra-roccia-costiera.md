@@ -1,12 +1,12 @@
 +++
-categoria = []
+categoria = ["Iwagata-ishi"]
 colors = []
 data = ""
 descrizione = ["Luigi Garlaschi"]
-dimensioni = []
+dimensioni = ["13cm x 6cm x 6cm"]
 discount_price = ""
 images = ["/images/roberto-ferrari-l2a.jpg"]
-origine = []
+origine = ["Liguria"]
 poetico = []
 prezzo = ""
 roccia = []
