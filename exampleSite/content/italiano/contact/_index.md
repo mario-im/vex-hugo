@@ -26,6 +26,6 @@ opennig_hour:
 Maps:
   title: Maps
   alt:
-  images: images/maps.png
+  image: images/maps.png
 
 ---
