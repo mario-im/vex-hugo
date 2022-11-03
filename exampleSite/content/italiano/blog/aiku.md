@@ -35,7 +35,7 @@ _Bordonaro e Gabriele Caeti._
 
 _Per non farci mancare nulla c'è anche una grande parte di Giappone che esiste:_
 
-_Nel Paese del Sol Levante non si vive di solo tè! MIRABILIA ci farà esplorare i profumi e le_
+_Nel Paese del Sol Levante non si vive di solo tè!_ [_MIRABILIA_](https://www.mirabilia.coffee/ "Mirabilia Cofee") _ci farà esplorare i profumi e le_
 
 _sensazioni del caffè filtrato. Chi lo vorrà potrà assaggiare diverse tipologie di caffè e_
 
