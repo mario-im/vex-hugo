@@ -25,7 +25,7 @@ opennig_hour:
   - 'Dicembre:'
 Maps:
   title: Maps
-  alt:
-  image: /images/maps.png
+  alt: mappa con l'indirizzo del ritrovo del BonsaiBlu
+  image: "/images/maps.png"
 
 ---
