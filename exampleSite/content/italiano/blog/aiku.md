@@ -5,52 +5,54 @@ image = "/images/aiku.jpeg"
 title = "A.I.ku"
 
 +++
-_Il 19/11/2022 BonsaiBlu parteciperà all'esposizione A.I.ku; è possibile partecipare gratuitamente prenotando il biglietto_ [_qui_](https://bit.ly/AIku-19Novembre2022 "Biglietti A.I.ku")
+##### Il 19/11/2022 BonsaiBlu parteciperà all'esposizione A.I.ku; è possibile partecipare gratuitamente prenotando il biglietto [qui](https://bit.ly/AIku-19Novembre2022 "Biglietti A.I.ku")
 
-_Informazioni sull'evento_
+##### 
 
-_A.I.ku_
+**Informazioni sull'evento**
 
-_Benvenuti al_ [_Mixtape Milano_](https://www.mixtapemilano.it/ "Mixtape Milano") _per il primo evento sul Giappone che esiste, non esiste,_
+A.I.ku
 
-_esisterà o non esisterà._
+Benvenuti al [Mixtape Milano](https://www.mixtapemilano.it/ "Mixtape Milano") per il primo evento sul Giappone che esiste, non esiste,
 
-_Non si chiama Giappone di Schrodinger solo per non scomodare un cliché ma non_
+esisterà o non esisterà.
 
-_sarebbe sbagliato chiamarlo così._
+> Non si chiama Giappone di Schrodinger solo per non scomodare un cliché ma non
+>
+> sarebbe sbagliato chiamarlo così.
 
-_All'interno dell'evento potrete ammirare i meravigliosi haiku scritti da un'intelligenza_
+All'interno dell'evento potrete ammirare i meravigliosi haiku scritti da un'intelligenza
 
-_artificiale e gli incredibili artwork che li hanno ispirati, anche questi creati da un_
+artificiale e gli incredibili artwork che li hanno ispirati, anche questi creati da un
 
-_potentissimo computer in grado di calcolare infinite forme e colori nello spazio latente._
+potentissimo computer in grado di calcolare infinite forme e colori nello spazio latente.
 
-_Come immaginano il Giappone le macchine? Cosa vuol dire mangiare ramen di pollo_
+Come immaginano il Giappone le macchine? Cosa vuol dire mangiare ramen di pollo
 
-_cybernetico? E le insalate di mille valvole?_
+cybernetico? E le insalate di mille valvole?
 
-_Scopritelo partecipando all'esposizione di arte cibernetica giapponese di Giulio_
+Scopritelo partecipando all'esposizione di arte cibernetica giapponese di Giulio
 
-_Bordonaro e Gabriele Caeti._
+Bordonaro e Gabriele Caeti.
 
-_Per non farci mancare nulla c'è anche una grande parte di Giappone che esiste:_
+Per non farci mancare nulla c'è anche una grande parte di Giappone che esiste:
 
-_Nel Paese del Sol Levante non si vive di solo tè!_ [_MIRABILIA_](https://www.mirabilia.coffee/ "Mirabilia Cofee") _ci farà esplorare i profumi e le_
+Nel Paese del Sol Levante non si vive di solo tè! [MIRABILIA](https://www.mirabilia.coffee/ "Mirabilia Cofee") ci farà esplorare i profumi e le
 
-_sensazioni del caffè filtrato. Chi lo vorrà potrà assaggiare diverse tipologie di caffè e_
+sensazioni del caffè filtrato. Chi lo vorrà potrà assaggiare diverse tipologie di caffè e
 
-_scoprire quanto può essere coinvolgente il mondo del caffè lento._
+scoprire quanto può essere coinvolgente il mondo del caffè lento.
 
-_L'esposizione dei bonsai di BONSAI BLU ci darà l'opportunità di conoscere e approfondire_
+L'esposizione dei bonsai di BONSAI BLU ci darà l'opportunità di conoscere e approfondire
 
-_l'antica arte dei bonsai. L'affermato istruttore Donato Danisi sarà presente per rispondere_
+l'antica arte dei bonsai. L'affermato istruttore Donato Danisi sarà presente per rispondere
 
-_alle domande dei partecipanti._
+alle domande dei partecipanti.
 
-_Visitando il kintsugi corner di L'ELEFANTE BLU scopriremo e approfondiremo la tecnica di_
+Visitando il kintsugi corner di L'ELEFANTE BLU scopriremo e approfondiremo la tecnica di
 
-_restauro giapponese che, fin da tempi molto antichi, è applicata agli oggetti ceramici._
+restauro giapponese che, fin da tempi molto antichi, è applicata agli oggetti ceramici.
 
-_Grazie ai documentari di Tommaso Montagnoli potremo immergerci e vagabondare tra le_
+Grazie ai documentari di Tommaso Montagnoli potremo immergerci e vagabondare tra le
 
-_vie di Tokyo e immaginare i sapori di Okinawa._
+vie di Tokyo e immaginare i sapori di Okinawa.
