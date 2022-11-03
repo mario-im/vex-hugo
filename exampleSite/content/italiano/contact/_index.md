@@ -27,5 +27,6 @@ maps:
   title: Maps
   alt: mappa del ritrovo del BonsaiBlu di Milano
   image: "/images/maps.png"
+  googlemaps:
 
 ---
