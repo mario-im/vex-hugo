@@ -23,7 +23,7 @@ opennig_hour:
   - 'Ottobre: 7 - 21- 28'
   - 'Novembre:'
   - 'Dicembre:'
-Maps:
+maps:
   title: Maps
   alt: mappa con l'indirizzo del ritrovo del BonsaiBlu
   image: "/images/maps.png"
