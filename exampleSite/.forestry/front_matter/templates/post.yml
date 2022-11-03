@@ -14,5 +14,3 @@ fields:
 - type: text
   name: description
   label: description
-pages:
-- exampleSite/content/italiano/blog/una-serata-al-club.20191203072044
