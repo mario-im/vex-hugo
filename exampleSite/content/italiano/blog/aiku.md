@@ -11,7 +11,7 @@ _Informazioni sull'evento_
 
 _A.I.ku_
 
-_Benvenuti al Mixtape Milano per il primo evento sul Giappone che esiste, non esiste,_
+_Benvenuti al_ [_Mixtape Milano_](https://www.mixtapemilano.it/ "Mixtape Milano") _per il primo evento sul Giappone che esiste, non esiste,_
 
 _esisterà o non esisterà._
 
