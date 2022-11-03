@@ -17,7 +17,7 @@
           <!-- maps -->
                     <div class="mb-3">
                     {{ with .Params.maps }}
-                      <a href="{{ .googlemaps | absURL }}">
+                      <a href="{{ .googlemaps | absURL }}" target=_blank>
                       <img class="img-fluid" src="{{ .image | absURL }}" alt="{{ .alt | markdownify }}"></a><p></p>
                       </div>
                     {{ end }}
