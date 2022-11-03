@@ -53,8 +53,8 @@ testimonial_chisiamo:
       le nostre opere.
   - name: Fabio
     designation: ''
-    image: ''
-    content: ''
+    image: "/images/Fabio.jpg"
+    content: " il bonsai è solo una scusa per sorridere insieme"
   - name: Luca
     designation: ''
     image: ''
