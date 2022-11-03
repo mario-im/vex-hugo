@@ -5,6 +5,8 @@ image = "/images/aiku.jpeg"
 title = "A.I.ku"
 
 +++
+_Il 19/11/2022 BonsaiBlu parteciperà all'esposizione A.I.ku; è possibile partecipare gratuitamente prenotando il biglietto_ [_qui_](https://bit.ly/AIku-19Novembre2022 "Biglietti A.I.ku")
+
 _Informazioni sull'evento_
 
 _A.I.ku_
