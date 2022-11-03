@@ -13,7 +13,7 @@ title = "A.I.ku"
 
 ## **A.I.ku**
 
-Benvenuti al [**Mixtape Milano **](https://www.mixtapemilano.it/ "Mixtape Milano")per il primo **evento sul Giappone** che esiste, non esiste,
+Benvenuti al [Mixtape Milano](https://www.mixtapemilano.it/ "Mixtape Milano") per il primo **evento sul Giappone** che esiste, non esiste,
 
 esisterà o non esisterà.
 
