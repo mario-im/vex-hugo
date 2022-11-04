@@ -22,14 +22,14 @@ about_product_chisiamo:
   title: Gli amici del club
   items:
   - image: images/amici100.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+    title: Dal 1986 ...
+    content: |-
+      Si direbbe la data d'inizio di una qualsivoglia attività, ma è l'anno di partenza di un' avventura fra amici che dura tuttora: nel corso degli anni alcuni di questi li abbiamo per i, altri si sono aggiunti, ma il nucleo iniziale è rimasto pressoché intatto.
+      Tutto ebbe inizio dalla comune passione per la natura e per le piante in particolare, passione coltivata da molto tempo e mai potuta esprimere se non sporadicamente con la coltivazione di piante acquistate in vivaio o raccolte in natura...
     button:
-      enable: false
-      label: Check Features
-      link: "#/"
+      enable: true
+      label: La storia del BonsaiBlu
+      link: images/la-storia-del-bonsaiblu.pdf
   - image: images/amici003.jpg
     title: Lorem ipsum dolor sit amet.
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
