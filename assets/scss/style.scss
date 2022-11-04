@@ -469,6 +469,9 @@ footer {
 p.price {
   font-size: 30px;
   font-family: $secondary-font;
+  /* fix p justify all site */
+  text-align: center!important;
+  /* end fix p justify all site */
 }
 
 s.price {
