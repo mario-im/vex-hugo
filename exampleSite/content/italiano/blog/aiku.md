@@ -29,8 +29,8 @@ Per non farci mancare nulla c'è anche una grande parte di Giappone che esiste:
 
 Nel Paese del Sol Levante non si vive di solo tè! [**MIRABILIA**](https://www.mirabilia.coffee/ "Mirabilia Cofee") ci farà esplorare i profumi e le sensazioni del caffè filtrato. Chi lo vorrà potrà assaggiare diverse tipologie di caffè e scoprire quanto può essere coinvolgente il mondo del caffè lento.
 
-L'esposizione dei bonsai di **BONSAI BLU** ci darà l'opportunità di conoscere e approfondire l'antica arte dei bonsai. L'affermato istruttore **Donato Danisi** sarà presente per rispondere alle domande dei partecipanti.
+L'esposizione dei bonsai di [**BONSAI BLU**](https://www.facebook.com/bonsaiblu/ "Bonsai Blu Facebook Page") ci darà l'opportunità di conoscere e approfondire l'antica arte dei bonsai. L'affermato istruttore **Donato Danisi** sarà presente per rispondere alle domande dei partecipanti.
 
-Visitando il **kintsugi** corner di L'ELEFANTE BLU scopriremo e approfondiremo la tecnica di restauro giapponese che, fin da tempi molto antichi, è applicata agli oggetti ceramici.
+Visitando il **kintsugi** corner di [**L'ELEFANTE BLU **](https://www.facebook.com/lelefanteblu/ "L'Elefante Blu kintsugi")scopriremo e approfondiremo la tecnica di restauro giapponese che, fin da tempi molto antichi, è applicata agli oggetti ceramici.
 
 Grazie ai documentari di **Tommaso Montagnoli** potremo immergerci e vagabondare tra le vie di Tokyo e immaginare i sapori di Okinawa.
