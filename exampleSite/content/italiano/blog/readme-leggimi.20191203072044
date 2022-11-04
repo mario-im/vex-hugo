@@ -1,0 +1,11 @@
++++
+date = ""
+description = "LEGGIMI README"
+draft = true
+image = ""
+title = "README | LEGGIMI "
+
++++
+Ricorda che se vuoi che le immagini siano responsive e non appaiano a tutto schermo, alla vine dell'alt inserisci questo testo:
+
+    alt ><
