@@ -58,5 +58,5 @@ testimonial_chisiamo:
     image: ''
     content: ''
   - name: Mariangela
-    image: images/mariangela.png
+    image: "/images/mariangela.png"
     designation: UNICA
