@@ -18,7 +18,7 @@ promo_chisiamo:
     Per qualche anno ho provato anche a dipingere, e poi avendo un grande amore per la natura trasmessa sicuramente da mio Nonno Filippo e dalla mia terra, la Puglia, mi porta ad incontrare il Bonsai. <br><br>
     Inizialmente praticato da autodidatta e poi con Salvatore Liporace, che mi ha portato fino a tutto quello che conosco.
 about_product_chisiamo:
-  enable: false
+  enable: true
   title: Gli amici del club
   items:
   - image: images/amici100.png
@@ -31,10 +31,8 @@ about_product_chisiamo:
       label: La storia del BonsaiBlu
       link: images/la-storia-del-bonsaiblu.pdf
   - image: images/amici003.jpg
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+    title: Il tempo è relativo, passa per tutti ma a velocità diverse
+    content: 36 anni di amicizie, lavori e passioni condivise con i membri del club.
     button:
       enable: false
       label: Check Features
