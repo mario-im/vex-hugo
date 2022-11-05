@@ -42,6 +42,7 @@ fields:
   label: origine
 pages:
 - exampleSite/content/italiano/suiseki/Roccia.md
+- exampleSite/content/italiano/suiseki/pietra-animale.md
 - exampleSite/content/italiano/suiseki/pietra-roccia-costiera.md
 - exampleSite/content/italiano/suiseki/pietra.md
 - exampleSite/content/italiano/suiseki/verso-la-cima-copy.md
