@@ -1,12 +1,12 @@
 +++
-categoria = []
+categoria = ["Dobutsu-seki"]
 colors = []
 data = ""
 descrizione = "Roberto Ferrari"
 dimensioni = []
 discount_price = ""
 images = ["/images/roberto-ferrari-r9b.jpg"]
-origine = []
+origine = ["Liguria"]
 poetico = []
 prezzo = ""
 roccia = []
