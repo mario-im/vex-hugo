@@ -21,7 +21,7 @@ opennig_hour:
   - 'Agosto: - '
   - 'Settembre: 9 - 23'
   - 'Ottobre: 7 - 21- 28'
-  - 'Novembre: 11'
+  - 'Novembre: 11 - 25'
   - 'Dicembre:'
 maps:
   title: Maps
