@@ -9,6 +9,7 @@ title = "BonsaiBlu"
 [sitemap]
   changefreq = 'weekly'
   priority = 0.8
+enableRobotsTXT = true
 [Languages.en]
 contentDir = "content/english"
 copyright = "Create with  💙 by [Mario](https://mariocali.im/) for [BonsaiBlu](https://www.facebook.com/bonsaiblu)"
