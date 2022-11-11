@@ -1,0 +1,12 @@
+#
+# default robots.txt for BonsaiBlu.it
+#
+# by Mario
+#
+
+User-agent: *    # applies to all robots
+Allow: /      # allow all
+Disallow: /*.gif$ # disallow all gif
+Disallow: /*.xls$ #disallow file xls
+
+Sitemap: https://bonsaiblu.it/sm/sitemapigppl-bonsaiblu.it.xml

@@ -6,6 +6,9 @@ googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo-v1"
 title = "BonsaiBlu"
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.8
 [Languages.en]
 contentDir = "content/english"
 copyright = "Create with  💙 by [Mario](https://mariocali.im/) for [BonsaiBlu](https://www.facebook.com/bonsaiblu)"
