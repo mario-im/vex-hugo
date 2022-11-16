@@ -1,4 +1,9 @@
 ---
+ sitemap:
+   changefreq: weekly
+   priority: 0.8
+ title: Contatti
+---
 title: Contatti
 description: Qui puoi trovare come contattare il club del Bonsai Blu di Milano
 office:
