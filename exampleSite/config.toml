@@ -7,8 +7,9 @@ summarylength = "20"
 theme = "vex-hugo-v1"
 title = "BonsaiBlu"
 [sitemap]
-  changefreq = 'weekly'
-  priority = 0.8
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
 enableRobotsTXT = true
 [Languages.en]
 contentDir = "content/english"
