@@ -1,9 +1,4 @@
 ---
- sitemap:
-   changefreq: weekly
-   priority: 0.8
- title: Bonsai Blu 
----
 banner:
   enable: true
   title: Benvenuti sul sito del club Bonsai Blu

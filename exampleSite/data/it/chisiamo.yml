@@ -1,9 +1,4 @@
 ---
- sitemap:
-   changefreq: weekly
-   priority: 0.8
- title: Chi siamo
----
 banner_chisiamo:
   enable: true
   title: Chi siamo noi del Bonsaiblu?
