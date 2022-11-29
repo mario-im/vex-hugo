@@ -9,4 +9,4 @@ Allow: /      # allow all
 Disallow: /*.gif$ # disallow all gif
 Disallow: /*.xls$ #disallow file xls
 
-# Sitemap: https://bonsaiblu.it/sm/sitemapigppl-bonsaiblu.it.xml
+# Sitemap: https://bonsaiblu.it/sitemap.xml
