@@ -6,11 +6,11 @@ googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo-v1"
 title = "BonsaiBlu"
+enableRobotsTXT = true
 [sitemap]
   changefreq = 'monthly'
   filename = 'sitemap.xml'
   priority = 0.5
-enableRobotsTXT = true
 [Languages.en]
 contentDir = "content/english"
 copyright = "Create with  💙 by [Mario](https://mariocali.im/) for [BonsaiBlu](https://www.facebook.com/bonsaiblu)"
