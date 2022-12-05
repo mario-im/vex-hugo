@@ -1,16 +1,11 @@
 baseurl = "https://bonsaiblu.it"
-# baseurl = "https://bonsaiblu-test.netlify.app"
 defaultContentLanguage = "it"
 disableLanguages = ["en", "fr"]
+enableRobotsTXT = true
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo-v1"
 title = "BonsaiBlu"
-enableRobotsTXT = true
-[sitemap]
-  changefreq = 'monthly'
-  filename = 'sitemap.xml'
-  priority = 0.5
 [Languages.en]
 contentDir = "content/english"
 copyright = "Create with  💙 by [Mario](https://mariocali.im/) for [BonsaiBlu](https://www.facebook.com/bonsaiblu)"
@@ -63,7 +58,7 @@ weight = 1
 author = "Mario | BonsaiBlu "
 contact_form_action = "#"
 currency = ""
-description = "Bonsai Blu Milano. Circolo ricreativo"
+description = "Bonsai Blu Milano. Circolo ricreativo dove appassionati si ritrovano per condividere le proprie esperienze."
 logo = "images/logo-text.png"
 logo_width = "250px"
 [[params.plugins.css]]
@@ -95,6 +90,10 @@ snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1
 [params.subscription]
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
 [taxonomies]
 archive = "archive"
 unsafe = true
