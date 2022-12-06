@@ -5,7 +5,7 @@ enableRobotsTXT = true
 googleAnalytics = "G-KFZ6C1XTH1"
 summarylength = "20"
 theme = "vex-hugo-v1"
-title = "BonsaiBlu"
+title = "BonsaiBlu | Il club bonsai di Milano"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Create with  💙 by [Mario](https://mariocali.im/) for [BonsaiBlu](https://www.facebook.com/bonsaiblu)"
