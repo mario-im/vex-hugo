@@ -48,7 +48,7 @@ url = "contact/"
 weight = 6
 [[menu.main]]
 name = "Essenze"
-url = "products/"
+url = "essenze/"
 weight = 3
 [[menu.main]]
 name = "Home"
