@@ -35,6 +35,7 @@
   {{ partial "analytics-gtag.html" . }}
   {{ end }}
 
+  {{ if .Site.Params.clarityID }}
   {{ with partial "clarity.html" . }}
   {{ end }}
 
