@@ -479,9 +479,14 @@ s.price {
 }
 
 .product-info {
-  text-align: center!important;
+  text-align: center;
   .price {
     font-size: 100%;
+  }
+  p {
+    /* fix p justify all site */
+    text-align: center!important;
+    /* end fix p justify all site */
   }
 }
 
