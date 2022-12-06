@@ -63,6 +63,8 @@ logo = "images/logo-text.png"
 logo_width = "250px"
 # Google Analytics 4
 googleAnalyticsID = "G-KFZ6C1XTH1"
+# CLarity
+clarityID = "eu5qsu0erl"
 
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
