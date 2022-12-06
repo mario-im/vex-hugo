@@ -61,6 +61,9 @@ currency = ""
 description = "Bonsai Blu Milano. Circolo ricreativo dove appassionati si ritrovano per condividere le proprie esperienze."
 logo = "images/logo-text.png"
 logo_width = "250px"
+# Google Analytics 4
+googleAnalyticsID = "G-KFZ6C1XTH1"
+
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
 [[params.plugins.css]]
