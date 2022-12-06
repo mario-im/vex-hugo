@@ -1,5 +1,5 @@
 +++
-categoria = ["Bonsai"]
+categoria = ["Caducifoglio"]
 colors = []
 data = ""
 descrizione = ["Donato Danisi"]
