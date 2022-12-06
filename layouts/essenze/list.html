@@ -4,7 +4,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12 text-center mb-5">
-        <h1 class="font-weight-bold">{{.Title}}</h1>
+        <h1 class="font-weight-bold">{{.Titolo}}</h1>
         <br>
                 {{ with .Params.descrizione}}<p><strong></strong>{{ delimit . ", " | }}</p>{{ end }}
 
@@ -21,8 +21,9 @@
         </div>
         <div class="product-info">
         <h4 class="mb-2"><a href="{{.Permalink}}" class="link-title">{{.Title}}</a></h4>
-        <p class="price">{{if .Params.discount_price}}{{site.Params.currency}}{{.Params.discount_price}}{{else}}{{site.Params.currency}}{{.Params.price}}{{end}}
-          {{if .Params.discount_price}}<s class="price">{{site.Params.currency}}{{ .Params.price }}</s>{{end}}
+        {{ with .Params.descrizione}}<p><strong></strong>{{ delimit . ", " | }}</p>{{ end }}
+            <p class="price">{{if .Params.discount_price}}{{site.Params.currency}}{{.Params.discount_price}}{{else}}{{site.Params.currency}}{{.Params.price}}{{end}}
+              {{if .Params.discount_price}}<s class="price">{{site.Params.currency}}{{ .Params.price }}</s>{{end}}
           </p>
         </div>
       </div>
