@@ -31,8 +31,3 @@ fields:
 - type: tag_list
   name: dimensioni
   label: dimensioni
-pages:
-- exampleSite/content/italiano/products/Acero.md
-- exampleSite/content/italiano/products/Acero.md
-- exampleSite/content/italiano/products/pinte.md
-- exampleSite/content/italiano/products/pinte.md
