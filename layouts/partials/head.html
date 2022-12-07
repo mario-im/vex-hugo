@@ -2,10 +2,10 @@
   <meta charset="utf-8">
 <!--  <title>{{ .Title }}</title> -->
 
-{{ if .Title }}
+{{ if .Page.Title }}
     <title>{{ .Title }}</title>
     {{ else }}
-    {{ if .Page.Title }}<title>{{ .banner_chisiamo.Title .Content 1}}</title>
+    {{ if .Title }}<title>{{ findRE "<h1.*?>(.|\n)*?</h1>" .Content 1 }}</title>
     {{ end }}
     <title>{{ findRE "<h1.*?>(.|\n)*?</h1>" .Content 1 }}</title>
 {{ end }}
