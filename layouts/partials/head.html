@@ -2,9 +2,11 @@
   <meta charset="utf-8">
 <!--  <title>{{ .Title }}</title> -->
 
-{{ if .Title }} <title>{{{ .Title }}</title> {{ else }}
-
-    <title>{{ findRE "<h2.*?>(.|\n)*?</h2>" .Content 1 }}</title> {{ end }}
+{{ if .Title }}
+    <title>{{ .Title }}</title> 
+    {{ else }}
+    <title>{{ findRE "<h2.*?>(.|\n)*?</h2>" .Content 1 }}</title>
+{{ end }}
 
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
