@@ -1,9 +1,8 @@
 <head>
   <meta charset="utf-8">
-<!--  <title>{{ .Title }}</title> 
+<!--  <title>{{ .Title }}</title> -->
 
-<title>{{ if .IsHome }}{{ .Title }} - {{ end }}{{ .Page.Title }}</title>
---><title>{{ if .IsHome }}{{ .Title }} - {{ else }}{ if .Page.Title }}{{ .Page.Title }} - {{ end }}{{ end }}{{ .Title }}</title>
+<title>{{ .Page.Title }}</title>
 
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
