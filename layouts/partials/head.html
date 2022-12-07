@@ -4,7 +4,7 @@
 
 {{ if .Title }} <title>{{{ .Title }}</title> {{ else }}
 
-    <titolo>{{ findRE "<h2.*?>(.|\n)*?</h2>" .Content 1 }}</titolo> {{ end }}
+    <title>{{ findRE "<h2.*?>(.|\n)*?</h2>" .Content 1 }}</title> {{ end }}
 
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
