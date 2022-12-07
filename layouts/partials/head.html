@@ -6,7 +6,7 @@
     <title>{{ .Title }}</title>
     {{ else }}
     {{ if .Page.Title }}<title>{{ .Page.Title }}</title>
-    {{ else }}
+    {{ end }}
     <title>{{ findRE "<h1.*?>(.|\n)*?</h1>" .Content 1 }}</title>
 {{ end }}
 
