@@ -1,5 +1,6 @@
-{{ define "main" }}
- <title>{{ findRE "<h1.*?>(.|\n)*?</h1>" .Content 1 }}</title>
+ <title>{{ .Title .Content 1 }}</title>
+ {{ define "main" }}
+
   {{- partial "banner-chisiamo.html" . }}
 
   {{- partial "promo-chisiamo.html" . }}
