@@ -3,9 +3,9 @@
 <!--  <title>{{ .Title }}</title> -->
 
 {{ if .Title }}
-    <title>{{ .Title }}</title> 
+    <title>{{ .Title }}</title>
     {{ else }}
-    <title>{{ findRE "<h2.*?>(.|\n)*?</h2>" .Content 1 }}</title>
+    <title>{{ findRE "<h1.*?>(.|\n)*?</h1>" .Content 1 }}</title>
 {{ end }}
 
 
