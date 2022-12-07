@@ -1,0 +1,98 @@
+---
+label: chisiamo
+hide_body: true
+fields:
+- type: field_group
+  name: banner_chisiamo
+  label: banner_chisiamo
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: file
+    name: image
+    label: image
+  - type: textarea
+    name: content
+    label: content
+- type: field_group
+  name: promo_chisiamo
+  label: promo_chisiamo
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+- type: field_group
+  name: about_product_chisiamo
+  label: about_product_chisiamo
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: items
+    label: items
+    fields:
+    - type: file
+      name: image
+      label: image
+    - type: text
+      name: title
+      label: title
+    - type: textarea
+      name: content
+      label: content
+    - type: field_group
+      name: button
+      label: button
+      fields:
+      - type: boolean
+        name: enable
+        label: enable
+      - type: text
+        name: label
+        label: label
+      - type: file
+        name: link
+        label: link
+- type: field_group
+  name: testimonial_chisiamo
+  label: testimonial_chisiamo
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: testimonial_item
+    label: testimonial_item
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: designation
+      label: designation
+    - type: file
+      name: image
+      label: image
+    - type: textarea
+      name: content
+      label: content
