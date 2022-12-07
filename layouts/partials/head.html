@@ -2,7 +2,7 @@
   <meta charset="utf-8">
 <!--  <title>{{ .Title }}</title> -->
 
-  <title>{{ if .IsHome }}home- {{ else }}{ if .Page.Title }}{{ .Page.Title }} - {{ end }}{{ end }}{{ .Site.Title }}</title>
+<title>{{ if .ishome }}{{ .Title }} - {{ end }}}{{ .menu.main.Title }}</title>
 
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
