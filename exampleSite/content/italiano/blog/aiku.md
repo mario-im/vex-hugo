@@ -7,11 +7,14 @@ title = "A.I.ku"
 +++
 ##### Il 19/11/2022 BonsaiBlu parteciperà all'esposizione A.I.ku; è possibile partecipare gratuitamente prenotando il biglietto [qui](https://bit.ly/AIku-19Novembre2022 "Biglietti A.I.ku")
 
-##### 
+#####
 
 **Informazioni sull'evento**
 
 ## **A.I.ku**
+
+AIku
+====
 
 Benvenuti al [Mixtape Milano](https://www.mixtapemilano.it/ "Mixtape Milano") per il primo **evento sul Giappone** che esiste, non esiste, esisterà o non esisterà.
 
