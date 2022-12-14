@@ -13,9 +13,6 @@ title = "A.I.ku"
 
 ## **A.I.ku**
 
-AIku
-====
-
 Benvenuti al [Mixtape Milano](https://www.mixtapemilano.it/ "Mixtape Milano") per il primo **evento sul Giappone** che esiste, non esiste, esisterà o non esisterà.
 
 > _Non si chiama Giappone di Schrodinger solo per non scomodare un cliché ma non_
