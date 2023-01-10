@@ -9,20 +9,11 @@ office:
   content: Scrivici per entrare nel nostro gruppo Whatsapp e rimanere sempre aggiornato
     su tutti i nostri incontri.
 opennig_hour:
-  title: Calendario incontri 2022 | dalle ore 20:30
+  title: Calendario incontri 2023 | dalle ore 20:30
   day_time:
-  - 'Gennaio: 14 -21'
-  - 'Febbraio: 4 - 18'
-  - 'Marzo: 4 -18 - 24'
-  - 'Aprile: 1 - 22 - 29'
-  - 'Maggio: 13 - 27'
-  - 'Giugno: 10 -24'
-  - 'Luglio: 8'
-  - 'Agosto: - '
-  - 'Settembre: 9 - 23'
-  - 'Ottobre: 7 - 21- 28'
-  - 'Novembre: 11 - 25'
-  - 'Dicembre:'
+  - 'Gennaio: 13 - 27'
+  - 'Febbraio: 10 - 17'
+  - 'Marzo: 3 - 17 - 31'
 maps:
   title: Maps
   alt: mappa del ritrovo del BonsaiBlu di Milano
