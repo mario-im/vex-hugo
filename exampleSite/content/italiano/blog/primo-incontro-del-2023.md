@@ -5,6 +5,8 @@ image = "/images/
 title = "Inizio d'anno produttivo per il BonsaiBlu di Milano"
 
 +++
+# Inizio d'anno produttivo per il BonsaiBlu di Milano
+
 Questo venerdì 13 gennaio, i soci del BonsaiBlu di Milano si incontreranno per il primo incontro dell'anno. Sono emozionato perché finalmente potrò rivedere i miei amici del club e condividere la mia passione per le piante bonsai con loro.
 
 Il nostro maestro, un esperto di lunga data nell'arte del bonsai, guiderà l'incontro. Egli ci mostrerà nuove tecniche per curare e formare le nostre piante e risponderà alle domande che potremmo avere sulla cura dei nostri alberi.
