@@ -15,4 +15,4 @@ Dopo la lezione teorica, metteremo in pratica ciò che abbiamo imparato e ci ded
 
 Sono entusiasta di vedere i progressi delle mie piante sotto la guida del maestro e di scambiare consigli e idee con i miei compagni soci del club. Questo incontro rappresenta l'inizio di un nuovo anno pieno di opportunità per imparare e crescere insieme come appassionati del bonsai. Non vedo l'ora di partecipare e vedere cosa questo anno ci riserverà.
 
-![Bonsai creato da AI che rappresenta una pianta in vaso in pixel art alt ><](/images/bonsa-pixel-art.png "bonsai in pixel art")!
+![Bonsai creato da AI che rappresenta una pianta in vaso in pixel art alt ><](/images/bonsa-pixel-art.png "bonsai in pixel art")
