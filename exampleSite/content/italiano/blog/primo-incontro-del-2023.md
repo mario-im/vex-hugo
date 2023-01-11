@@ -5,7 +5,7 @@ image = "/images/bonsa-pixel-art.png"
 title = "Inizio d'anno produttivo per il BonsaiBlu di Milano"
 
 +++
-# Inizio d'anno produttivo per il BonsaiBlu di Milano
+# Primo incontro del club del 2023
 
 Questo venerdì 13 gennaio, i soci del BonsaiBlu di Milano si incontreranno per il primo incontro dell'anno. Sono emozionato perché finalmente potrò rivedere i miei amici del club e condividere la mia passione per le piante bonsai con loro.
 
