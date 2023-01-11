@@ -1,5 +1,5 @@
 ---
-title: Contatti
+title: BonsaiBlu Milano | Contatti e dove trovarci
 description: Qui puoi trovare come contattare il club del Bonsai Blu di Milano
 office:
   title: Dove ci incontriamo
