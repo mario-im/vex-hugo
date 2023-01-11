@@ -6,7 +6,7 @@
 
 User-agent: *    # applies to all robots
 Allow: /      # allow all
-Disallow: /*.gif$ # disallow all gif
-Disallow: /*.xls$ #disallow file xls
+# Disallow: /*.gif$ # disallow all gif
+# Disallow: /*.xls$ #disallow file xls
 
 Sitemap: https://bonsaiblu.it/sitemap.xml
