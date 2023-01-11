@@ -1,7 +1,7 @@
 +++
 date = 2023-01-13T22:00:00Z
 description = " Il BonsaiBlu di Milano si riunisce per il primo incontro dell'anno sotto la guida di Donato Danisi  per lavorare e curare le proprie piante bonsai. I soci impareranno nuove tecniche e condivideranno consigli per far crescere al meglio le loro piante in questo nuovo anno."
-image = "/images/"
+image = "/images/bonsa-pixel-art.png"
 title = "Inizio d'anno produttivo per il BonsaiBlu di Milano"
 
 +++
@@ -15,4 +15,4 @@ Dopo la lezione teorica, metteremo in pratica ciò che abbiamo imparato e ci ded
 
 Sono entusiasta di vedere i progressi delle mie piante sotto la guida del maestro e di scambiare consigli e idee con i miei compagni soci del club. Questo incontro rappresenta l'inizio di un nuovo anno pieno di opportunità per imparare e crescere insieme come appassionati del bonsai. Non vedo l'ora di partecipare e vedere cosa questo anno ci riserverà.
 
-![... alt ><](/images/ "...")![... alt ><](/images/ "...")![... alt ><](/images/ "...")
+![Bonsai creato da AI che rappresenta una pianta in vaso in pixel art alt ><](/images/bonsa-pixel-art.png "bonsai in pixel art")!
