@@ -15,9 +15,12 @@ $icon-font: 'themefisher-font' !important;
     Common Css
 --*/
 body {
-  font-size: 14px;
+/*  font-size: 14px; */
+  font-size: 1.1em;
   font-weight: 300;
-  line-height: 25px;
+/*  line-height: 25px; */
+  line-height: 1.0em;
+
   color: #3b4045;
   font-family: $primary-font;
   -webkit-font-smoothing: antialiased;
