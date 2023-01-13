@@ -14,3 +14,5 @@ fields:
 - type: text
   name: description
   label: description
+pages:
+- exampleSite/content/italiano/blog/bonsai-blu-milano-un-club-in-crescita-con-incontri-formativi-e-sorprese-per-i-soci.20191203072044
