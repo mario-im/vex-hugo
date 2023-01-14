@@ -21,8 +21,8 @@ In oltre, ai membri del club sono state **regalate delle bellissime piante da co
 
 Insomma, un incontro indimenticabile che ci lascia con l'acquolina in bocca per il prossimo. **Non perdete l'occasione di unirvi a noi al prossimo incontro del club Bonsai Blu, vi aspettiamo!**
 
-![Donato Danisi lavora un pino di un membro del Club](/images/primo-incontro-2023-at-21-37-14.jpeg "Primo incontro del 2023")
+![Donato Danisi lavora un pino di un membro del Club alt ><](/images/primo-incontro-2023-at-21-37-14.jpeg "Primo incontro del 2023")
 
-![prospettiva di un tavolo con le piante dei soci del club BonsaiBlu](/images/primo-incontro-2023-at-21-43-43.jpeg "Le piante dei soci")
+![prospettiva di un tavolo con le piante dei soci del club BonsaiBlu alt ><](/images/primo-incontro-2023-at-21-43-43.jpeg "Le piante dei soci")
 
-![Immagine di Pino nero dopo la prima lavorazione](/images/primo-incontro-2023-at-22-00-42.jpeg "Pino nero")![Analisi dei pro e contro di una pianta portata dai soci del BonsaiBlu](/images/primo-incontro-2023-at-21-37-13.jpeg "Lezione di teoria")
+![Immagine di Pino nero dopo la prima lavorazione alt ><](/images/primo-incontro-2023-at-22-00-42.jpeg "Pino nero")![Analisi dei pro e contro di una pianta portata dai soci del BonsaiBlu alt ><](/images/primo-incontro-2023-at-21-37-13.jpeg "Lezione di teoria")
