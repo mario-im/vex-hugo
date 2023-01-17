@@ -692,13 +692,13 @@ img[alt$="><"] {
 
   background: gold;
   border: none;
-  border-radius: 10px;
+  border-radius: 15px;
 
   color: black;
 
   animation: attention 8s ease infinite;
-
-  font-size: 20px;
+  font-size: 1.2em;
+  line-height: 1.2em;
 }
 
 @keyframes attention {
