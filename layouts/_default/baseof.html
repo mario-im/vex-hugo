@@ -3,6 +3,7 @@
 {{- partial "head.html" . -}}
 
 <body id="body">
+	<h2 class="hidden">{{ .title | markdownify}}
 	{{- partial "preloader.html" . -}}
 	{{- partial "header.html" . -}}
 	{{- block "main" . }}{{- end }}
