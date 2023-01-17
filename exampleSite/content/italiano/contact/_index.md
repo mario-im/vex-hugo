@@ -30,9 +30,9 @@ maps:
   googlemaps: https://goo.gl/maps/5vG7UHLT3r8ob6ix9
 allert:
   content: "<br><b>Attenzione! \U0001F6A8 </b> <br><br>L'incontro previsto per il
-    27 gennaio è stato anticipato al <b>25 GENNAIO (mercoledì)</b> alla solita ora.
-    <br><br>Non dimenticate di segnare questa data nel vostro calendario e di partecipare!
-    \U0001F4C5"
+    27 gennaio è stato anticipato al <br><b>25 GENNAIO (mercoledì)</b> sempre alle
+    20:30. <br><br>Non dimenticate di segnare questa data nel vostro calendario e
+    di partecipare! \U0001F4C5"
   hidden: ''
 
 ---
