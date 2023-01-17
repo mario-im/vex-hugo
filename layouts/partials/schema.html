@@ -1,27 +1,39 @@
+Vecchio
 <script type="application/ld+json">
-  <meta itemprop="name" content="{{ .Title }}">
-  <meta itemprop="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+  {{ if eq .Section "blog" }}
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": {{ .Page.Title }},
+      "image": {{ .Params.Image | absURL }},
+      "datePublished": {{ .PublishDate }},
+      "dateModified": {{ .Lastmod }},
+      "author": {
+        "@type": "Person",
+        "name": {{ .Site.Params.author }}
+      },
+      "mainEntityOfPage": { "@type": "WebPage" },
+       "publisher": {
+        "@type": "Organization",
+        "name": {{ .Site.Params.header }},
+        "logo": {
+          "@type": "ImageObject",
+          "url": {{ .Site.Params.logo }}
+        }
+      },
+      "description": {{ .Summary | plainify | safeHTML }},
+      "keywords": [{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}]
+    }
+    {{ end }}
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": {{ .Site.Params.header }},
+      "url": {{ printf "%s" .Site.BaseURL }},
 
-  {{- if .IsPage -}}
-  {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
-  {{ with .PublishDate }}<meta itemprop="datePublished" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end}}
-  {{ with .Lastmod }}<meta itemprop="dateModified" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end}}
-  <meta itemprop="wordCount" content="{{ .WordCount }}">
-
-  {{- with $.Params.images -}}
-  {{- range first 6 . -}}<meta itemprop="image" content="{{ . | absURL }}">{{ end -}}
-  {{- else -}}
-  {{- $images := $.Resources.ByType "image" -}}
-  {{- $featured := $images.GetMatch "*feature*" -}}
-  {{- if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
-  {{- with $featured -}}
-  <meta itemprop="image" content="{{ $featured.Permalink }}">
-  {{- else -}}
-  {{- with $.Site.Params.images -}}<meta itemprop="image" content="{{ index . 0 | absURL }}"/>{{ end -}}
-  {{- end -}}
-  {{- end -}}
-
-  <!-- Output all taxonomies as schema.org keywords -->
-  <meta itemprop="keywords" content="{{ if .IsPage}}{{ range $index, $tag := .Params.tags }}{{ $tag }},{{ end }}{{ else }}{{ range $plural, $terms := .Site.Taxonomies }}{{ range $term, $val := $terms }}{{ printf "%s," $term }}{{ end }}{{ end }}{{ end }}" />
-  {{- end -}}
+      "sameAs": [
+        "https://www.facebook.com/{{ .Site.Params.facebook }}",
+        "https://www.instagram.com/{{ .Site.Params.instagram }}"
+      ]
+    }
 </script>
