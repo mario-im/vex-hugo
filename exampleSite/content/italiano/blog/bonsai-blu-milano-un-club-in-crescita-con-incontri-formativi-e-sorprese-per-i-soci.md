@@ -4,7 +4,6 @@ description = "Si è da poco concluso il primo incontro del 2023 al club Bonsai 
 image = "/images/2023-di-comincia-a-razzo.jpg"
 title = "Bonsai Blu Milano: un club in crescita con incontri formativi e sorprese per i soci!"
 keywords = ["BonsaiBlu", "Club Bonsai", "Incontri formativi", "Soci del club", "Milano", "Bonsai Blu"]
-tag = ""
 +++
 Si è da poco concluso il primo incontro del 2023 al club Bonsai Blu di Milano, è stato **fantastico!**
 
