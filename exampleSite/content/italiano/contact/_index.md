@@ -30,7 +30,7 @@ maps:
   googlemaps: https://goo.gl/maps/5vG7UHLT3r8ob6ix9
 allert:
   content:
-  draft: true
+  hidden: hidden
 ---
 Il nuovo anno è alle porte e con esso arrivano anche nuovi appuntamenti da non perdere. Il calendario degli incontri del 2023 è già pronto con tante date da segnare in agenda.
 
