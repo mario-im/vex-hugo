@@ -28,10 +28,11 @@ maps:
   alt: mappa del ritrovo del BonsaiBlu di Milano
   image: "/images/maps.png"
   googlemaps: https://goo.gl/maps/5vG7UHLT3r8ob6ix9
-
+allert:
+  content:
 ---
 Il nuovo anno è alle porte e con esso arrivano anche nuovi appuntamenti da non perdere. Il calendario degli incontri del 2023 è già pronto con tante date da segnare in agenda.
 
-Tutti gli incontri avranno inizio alle ore 20:30, un orario perfetto per poter partecipare dopo il lavoro o la scuola. 
+Tutti gli incontri avranno inizio alle ore 20:30, un orario perfetto per poter partecipare dopo il lavoro o la scuola.
 
 Non perdere l'occasione di partecipare a questi appuntamenti, saranno sicuramente interessanti e ricchi di contenuti.

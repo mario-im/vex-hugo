@@ -2,6 +2,13 @@
 
 <section class="section">
   <div class="container">
+    {{ with .Params.opennig_hour }}
+  <button class="balert bbalert"  onclick="window.location.href='https://bonsaiblu.it/';" value="BonsaiBlu" >
+    <div>
+      {{ .content | markdownify }}
+    </div></button>
+
+    {{ end }}
     <div class="row justify-content-center">
       {{ with .Params.office }}
       <div class="col-lg-5 col-sm-6 mb-5">
