@@ -18,5 +18,5 @@ fields:
   name: keywords
   label: keywords
 - type: text
-  name: author
-  label: author
+  name: authors
+  label: authors
