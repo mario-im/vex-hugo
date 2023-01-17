@@ -8,15 +8,15 @@
           <img class="img-fluid w-100" src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
         </div>
       </div>
-      <article>
         <div class="col-lg-6 col-md-7 offset-lg-1">
-          <h1 class="mb-4">{{.Title | markdownify}}</h1>
-          <div class="content">
-            {{.Content}}
-          <author> {{.Params.author | markdownify}}</author>
-          </div>
+        <article>
+            <h1 class="mb-4">{{.Title | markdownify}}</h1>
+            <div class="content">
+              {{.Content}}
+            <author> {{.Params.author | markdownify}}</author>
+            </div>
+          </article>
         </div>
-      </article>
     </div>
   </div>
 </section>
