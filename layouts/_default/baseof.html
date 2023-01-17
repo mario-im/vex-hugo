@@ -2,8 +2,12 @@
 <html lang="{{ with site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
 {{- partial "head.html" . -}}
 
-<body id="body">
-	<h2 class="hidden">{{ .Page.Title }</h2>
+{{ if .Page.Title }}
+	<body id="body">
+		<h2 class="hidden">{{ .Page.Title }</h2>
+		{{ else }}
+		{{ if -Title}}	<h2 class="hidden">{{.Tilte}}</h2>
+		{{ end }}
 	{{- partial "preloader.html" . -}}
 	{{- partial "header.html" . -}}
 	{{- block "main" . }}{{- end }}
