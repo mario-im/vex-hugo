@@ -11,9 +11,9 @@
         <div class="col-lg-6 col-md-7 offset-lg-1">
         <article>
             <h1 class="mb-4">{{.Title | markdownify}}</h1>
+            <author>di {{.Params.author | markdownify}}</author>
             <div class="content">
               {{.Content}}
-            <author> {{.Params.author | markdownify}}</author>
             </div>
           </article>
         </div>
