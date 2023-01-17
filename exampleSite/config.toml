@@ -106,6 +106,9 @@ priority = 0.5
 [taxonomies]
 archive = "archive"
 unsafe = true
+author = "authors"
+tag = "tags"
+keywords ="keywords"
 
 [[plugins]]
   package = "netlify-plugin-submit-sitemap"
