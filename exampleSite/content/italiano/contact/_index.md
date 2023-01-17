@@ -29,8 +29,12 @@ maps:
   image: "/images/maps.png"
   googlemaps: https://goo.gl/maps/5vG7UHLT3r8ob6ix9
 allert:
-  content:
+  content: "<b>Attenzione! \U0001F6A8 </b> <br>L'incontro previsto per il 27 gennaio
+    è stato anticipato al <b>25 GENNAIO (mercoledì)</b> alla solita ora. <br>Non dimenticate
+    di segnare questa data nel vostro calendario e di partecipare! \U0001F4C5"
   draft: true
+draft: true
+
 ---
 Il nuovo anno è alle porte e con esso arrivano anche nuovi appuntamenti da non perdere. Il calendario degli incontri del 2023 è già pronto con tante date da segnare in agenda.
 
