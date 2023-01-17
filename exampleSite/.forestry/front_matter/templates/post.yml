@@ -14,9 +14,9 @@ fields:
 - type: text
   name: description
   label: description
-- type: text
+- type: tag_list
   name: keywords
   label: keywords
-- type: text
+- type: tag_list
   name: author
   label: author
