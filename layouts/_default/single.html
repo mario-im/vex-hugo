@@ -12,8 +12,8 @@
         <article>
             <h1 class="mb-4">{{.Title | markdownify}}</h1>
             {{ if .Params.author }}
-            <author>di {{.Params.author | markdownify}}</author>
-            <br>
+            <author>di <em>{{.Params.author | markdownify}}</em></author>
+            <br><br>
             {{ end }}
             <div class="content">
               {{.Content}}
