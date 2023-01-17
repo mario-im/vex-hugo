@@ -3,10 +3,13 @@
 <section class="section">
   <div class="container">
     {{ with .Params.allert }}
-  <button class="balert bbalert {{ .hidden | markdownify}} " >
+  <div class="{{ .hidden | markdownify}}">
+      <button class="balert bbalert" >
     <div>
       {{ .content | markdownify }}
     </div></button>
+    <br>
+  </div>
 
     {{ end }}
     <div class="row justify-content-center">
