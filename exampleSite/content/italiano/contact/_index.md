@@ -32,7 +32,7 @@ allert:
   content: "<b>Attenzione! \U0001F6A8 </b> <br>L'incontro previsto per il 27 gennaio
     è stato anticipato al <b>25 GENNAIO (mercoledì)</b> alla solita ora. <br>Non dimenticate
     di segnare questa data nel vostro calendario e di partecipare! \U0001F4C5"
-  hidden: hidden
+  hidden: ''
 
 ---
 Il nuovo anno è alle porte e con esso arrivano anche nuovi appuntamenti da non perdere. Il calendario degli incontri del 2023 è già pronto con tante date da segnare in agenda.
