@@ -68,6 +68,7 @@ googleAnalyticsID = "G-KFZ6C1XTH1"
 clarityID = "eu5qsu0erl"
 facebook = "bonsaiblu"
 instagram = "bonsaiblu"
+name = "BonsaiBlu | Il club bonsai di Milano"
 
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
