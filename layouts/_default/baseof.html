@@ -8,6 +8,7 @@
 		{{ else }}
 		{{ if -Title}}	<h2 class="hidden">{{.Tilte}}</h2>
 		{{ end }}
+{{ end }}		
 	{{- partial "preloader.html" . -}}
 	{{- partial "header.html" . -}}
 	{{- block "main" . }}{{- end }}
