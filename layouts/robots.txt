@@ -10,3 +10,4 @@ Allow: /      # allow all
 # Disallow: /*.xls$ #disallow file xls
 
 Sitemap: https://bonsaiblu.it/sitemap.xml
+disallow: https://bonsaiblu.it/galleria/
