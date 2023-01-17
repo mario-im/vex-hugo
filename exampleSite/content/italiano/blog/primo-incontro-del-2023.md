@@ -1,5 +1,5 @@
 +++
-author = ["Mario"]
+author = "Mario"
 date = 2023-01-10T23:00:00Z
 description = " Il BonsaiBlu di Milano si riunisce per il primo incontro dell'anno sotto la guida di Donato Danisi  per lavorare e curare le proprie piante bonsai. I soci impareranno nuove tecniche e condivideranno consigli per far crescere al meglio le loro piante in questo nuovo anno."
 image = "/images/bonsa-pixel-art.png"
