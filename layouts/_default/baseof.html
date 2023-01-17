@@ -4,11 +4,11 @@
 
 {{ if .Page.Title }}
 	<body id="body">
-		<h2 class="hidden">{{ .Page.Title }</h2>
+		<h2 class="hidden">{{ .Page.Title }}</h2>
 		{{ else }}
 		{{ if -Title}}	<h2 class="hidden">{{.Tilte}}</h2>
 		{{ end }}
-{{ end }}		
+{{ end }}
 	{{- partial "preloader.html" . -}}
 	{{- partial "header.html" . -}}
 	{{- block "main" . }}{{- end }}
