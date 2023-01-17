@@ -1,0 +1,19 @@
+<h1>{{ .Params.name }}</h1>
+<img src="{{ .Params.photo }}" alt=""/>
+
+<h2>Bio</h2>
+{{ .Content }}
+{{ with .Params.instagram }}
+  <p>
+    <a href="https://instagram.com/{{ substr . 1 }}">
+      Segui @{{ $.Params.name }} on intagram
+    </a>
+  </p>
+{{ end }}
+
+<h2>Articoli</h2>
+<ul>
+{{ range .Data.Pages }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{ end }}
+</ul>
