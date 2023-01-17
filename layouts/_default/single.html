@@ -20,11 +20,11 @@
             </div>
 
 
-
+{{ range .Pages }}
 <p class="byline">
-  by {{ .Render "author-link" }}
+  by {{ range .Pages }}{{ .Render "author-link" }}
 </p>
-
+{{ end }}
           </article>
         </div>
     </div>
