@@ -22,7 +22,7 @@
 
 {{ range .Pages }}
 <p class="byline">
-  by {{ range .Pages }}{{ .Render "author-link" }}
+  by {{ .Render "author-link" }}
 </p>
 {{ end }}
           </article>
