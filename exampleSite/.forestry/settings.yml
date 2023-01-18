@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: exampleSite/content/italiano/authors
+  label: Autori
+  create: all
+  match: "**/*"
 - type: heading
   label: Authors
 - type: heading
@@ -29,7 +34,7 @@ sections:
   label: Post (it)
   create: documents
   match: "**/*"
-  new_doc_ext: '20191203072044'
+  new_doc_ext: ''
   templates:
   - post
 - type: heading
