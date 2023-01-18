@@ -3,6 +3,44 @@
 <section class="feature-list section">
   <div class="container">
     <div class="row">
+      <div class="col-md-5 mb-4 mb-md-0">
+
+        <div>
+        <img class="img-fluid w-100" src="{{ .Params.photo }}" alt="><"/>
+        </div>
+      <div class="col-lg-6 col-md-7 offset-lg-1">
+      <h1 class="mb-4">{{ .Params.name }}</h1>
+
+        <h2 class="mb-4">Bio</h2>
+        {{ .Content }}
+        {{ with .Params.instagram }}
+          <p>
+            <a href="https://instagram.com/{{ substr . 1 }}">
+              Segui {{ $.Params.name }} on intagram
+            </a>
+          </p>
+        {{ end }}
+
+        <h2>Articoli</h2>
+        <ul>
+        {{ range .Data.Pages }}
+            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+        </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
+
+<!--
+{{ define "main" }}
+
+<section class="feature-list section">
+  <div class="container">
+    <div class="row">
       <div class="col-12 text-center mb-5">
 
         <h1>{{ .Params.name }}</h1>
@@ -30,3 +68,4 @@
 </section>
 
 {{ end }}
+-->
