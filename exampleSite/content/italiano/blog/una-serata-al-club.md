@@ -1,4 +1,5 @@
 +++
+authors = "Mario"
 date = 2022-10-27T22:00:00Z
 description = "28 novembre 2022, serata di lavori sulle piante dei soci del club. Bonsai di pino"
 image = "/images/sertataclub28112022.jpeg"
