@@ -1,8 +1,10 @@
 {{ define "main" }}
 <h1>Autori</h1>
 <ul>
-  {{ range .Data.Pages }}
-    {{ partial "author-figure" . }}
-  {{ end }}
+{{ range .Data.Pages }}
+  <li>
+{{ partial "author-figure" }}
+    <a href="{{ .Permalink }}">{{ .Params.name }}</a></li>
+{{ end }}
 </ul>
 {{ end }}
