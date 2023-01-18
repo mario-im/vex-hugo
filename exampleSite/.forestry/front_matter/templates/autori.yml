@@ -1,0 +1,16 @@
+---
+label: autori
+hide_body: false
+fields:
+- type: text
+  name: name
+  label: name
+- type: file
+  name: photo
+  label: photo
+- type: file
+  name: avatar
+  label: avatar
+- type: text
+  name: instagram
+  label: instagram
