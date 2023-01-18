@@ -34,7 +34,7 @@ sections:
   label: Post (it)
   create: documents
   match: "**/*"
-  new_doc_ext: ''
+  new_doc_ext: app
   templates:
   - post
 - type: heading
