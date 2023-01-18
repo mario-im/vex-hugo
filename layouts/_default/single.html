@@ -13,7 +13,7 @@
             <h1 class="mb-4">{{.Title | markdownify}}</h1>
             {{ if .Params.authors }}
             <author>di
-              <a href="/authors/{{ urlize . }}">
+              <a href="/authors/{{ .Params.authors }}">
                 <em>{{.Params.authors | markdownify}}</em>
               </a>
             </author>
