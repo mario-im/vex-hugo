@@ -1,5 +1,5 @@
 +++
-authors = "Mario"
+authors = "BonsaiBlu"
 date = 2023-01-13T22:00:00Z
 description = "Si è da poco concluso il primo incontro del 2023 al club Bonsai Blu di Milano, si è partiti a razzo è stato fantastico!"
 image = "/images/2023-di-comincia-a-razzo.jpg"
