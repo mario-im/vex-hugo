@@ -11,6 +11,8 @@ sections:
   label: Autori
   create: all
   match: "**/*"
+  templates:
+  - autori
 - type: heading
   label: Homepage
 - type: document
