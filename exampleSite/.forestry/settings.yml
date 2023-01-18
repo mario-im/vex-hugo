@@ -4,13 +4,13 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Authors
 - type: directory
   path: exampleSite/content/italiano/authors
   label: Autori
   create: all
   match: "**/*"
-- type: heading
-  label: Authors
 - type: heading
   label: Homepage
 - type: document
