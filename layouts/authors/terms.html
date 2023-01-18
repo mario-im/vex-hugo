@@ -1,9 +1,9 @@
 {{ define "main" }}
 <h1>Autori</h1>
 <ul>
-{{ range .Data.Pages }}
+{{ range .Pages }}
     {{ partial "author-figure" . }}
-  <li><a href="{{ .Permalink }}">{{ .Params.name }}</a></li>
-{{ end }}
+      <li><a href="{{ .Permalink }}">{{ .Params.name }}</a></li>
+    {{ end }}
 </ul>
 {{ end }}
