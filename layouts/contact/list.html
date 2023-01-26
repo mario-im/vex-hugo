@@ -19,7 +19,7 @@
         <p>{{ .content | markdownify }}</p>
         <ul class="list-unstyled contact-list">
           {{with .mobile}} <li class="mb-3"><a href="tel:{{ . }}"><i class="tf-ion-ios-telephone mr-2"></i>
-              {{ . }}</a></li>{{ end }}
+            +39  {{ . }}</a></li>{{ end }}
           {{with .email}} <li class="mb-3"><a href="mailto:{{ . }}"><i class="tf-ion-email mr-2"></i>{{ . }}</a></li>
           {{end }}
           {{with .location }} <li class="mb-3"><i class="tf-ion-ios-location mr-2"></i>{{ . }}
