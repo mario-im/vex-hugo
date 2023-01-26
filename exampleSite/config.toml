@@ -62,6 +62,8 @@ title =  "Scopri di più su di noi| Bonsai Blu | Il club bonsai di Milano"
 description = "Bonsai Blu Milano. Circolo ricreativo dove appassionati si ritrovano per condividere le proprie esperienze."
 logo = "images/logo-text.png"
 logo_width = "250px"
+keywords ="bonsai, blu, bonsaiblu, bonsai milano, club bonsai milano"
+
 # Google Analytics 4
 googleAnalyticsID = "G-KFZ6C1XTH1"
 # CLarity
