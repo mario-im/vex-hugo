@@ -3,7 +3,7 @@ authors = "Mario"
 date = 2023-01-25T19:30:00Z
 description = ""
 draft = true
-image = ""
+image = "/images/img_4869.jpeg"
 keywords = ["tasso", "dolci", "incontri"]
 title = "Esclusivamente di mercoledì tra Tassi e dolci"
 
