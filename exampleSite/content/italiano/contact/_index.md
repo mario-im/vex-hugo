@@ -4,7 +4,7 @@ description: Qui puoi trovare come contattare il club del Bonsai Blu di Milano
 office:
   title: Incontrarsi è il primo passo per creare una community, ecco dove lo fa il
     club.
-  mobile: "+39 3928268192"
+  mobile: "3928268192"
   email: " -"
   location: 6/a, Via De Amicis - 20089 Rozzano (MI)
   content: "La condivisione degli interessi e la possibilità di conoscere persone
