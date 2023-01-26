@@ -12,7 +12,7 @@ office:
     è quello di creare un ambiente accogliente e informale dove ci si possa incontrare,
     scambiare idee e passare del tempo in compagnia lavorando le nostre piante.\n\nPer
     rimanere sempre aggiornati sui nostri incontri, ti invitiamo a scriverci per entrare
-    nel nostro gruppo (**Whatsapp**)[https://wa.me/39{{ . }}?text=Ciao%20ti%20contatto%20dal%20sito%20BonsaiBlu]. È il modo più semplice e veloce per essere informati
+    nel nostro gruppo **Whatsapp**. È il modo più semplice e veloce per essere informati
     su dove e quando ci incontriamo.\n\nInoltre, potrai interagire con gli altri membri
     del gruppo, condividere le tue esperienze, chiedere informazioni e partecipare
     attivamente alla vita della community.\n\nNon esitare a contattarci, siamo sempre
