@@ -103,7 +103,7 @@ function executeSearch(searchQuery) {
             if (result.length > 0) {
                 populateResults(result);
             } else {
-                document.getElementById('search-results').innerHTML = '<p class=\"search-results-empty\">No matches found</p>';
+                document.getElementById('search-results').innerHTML = '<p class=\"search-results-empty\">Nessuna corrispondenza trovata</p>';
             }
             hide(document.querySelector('.search-loading'));
         })
