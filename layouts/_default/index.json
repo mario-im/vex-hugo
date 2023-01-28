@@ -1,5 +1,5 @@
 {{- $.Scratch.Add "index" slice -}}
 {{- range .Site.RegularPages -}}
-    {{- $.Scratch.Add "index" (dict "title" .Title "tags" .Params.tags "categories" .Params.categories "contents" .Plain "permalink" .Permalink "opennig_hour" .Params.opennig_hour "day_time" range .day_time) -}}
+    {{- $.Scratch.Add "index" (dict "title" .Title "tags" .Params.tags "categories" .Params.categories "contents" .Plain "permalink" .Permalink "opennig_hour" .Params.opennig_hour) -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}
