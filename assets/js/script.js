@@ -66,7 +66,7 @@ var fuseOptions = {
         {name: "title", weight: 0.45},
         {name: "contents", weight: 0.4},
         {name: "tags", weight: 0.1},
-        {name: "categories", weight: 0.05}
+        {name: "categories", weight: 0.05},
         {name: "day_time", weight: 0.6}
     ]
 };
