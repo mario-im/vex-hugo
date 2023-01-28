@@ -81,7 +81,7 @@ if (inputBox !== null) {
         inputBox.value = searchQuery || "";
         executeSearch(searchQuery, false);
     } else {
-        document.getElementById('search-results').innerHTML = '<p class="search-results-empty">Please enter a word or phrase above, or see <a href="/tags/">all tags</a>.</p>';
+        document.getElementById('search-results').innerHTML = '<p class="search-results-empty">Inserisci una parola o una frase qui sopra, oppure vedi <a href="/tags/">tutti i tags</a>.</p>';
     }
 }
 
