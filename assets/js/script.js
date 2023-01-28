@@ -61,7 +61,7 @@ var fuseOptions = {
     tokenize: true,
     location: 0,
     distance: 100,
-    minMatchCharLength: 1,
+    minMatchCharLength: 3,
     keys: [
         {name: "title", weight: 0.45},
         {name: "contents", weight: 0.4},
