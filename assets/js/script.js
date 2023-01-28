@@ -61,7 +61,7 @@ var fuseOptions = {
     tokenize: true,
     location: 0,
     distance: 100,
-    minMatchCharLength: 3,
+    minMatchCharLength: 2,
     keys: [
         {name: "title", weight: 0.45},
         {name: "contents", weight: 0.4},
@@ -144,6 +144,7 @@ function populateResults(results) {
             link: value.item.permalink,
             tags: tags,
             categories: value.item.categories,
+            day_time: value.item.day_time,
             snippet: snippet
         });
         searchResults.innerHTML += output;
