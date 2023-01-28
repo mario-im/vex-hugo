@@ -766,3 +766,20 @@ figcaption p {
   font-size: 0.8em;
   margin-top: -1em;
 }
+
+
+/* search */
+.nav form input {
+  border: 1px solid #AAA;
+  border-right-width: 0;
+  border-radius: 0;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+  padding-left: 15px;
+  background-color: rgba(255,255,255,0.6);
+  height: 38px;
+  line-height: 38px;
+  width: 180px;
+  font-family: "Roboto","Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;
+  transition: width .2s ease-in-out, background .2s ease-in-out;
+}
