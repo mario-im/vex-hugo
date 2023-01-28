@@ -131,3 +131,5 @@ keywords ="keywords"
 		"google",
 		"yandex"
 	]
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
