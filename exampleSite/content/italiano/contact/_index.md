@@ -34,7 +34,7 @@ allert:
     20:30. <br><br>Non dimenticate di segnare questa data nel vostro calendario e
     di partecipare! \U0001F4C5"
   hidden: hidden
-
+tags: incontri, calendario, mappa, Whatsapp, contatti, orari,dove
 ---
 Il nuovo anno è alle porte e con esso arrivano anche nuovi appuntamenti da non perdere. Il calendario degli incontri del 2023 è già pronto con tante date da segnare in agenda.
 
