@@ -783,3 +783,22 @@ figcaption p {
   font-family: "Roboto","Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;
   transition: width .2s ease-in-out, background .2s ease-in-out;
 }
+
+.navbar form button{
+  background-color: #3a047e;
+background-color: rgba(255,255,255,0.6);
+color: white;
+font-family: "Roboto","Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;
+height: 38px;
+border: 1px solid #AAA;
+border-left-width: 0;
+text-transform: uppercase;
+font-weight: 400;
+border-radius: 0;
+border-top-right-radius: 25px;
+border-bottom-right-radius: 25px;
+float: right;
+padding: 0 12px 0 8px;
+margin: 0;
+cursor: pointer;
+}
