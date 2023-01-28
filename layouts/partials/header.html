@@ -15,6 +15,12 @@
           <li class="nav-item">
             <a class="nav-link" href="{{if .Pre}}{{site.BaseURL | relLangURL}}{{.Pre}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}">{{ .Name }}</a>
           </li>
+          <form action="/search" method="get" role="search">
+            <input type="search" placeholder="Search...." name="q" id="search-query" aria-label="search text">
+            <button type="submit" aria-label="Search Button">
+              <img src="/images/svg/fi-magnifying-glass.svg" width="20" height="20" alt="Search Icon">
+            </button>
+          </form>
           {{ end }}
         </ul>
         <!-- Language List -->
@@ -42,14 +48,6 @@
       {{ if site.Params.snipcart.enable}}
       <button class="cart snipcart-checkout"><i class="tf-ion-android-cart"></i><span class="badge badge-primary snipcart-items-count"></span></button>
       {{ end }}
-
-      <form action="/search" method="get" role="search">
-        <input type="search" placeholder="Search...." name="q" id="search-query" aria-label="search text">
-        <button type="submit" aria-label="Search Button">
-          <img src="/images/svg/fi-magnifying-glass.svg" width="20" height="20" alt="Search Icon">
-        </button>
-      </form>
-
 
     </nav>
   </div>
