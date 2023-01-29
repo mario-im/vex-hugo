@@ -144,7 +144,7 @@ function populateResults(results) {
             link: value.item.permalink,
             tags: tags,
             categories: value.item.categories,
-            day_time: value.item.opennig_hour.day_time,
+            day_time: value.item.day_time,
             snippet: snippet
         });
         searchResults.innerHTML += output;
