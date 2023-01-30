@@ -8,4 +8,5 @@ opennig_hour:
   - "**Gennaio:** 13 - 25"
   - "**Febbraio:** 10 - 17"
   - "**Marzo:** 3 - 17 - 31"
+tags: gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto, settembre, ottobre, novembre, dicembre, 2023, calendario, incontri, 
 ---
