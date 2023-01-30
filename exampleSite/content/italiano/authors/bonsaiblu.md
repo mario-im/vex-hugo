@@ -1,6 +1,6 @@
 ---
-title: "BonsaiBlu"
-name: "BonsaiBlu"
+title: "test"
+name: "test"
 photo: "https://bonsaiblu.it/images/bonsai100.png"
 avatar: "https://bonsaiblu.it/images/bonsai100.png"
 instagram: "@bonsaiblu"
