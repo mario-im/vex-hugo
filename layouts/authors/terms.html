@@ -10,7 +10,8 @@
 {{ range .Data.Pages }}
   <li>
 {{ partial "author-figure" . }}
-    <a href="{{ .Permalink }}">{{ .Params.name }}</a>
+{{ .Params.name }}
+<!--    <a href="{{ .Permalink }}">{{ .Params.name }}</a>-->
 </li>
 {{ end }}
 </ul>
