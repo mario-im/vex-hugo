@@ -27,8 +27,9 @@ tags:
 - incontri
 - club
 - bonsai blu
+- venerdì
 content: Il calendario degli incontri per il 2023 è stato ufficialmente pubblicato,
-  con una serie di appuntamenti in programma il velenrdi dalle ore 20:30.
+  con una serie di appuntamenti in programma il venerdì dalle ore 20:30.
 
 ---
-Il calendario degli incontri per il 2023 è stato ufficialmente pubblicato, con una serie di appuntamenti in programma il velenrdi dalle ore 20:30.
+Il calendario degli incontri per il 2023 è stato ufficialmente pubblicato, con una serie di appuntamenti in programma il venerdì dalle ore 20:30.
