@@ -13,8 +13,7 @@
 
     {{ end }}
     <div class="row justify-content-center">
-
-      <div class="col-lg-3 col-sm-6 mb-5">
+      <div class="col-lg-5 col-sm-6 mb-5">
         {{ with .Params.opennig_hour }}
         <h2 class="font-weight-bold mb-4">{{ .title | markdownify }}</h2>
         <ul class="list-unstyled">
@@ -25,6 +24,25 @@
         {{ end }}
       </div>
     </div>
+    iv class="row justify-content-center">
+      <div class="col-lg-8">
+        <!-- <h2 class="font-weight-bold mb-4">{{ .Title | markdownify }}</h2> -->
+        <h2 class="font-weight-bold mb-4">Contattaci</h2>
+        <form action="{{ site.Params.contact_form_action }}" method="POST" class="row" netlify>
+          <div class="col-lg-6 mb-3">
+            <input type="text" class="form-control mb-2" id="name" name="name" placeholder="Il tuo nome">
+          </div>
+          <div class="col-lg-6 mb-3">
+            <input type="email" class="form-control mb-2" id="email" name="email" placeholder="La tua Email">
+          </div>
+          <div class="col-12 mb-3">
+            <textarea name="message" id="message" class="form-control mb-2" placeholder="Scrivi il tuo messaggio"></textarea>
+          </div>
+          <div class="col-12 text-right">
+            <button type="submit" value="send" class="btn btn-main btn-main-sm">{{ i18n "send" }}</button>
+          </div>
+        </form>
+      </div>
   </div>
 </section>
 
