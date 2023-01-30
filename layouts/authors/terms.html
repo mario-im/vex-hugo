@@ -7,10 +7,10 @@
   </div>
 </div>
 <ul>
+<h1>{{ .Params.name }}</h1>
 {{ range .Data.Pages }}
   <li>
 {{ partial "author-figure" . }}
-{{ .Params.name }}
 <!--    <a href="{{ .Permalink }}">{{ .Params.name }}</a>-->
 </li>
 {{ end }}
