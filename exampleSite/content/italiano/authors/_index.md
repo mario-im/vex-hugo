@@ -1,6 +1,6 @@
 ---
-title:
-name:
+title: "Autori"
+name: "Autori"
 photo:
 avatar:
 instagram:
