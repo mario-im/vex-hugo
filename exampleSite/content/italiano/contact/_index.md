@@ -21,7 +21,7 @@ opennig_hour:
   title: Calendario incontri 2023 | dalle ore 20:30
   day_time:
   - "**Gennaio:** 13 - 25"
-  - "**Febbraio:** 10 - 17"
+  - "**Febbraio:** 10 - 16"
   - "**Marzo:** 3 - 17 - 31"
 maps:
   title: Maps
@@ -35,6 +35,7 @@ allert:
     di partecipare! \U0001F4C5"
   hidden: hidden
 tags: incontri, calendario, mappa, Whatsapp, contatti, orari, dove
+
 ---
 Il nuovo anno è alle porte e con esso arrivano anche nuovi appuntamenti da non perdere. Il calendario degli incontri del 2023 è già pronto con tante date da segnare in agenda.
 
