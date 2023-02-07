@@ -7,7 +7,7 @@ opennig_hour:
   title: Calendario incontri 2023 | dalle ore 20:30
   day_time:
   - "**Gennaio:** 13 - 25"
-  - "**Febbraio:** 10 - 17"
+  - "**Febbraio:** 10 - 16"
   - "**Marzo:** 3 - 17 - 31"
 tags:
 - gennaio
