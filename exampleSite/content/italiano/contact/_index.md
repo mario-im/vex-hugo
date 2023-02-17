@@ -33,7 +33,7 @@ allert:
     17 febbraio è stato anticipato al <br><b>16 FEBBRAIO (giovedì)</b> sempre alle
     20:30. <br><br>Non dimenticate di segnare questa data nel vostro calendario e
     di partecipare! \U0001F4C5"
-  hidden: ''
+  hidden: hidden
 tags: incontri, calendario, mappa, Whatsapp, contatti, orari, dove
 
 ---
