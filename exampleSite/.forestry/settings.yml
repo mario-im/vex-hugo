@@ -79,6 +79,11 @@ sections:
 - type: document
   path: exampleSite/content/italiano/contact/_index.md
   label: Contatti (it)
+- type: document
+  path: exampleSite/content/italiano/contact/calendario-incontri-2023.md
+  label: Calendario Incontri 2023
+  match: "**/*"
+  read_only: false
 - type: heading
   label: About
 - type: document
