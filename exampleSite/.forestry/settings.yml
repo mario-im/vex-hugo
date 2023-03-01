@@ -99,7 +99,7 @@ sections:
   label: All Page (it)
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: heading
   label: Translations
 - type: directory

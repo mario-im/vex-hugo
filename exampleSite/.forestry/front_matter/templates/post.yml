@@ -20,5 +20,3 @@ fields:
 - type: text
   name: authors
   label: authors
-pages:
-- exampleSite/content/italiano/blog/workshop-ubi-con-andrea-meriggioli-portare-gli-attrezzi.app
