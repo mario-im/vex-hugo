@@ -2,7 +2,6 @@
 authors = "Mario"
 date = 2023-02-28T23:00:00Z
 description = "Il 5 marzo i soci Ubi potranno partecipare ad un workshop con Andrea Meriggioli presso la sede del club Bonsai Blu Milano. Si consiglia di portare attrezzi e massimo due piante piccole."
-draft = true
 image = "/images/photo-2023-03-01-15-57-34.jpg"
 keywords = ["workshop", "meriggioli", "ubi", "5 marzo"]
 title = "Workshop Ubi con Andrea Meriggioli: Portare gli attrezzi!"
