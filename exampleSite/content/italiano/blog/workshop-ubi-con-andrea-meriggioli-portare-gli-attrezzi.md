@@ -7,11 +7,11 @@ keywords = ["workshop", "meriggioli", "ubi", "5 marzo"]
 title = "Workshop Ubi con Andrea Meriggioli: Portate gli attrezzi!"
 
 +++
-Il prossimo 5 marzo i soci Ubi del club avranno l'opportunità di partecipare a un interessante workshop con **Andrea Meriggioli.** 
+Il prossimo 5 marzo i soci Ubi del club avranno l'opportunità di partecipare a un interessante workshop con **Andrea Meriggioli.**
 
 Si tratterà di un'occasione da non perdere per tutti coloro che vogliono approfondire le loro conoscenze in materia e condividere idee con altri appassionati.
 
-Il workshop si terrà presso la sede del club Bonsai Blu all'indirizzo **6/a, Via De Amicis - 20089 Rozzano (MI)** con ritrovo alle **9 del mattino**. 
+Il workshop si terrà presso la sede del club Bonsai Blu all'indirizzo **6/a, Via De Amicis - 20089 Rozzano (MI)** con ritrovo alle **9 del mattino**.
 
 L'organizzazione consiglia di portare i propri attrezzi, in modo da essere pronti per le attività previste. Inoltre, se si desidera, si potranno portare massimo due piante piccole, da lavorare durante l'evento.
 
@@ -20,3 +20,5 @@ Per garantire un'esperienza senza intoppi, l'organizzazione ha pensato a tutto: 
 Il workshop con Andrea Meriggioli rappresenta un'opportunità imperdibile per tutti i soci Ubi. Sarà un'occasione per apprendere nuove tecniche, condividere idee.
 
 Ricordiamo che per partecipare, basta essere presenti presso l'indirizzo **6/a, Via De Amicis - 20089 Rozzano (MI)** alle **ore 9 del 5 marzo**, armati di attrezzi e, perché no, di una o due piante piccole.
+
+In occasione del workshop, e solo per i partecipanti, Andrea Meriggioli applicherà uno sconto per l'acquisto del suo libro "**L' acero bonsai. La coltivazione dell'acero tridente e palmato: storia, segreti e tecniche di coltivazione"**
