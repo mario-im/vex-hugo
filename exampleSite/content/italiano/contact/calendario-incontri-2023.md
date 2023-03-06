@@ -9,6 +9,9 @@ opennig_hour:
   - "**Gennaio:** 13 - 25"
   - "**Febbraio:** 10 - 16"
   - "**Marzo:** 3 - 17 - 31"
+  - "**Aprile:** 7 - 14 - 28 "
+  - "**Maggio:**  12 - 19 - 26"
+  - "**Giugno:**  9 - 16"
 tags:
 - gennaio
 - febbraio
