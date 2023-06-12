@@ -33,6 +33,11 @@ tags:
 - venerdì
 content: Il calendario degli incontri per il 2023 è stato ufficialmente pubblicato,
   con una serie di appuntamenti in programma il venerdì dalle ore 20:30.
-
+allert:
+  content: "<br><b>Attenzione! \U0001F6A8 </b> <br><br>L'incontro previsto per il
+    16 giugno è stato anticipato al <br><b>15 GIUGNO (giovedì)</b> sempre alle
+    20:30. <br><br>Non dimenticate di segnare questa data nel vostro calendario e
+    di partecipare! \U0001F4C5"
+  hidden: NOhidden
 ---
 Il calendario degli incontri per il 2023 è stato ufficialmente pubblicato, con una serie di appuntamenti in programma il venerdì dalle ore 20:30.
