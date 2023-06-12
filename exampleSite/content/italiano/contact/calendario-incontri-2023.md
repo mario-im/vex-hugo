@@ -2,7 +2,7 @@
 title: BonsaiBlu Milano | Calendario incontri
 description: troverai quando si incontrano i membri del club del Bonsai Blu di Milano
   nel 2023
-office: 
+office:
 opennig_hour:
   title: Calendario incontri 2023 | dalle ore 20:30
   day_time:
@@ -11,7 +11,7 @@ opennig_hour:
   - "**Marzo:** 3 - 17 - 31"
   - "**Aprile:** 7 - 14 - 28 "
   - "**Maggio:**  12 - 19 - 26"
-  - "**Giugno:**  9 - 16"
+  - "**Giugno:**  9 - 15"
 tags:
 - gennaio
 - febbraio
