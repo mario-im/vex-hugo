@@ -30,8 +30,7 @@ export default defineConfig({
         label: "Autori",
         name: "autori",
         path: "exampleSite/content/italiano/authors",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
+        frontmatterFormat: "yaml",
         match: {
           include: "**/*",
         },
@@ -51,8 +50,7 @@ export default defineConfig({
         label: "Homepage (it)",
         name: "homepage__it_",
         path: "exampleSite/data/it",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
+        frontmatterFormat: "yaml",
         ui: {
           allowedActions: {
             create: false,
@@ -77,8 +75,7 @@ export default defineConfig({
         label: "Homepage (en)",
         name: "homepage__en_",
         path: "exampleSite/data/en",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
+        frontmatterFormat: "yaml",
         ui: {
           allowedActions: {
             create: false,
@@ -103,8 +100,7 @@ export default defineConfig({
         label: "Post (en)",
         name: "post__en_",
         path: "exampleSite/content/english/blog",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
+        frontmatterFormat: "yaml",
         match: {
           include: "**/*",
         },
@@ -124,8 +120,7 @@ export default defineConfig({
         label: "Post (it)",
         name: "post__it_",
         path: "exampleSite/content/italiano/blog",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
+        frontmatterFormat: "yaml",
         match: {
           include: "**/*",
         },
@@ -145,8 +140,7 @@ export default defineConfig({
         label: "Product (en)",
         name: "product__en_",
         path: "exampleSite/content/english/products",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
+        frontmatterFormat: "yaml",
         match: {
           include: "**/*",
         },
@@ -166,8 +160,7 @@ export default defineConfig({
         label: "Essenze (it)",
         name: "essenze__it_",
         path: "exampleSite/content/italiano/essenze",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
+        frontmatterFormat: "yaml",
         match: {
           include: "**/*",
         },
@@ -187,8 +180,7 @@ export default defineConfig({
         label: "suiseki (it)",
         name: "suiseki__it_",
         path: "exampleSite/content/italiano/suiseki",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
+        frontmatterFormat: "yaml",
         match: {
           include: "**/*",
         },
@@ -208,8 +200,7 @@ export default defineConfig({
         label: "suiseki (en)",
         name: "suiseki__en_",
         path: "exampleSite/content/english/suiseki",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
+        frontmatterFormat: "yaml",
         match: {
           include: "**/*",
         },
@@ -229,8 +220,7 @@ export default defineConfig({
         label: "Contact (en)",
         name: "contact__en_",
         path: "exampleSite/content/english/contact",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
+        frontmatterFormat: "yaml",
         ui: {
           allowedActions: {
             create: false,
@@ -255,8 +245,7 @@ export default defineConfig({
         label: "Contatti (it)",
         name: "contatti__it_",
         path: "exampleSite/content/italiano/contact",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
+        frontmatterFormat: "yaml",
         ui: {
           allowedActions: {
             create: false,
@@ -281,8 +270,7 @@ export default defineConfig({
         label: "Calendario Incontri 2023",
         name: "calendario_incontri_2023",
         path: "exampleSite/content/italiano/contact",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
+        frontmatterFormat: "yaml",
         ui: {
           allowedActions: {
             create: false,
@@ -307,8 +295,7 @@ export default defineConfig({
         label: "Chi siamo (it)",
         name: "chi_siamo__it_",
         path: "exampleSite/data/it",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
+        frontmatterFormat: "yaml",
         ui: {
           allowedActions: {
             create: false,
@@ -333,8 +320,7 @@ export default defineConfig({
         label: "All Page (en)",
         name: "all_page__en_",
         path: "exampleSite/content/english",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
+        frontmatterFormat: "yaml",
         match: {
           include: "**/*",
         },
@@ -353,8 +339,7 @@ export default defineConfig({
         label: "All Page (it)",
         name: "all_page__it_",
         path: "exampleSite/content/italiano",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
+        frontmatterFormat: "yaml",
         match: {
           include: "**/*",
         },
@@ -374,8 +359,7 @@ export default defineConfig({
         label: "i18n",
         name: "i18n",
         path: "exampleSite/i18n",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
+        frontmatterFormat: "yaml",
         match: {
           include: "**/*",
         },
@@ -394,8 +378,7 @@ export default defineConfig({
         label: "Configuration",
         name: "configuration",
         path: "exampleSite",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
+        frontmatterFormat: "yaml",
         ui: {
           allowedActions: {
             create: false,
