@@ -4,7 +4,7 @@ disableLanguages = ["en", "fr"]
 enableRobotsTXT = true
 googleAnalytics = "G-KFZ6C1XTH1"
 summarylength = "20"
-theme = "vex-hugo-v1"
+#theme = "vex-hugo-v1"#
 title = "Bonsai Blu | Il club bonsai di Milano"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
