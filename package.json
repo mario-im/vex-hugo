@@ -1,0 +1,16 @@
+{
+  "name": "senza-nome",
+  "version": "1.0.0",
+  "description": "<h1 align=center>Vex Hugo | <a target=\"_blank\" href=\"https://demo.gethugothemes.com/vex\" rel=\"nofollow\">Demo</a> | <a  target=\"_blank\" href=\"https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fvex%2F%23%2F\">Page Speed (84%)</a></h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.17",
+    "tinacms": "^1.5.8"
+  }
+}
