@@ -14,7 +14,7 @@ opennig_hour:
   - "**Giugno:**  9 - 15"
   - "**Luglio:**  7 "
   - "**Agosto:**  pausa estiva"
-  - "**Settembre:**  5 - 15"
+  - "**Settembre:**  8 - 15"
   - "**Ottobre:**  20 - 27"
   - "**Novembre:**  10 - 24"
   - "**Dicembre:**  -"
