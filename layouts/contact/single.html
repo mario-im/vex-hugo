@@ -21,7 +21,9 @@
           <li class="mb-2">{{ . | markdownify }}</li>
           {{ end }}
         </ul>
-        <p>{{ .Params.download_ics | markdownify }}</p>
+        {{ if .Params.download_ics }}
+<p>{{ .Params.download_ics | markdownify }}</p>
+{{ end }}
         {{ end }}
       </div>
 

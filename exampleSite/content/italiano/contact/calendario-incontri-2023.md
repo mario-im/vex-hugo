@@ -18,6 +18,7 @@ opennig_hour:
   - "**Ottobre:**  20 - 27"
   - "**Novembre:**  10 - 24"
   - "**Dicembre:**  -"
+download_ics: "Se desideri scaricare direttamente il file ICS con tutte le date degli incontri del club BonsaiBlu, puoi farlo cliccando [qui](https://bonsaiblu.it/images/CalendarioBonsaiBlu2023.ics)."
 tags:
 - gennaio
 - febbraio
@@ -45,7 +46,6 @@ allert:
     20:30. <br><br>Non dimenticate di segnare questa data nel vostro calendario e
     di partecipare! \U0001F4C5"
   hidden: hidden
-download_ics: "Se desideri scaricare direttamente il file ICS con tutte le date degli incontri del club BonsaiBlu, puoi farlo cliccando [qui](https://bonsaiblu.it/images/CalendarioBonsaiBlu2023.ics)."
 
 ---
 Il calendario degli incontri per il 2023 è stato ufficialmente pubblicato, con una serie di appuntamenti in programma il venerdì dalle ore 20:30.
