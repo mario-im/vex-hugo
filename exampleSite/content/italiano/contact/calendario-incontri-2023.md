@@ -18,7 +18,7 @@ opennig_hour:
   - "**Ottobre:**  20 - 27"
   - "**Novembre:**  10 - 24"
   - "**Dicembre:**  -"
-download_ics: "Se desideri scaricare direttamente il file ICS con tutte le date degli incontri del club BonsaiBlu, puoi farlo cliccando [qui](https://bonsaiblu.it/images/CalendarioBonsaiBlu2023.ics) o sul pulsante <br>[Salva il calendario 2023](https://bonsaiblu.it/images/CalendarioBonsaiBlu2023.ics){: .btn .btn-main .btn-main-sm}
+download_ics: "Se desideri scaricare direttamente il file ICS con tutte le date degli incontri del club BonsaiBlu, puoi farlo cliccando [qui](https://bonsaiblu.it/images/CalendarioBonsaiBlu2023.ics). o sul pulsante <br>{:.btn .btn-main .btn-main-sm}[Salva il calendario 2023](https://bonsaiblu.it/images/CalendarioBonsaiBlu2023.ics)
  "
 tags:
 - gennaio
