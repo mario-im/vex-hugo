@@ -47,3 +47,7 @@ allert:
   hidden: hidden
 ---
 Il calendario degli incontri per il 2023 è stato ufficialmente pubblicato, con una serie di appuntamenti in programma il venerdì dalle ore 20:30.
+
+Se desideri scaricare direttamente il file ICS con tutte le date degli incontri del club BonsaiBlu, puoi farlo cliccando [qui](https://bonsaiblu.it/images/CalendarioBonsaiBlu2023.ics).
+
+Cliccando sul pulsante, il file ICS verrà scaricato automaticamente sul tuo dispositivo. Assicurati di importarlo nel tuo calendario per visualizzare e ricordare facilmente tutte le date degli incontri.
