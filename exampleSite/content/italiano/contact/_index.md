@@ -26,6 +26,12 @@ opennig_hour:
   - "**Aprile:** 7 - 14 - 28 "
   - "**Maggio:**  12 - 19 - 26"
   - "**Giugno:**  9 - 15"
+  - "**Luglio:**  7 "
+  - "**Agosto:**  pausa estiva"
+  - "**Settembre:**  5 - 15"
+  - "**Ottobre:**  20 - 27"
+  - "**Novembre:**  10 - 24"
+  - "**Dicembre:**  -"
 maps:
   title: Maps
   alt: mappa del ritrovo del BonsaiBlu di Milano
@@ -36,7 +42,7 @@ allert:
     16 giugno è stato anticipato al <br><b>15 GIUGNO (giovedì)</b> sempre alle
     20:30. <br><br>Non dimenticate di segnare questa data nel vostro calendario e
     di partecipare! \U0001F4C5"
-  hidden: NOhidden
+  hidden: hidden
 tags: incontri, calendario, mappa, Whatsapp, contatti, orari, dove
 
 ---
