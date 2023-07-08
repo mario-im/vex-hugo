@@ -5,7 +5,7 @@ PRODID:-//Your Company//NONSGML Event Calendar//EN
 BEGIN:VEVENT
 UID:event1@example.com
 DTSTART:20230908T203000
-DTEND:20230908T213000
+DTEND:20230908T233000
 SUMMARY:Settembre - Primo Incontro
 DESCRIPTION:Primo incontro del club BonsaiBlu del mese di settembre, che si terrà alle 20:30.
 END:VEVENT
@@ -13,7 +13,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event2@example.com
 DTSTART:20230915T203000
-DTEND:20230915T213000
+DTEND:20230915T233000
 SUMMARY:Settembre - Ultimo Incontro
 DESCRIPTION:Ultimo incontro del club BonsaiBlu del mese di settembre, che si terrà alle 20:30.
 END:VEVENT
@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event3@example.com
 DTSTART:20231020T203000
-DTEND:20231020T213000
+DTEND:20231020T233000
 SUMMARY:Ottobre - Primo Incontro
 DESCRIPTION:Primo incontro del club BonsaiBlu del mese di ottobre, che si terrà alle 20:30.
 END:VEVENT
@@ -29,7 +29,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event4@example.com
 DTSTART:20231027T203000
-DTEND:20231027T213000
+DTEND:20231027T233000
 SUMMARY:Ottobre - Ultimo Incontro
 DESCRIPTION:Ultimo incontro del club BonsaiBlu del mese di ottobre, che si terrà alle 20:30.
 END:VEVENT
@@ -37,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event5@example.com
 DTSTART:20231110T203000
-DTEND:20231110T213000
+DTEND:20231110T233000
 SUMMARY:Novembre - Primo Incontro
 DESCRIPTION:Primo incontro del club BonsaiBlu del mese di novembre, che si terrà alle 20:30.
 END:VEVENT
@@ -45,7 +45,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event6@example.com
 DTSTART:20231124T203000
-DTEND:20231124T213000
+DTEND:20231124T233000
 SUMMARY:Novembre - Ultimo Incontro
 DESCRIPTION:Ultimo incontro del club BonsaiBlu del mese di novembre, che si terrà alle 20:30.
 END:VEVENT
