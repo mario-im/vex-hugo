@@ -12,17 +12,20 @@ all'Arte Bonsai
 
 Il corso si sviluppa in quattro incontri con approfondimenti sulla: **storia, stili, tecnica**, applicazione del filo metallico, fitopatologia e lavorazione pratica su uno Juniperus Itoigawa
 
-Il costo di 100,00 euro comprende
+Il costo di **100,00 euro** comprende
 
-Corso corredato da dispensa e
-ginepro Itoigawa
+Corso corredato da dispensa e **ginepro Itoigawa**
 
-*Gli incontri si terranno dalle 20,30 alle 23,30 presso: via Edmondo de Amicis 6/A
-Rozzano*
+**Gli incontri si terranno dalle 20,30 alle 23,30 presso: via Edmondo de Amicis 6/A Rozzano**
 
 **Le serate si terranno:**
-Venerdì 22 settembre
-Venerdì 29 settembre
-Venerdì 6 ottobre
-Venerdì 13 ottobre
-**Per informazioni: cell 3396894290 danisidonato@libero.it merilu2@alice.it**
+
+Venerdì *22 settembre*
+
+Venerdì *29 settembre*
+
+Venerdì *6 ottobre*
+
+Venerdì *13 ottobre*
+
+***Per informazioni: cell 3396894290 danisidonato@libero.it merilu2@alice.it***
