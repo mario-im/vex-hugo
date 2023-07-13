@@ -32,4 +32,3 @@ Venerdì *13 ottobre*
 
 
 ![Volantino alt ><](/images/corso-introduttivo.jpeg "Volantino")
-![Gaetano alt ><](/images/Gaetano-Princiotta.jpg "Gaetano Princiotta")
