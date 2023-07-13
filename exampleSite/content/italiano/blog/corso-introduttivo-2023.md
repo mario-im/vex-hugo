@@ -1,5 +1,5 @@
 +++
-authors = "Mario"
+authors = "BonsaiBlu"
 date = 2023-07-13T12:00:00Z
 description = "Corso Introduttivo all'arte del bonsai"
 image = "/images/Gaetano-Princiotta.jpg"
