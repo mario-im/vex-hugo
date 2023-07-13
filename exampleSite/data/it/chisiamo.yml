@@ -60,3 +60,7 @@ testimonial_chisiamo:
   - name: Mariangela
     image: "/images/mariangela.png"
     designation: UNICA
+  - name: Gaetano
+    designation: ''
+    image: "/images/Gaetano-Princiotta.jpg"
+    content: ''
