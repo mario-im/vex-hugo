@@ -1,11 +1,10 @@
 +++
 authors = "Mario"
-date = 2023-03-01T12:00:00Z
+date = 2023-07-14T12:00:00Z
 description = "Corso Introduttivo all'arte del bonsai"
 image = "/images/corso-introduttivo.jpeg"
 keywords = ["workshop", "corso base", "BonsaiBlu", "22 Settembre", "29 Settembre", "6 Ottobre", "13 Ottobre", "Corso introduttivo", "arte", "bonsai"]
 title = "Corso Introduttivo all'arte del bonsai"
-draft = true
 
 +++
 In Collaborazione con **Gaetano Princiotta** BonsaiBlu organizza un Corso introduttivo
