@@ -30,6 +30,6 @@ Venerdì *13 ottobre*
 
 ***Per informazioni: cell 3396894290 danisidonato@libero.it merilu2@alice.it***
 
-[Scarica il calendario con tutte le date del corso ](https://bonsaiblu.it/images/corso-introduttivo.ics).
+[Scarica il calendario con tutte le date del corso ](https://bonsaiblu.it/images/corso-introduttivo-2023.ics).
 
 ![Volantino alt ><](/images/corso-introduttivo.jpeg "Volantino")
