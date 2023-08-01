@@ -41,6 +41,6 @@ Telefono: []
 
 BonsaiBlu, l'Associazione Bonsai il Moro e il Coordinamento Bonsai Piemonte-Lombardia sono organizzazioni dedite alla promozione e alla diffusione della cultura del Bonsai in Italia. Condividono una passione per l'arte del Bonsai e lavorano insieme per fornire risorse, formazione e supporto a tutti coloro che sono interessati a questa forma d'arte unica.
 
-[Scarica il calendario con tutte le date del evento](https://bonsaiblu.it/images/BonsaiPiemonteLombardia.ics).
+[Scarica il calendario con tutti gli appuntamenti](https://bonsaiblu.it/images/BonsaiPiemonteLombardia.ics).
 
 ![Volantino alt ><](/images/CoordinamentoBonsaiPiemonteLombardia.jpeg "Volantino")
