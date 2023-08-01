@@ -13,7 +13,7 @@ title = "24ª Mostra Coordinamento Bonsai Piemonte - Lombardia"
 
 **ASSAGO | Centro Civico, Via dei Caduti**
 
-Il Coordinamento Bonsai Piemonte-Lombardia, in collaborazione con BonsaiBlu e l'Associazione Monsai il Moro, è orgoglioso di annunciare la 24ª edizione della Mostra Coordinamento Bonsai Piemonte - Lombardia, un evento che celebra l'arte, la scienza e la cultura del Bonsai.
+Il Coordinamento Bonsai Piemonte-Lombardia, in collaborazione con BonsaiBlu e l'Associazione Bonsai il Moro, è orgoglioso di annunciare la 24ª edizione della Mostra Coordinamento Bonsai Piemonte - Lombardia, un evento che celebra l'arte, la scienza e la cultura del Bonsai.
 
 Il programma di due giorni inizierà sabato 28 ottobre con una conferenza a cura di Andrea Scarenzi alle 15:30 dal titolo "La coltivazione degli Shohin".
 
@@ -37,9 +37,9 @@ Email: []
 
 Telefono: []
 
-**Informazioni su BonsaiBlu, l'Associazione Monsai il Moro e il Coordinamento bonsai Piemonte-Lombardia**
+**Informazioni su BonsaiBlu, l'Associazione Bonsai il Moro e il Coordinamento bonsai Piemonte-Lombardia**
 
-BonsaiBlu, l'Associazione Monsai il Moro e il Coordinamento Bonsai Piemonte-Lombardia sono organizzazioni dedite alla promozione e alla diffusione della cultura del Bonsai in Italia. Condividono una passione per l'arte del Bonsai e lavorano insieme per fornire risorse, formazione e supporto a tutti coloro che sono interessati a questa forma d'arte unica.
+BonsaiBlu, l'Associazione Bonsai il Moro e il Coordinamento Bonsai Piemonte-Lombardia sono organizzazioni dedite alla promozione e alla diffusione della cultura del Bonsai in Italia. Condividono una passione per l'arte del Bonsai e lavorano insieme per fornire risorse, formazione e supporto a tutti coloro che sono interessati a questa forma d'arte unica.
 
 [Scarica il calendario con tutte le date del evento](https://bonsaiblu.it/images/BonsaiPiemonteLombardia.ics).
 
