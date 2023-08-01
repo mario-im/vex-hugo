@@ -1,6 +1,6 @@
 +++
 authors = "BonsaiBlu"
-date = 2023-08-1T12:00:00Z
+date = 2023-08-01T12:00:00Z
 description = "24ª Mostra Coordinamento Bonsai Piemonte - Lombardia"
 image = "/images/CoordinamentoBonsaiPiemonteLombardia.jpeg"
 keywords = ["Mostra", "Coordinamento Bonsai", "BonsaiBlu", "28 Ottobre", "29 Ottobre", "mostra bonsai", "bonsai Lombardia", "bonsai Piemonte", "arte", "bonsai"]
