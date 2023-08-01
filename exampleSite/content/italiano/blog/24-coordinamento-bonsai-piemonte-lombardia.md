@@ -15,7 +15,7 @@ title = "24ª Mostra Coordinamento Bonsai Piemonte - Lombardia"
 
 Il Coordinamento Bonsai Piemonte-Lombardia, in collaborazione con BonsaiBlu e l'Associazione Monsai il Moro, è orgoglioso di annunciare la 24ª edizione della Mostra Coordinamento Bonsai Piemonte - Lombardia, un evento che celebra l'arte, la scienza e la cultura del Bonsai.
 
-Il programma di due giorni inizierà sabato 28 ottobre con una conferenza a cura di Andrea Scarenzi alle 15:30 dal titolo "La coltivazione degli Shoin".
+Il programma di due giorni inizierà sabato 28 ottobre con una conferenza a cura di Andrea Scarenzi alle 15:30 dal titolo "La coltivazione degli Shohin".
 
 Il giorno seguente, **domenica 29 ottobre**, avranno luogo una serie di eventi emozionanti.
 La giornata inizierà alle **10:00** con una conferenza a cura di **Igor Carino** dal titolo **"Il mondo Suiseki"**, seguita dal concorso **"Miglior Bonsaista 2023"**.
