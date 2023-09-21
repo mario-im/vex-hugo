@@ -2,6 +2,18 @@
 
 <section class="section">
   <div class="container">
+
+    {{ with .Params.allert }}
+  <div class="{{ .hidden | markdownify}}" align="center">
+      <button class="balert bbalert" >
+    <div>
+      {{ .content | markdownify }}
+    </div></button>
+    <br><br>
+  </div>
+
+    {{ end }}
+
     <div class="row">
       <div class="col-md-5 mb-4 mb-md-0">
         <div class="sticky-image">
