@@ -25,7 +25,7 @@ Corso corredato da dispensa e **ginepro Itoigawa**
 
 **Le serate si terranno:**
 
-Venerdì *22 settembre*
+~~Venerdì *22 settembre*~~ da riprogrammare
 
 Venerdì *29 settembre*
 
