@@ -7,8 +7,8 @@ keywords = ["workshop", "corso base", "BonsaiBlu", "22 Settembre", "29 Settembre
 title = "Corso Introduttivo all'arte del bonsai"
 
 [allert]
-content = '''<br><b>Attenzione! \U0001F6A8 </b> <br><br>L'incontro previsto per il 21 settembre è stato posticipato a data da destinarsi! \U0001F4C5'''
-hidden = 'nohidden'
+content = "<br><b>Attenzione! \U0001F6A8 </b> <br><br>L'incontro previsto per il 21 settembre è stato posticipato a data da destinarsi! \U0001F4C5"
+hidden = "nohidden"
 
 
 +++
