@@ -6,6 +6,11 @@ image = "/images/Gaetano-Princiotta.jpg"
 keywords = ["workshop", "corso base", "BonsaiBlu", "22 Settembre", "29 Settembre", "6 Ottobre", "13 Ottobre", "Corso introduttivo", "arte", "bonsai"]
 title = "Corso Introduttivo all'arte del bonsai"
 
+allert=
+  content= "<br><b>Attenzione! \U0001F6A8 </b> <br><br>L'incontro previsto per il
+    22 settembre è stato posticipato a data da destinarsi  \U0001F4C5"
+  hidden= Nohidden
+
 +++
 In Collaborazione con **Gaetano Princiotta** BonsaiBlu organizza un Corso introduttivo
 all'Arte Bonsai
