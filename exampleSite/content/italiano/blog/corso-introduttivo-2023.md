@@ -7,7 +7,7 @@ keywords = ["workshop", "corso base", "BonsaiBlu", "22 Settembre", "29 Settembre
 title = "Corso Introduttivo all'arte del bonsai"
 
 [allert]
-content = "<br><b>Attenzione! \U0001F6A8 </b> <br><br>L'incontro previsto per il 21 settembre è stato posticipato a data da destinarsi! \U0001F4C5"
+content = "<br><b>Attenzione! \U0001F6A8 </b> <br><br>Il corso è momentaneamente sospeso, vi informeremo sulle nuove date \U0001F4C5"
 hidden = "nohidden"
 
 
@@ -27,11 +27,9 @@ Corso corredato da dispensa e **ginepro Itoigawa**
 
 ~~Venerdì *22 settembre*~~ da riprogrammare
 
-Venerdì *29 settembre*
+~~Venerdì *6 ottobre*~~ da riprogrammare
 
-Venerdì *6 ottobre*
-
-Venerdì *13 ottobre*
+~~Venerdì *13 ottobre*~~ da riprogrammare
 
 ***Per informazioni: cell 3396894290 danisidonato@libero.it merilu2@alice.it***
 

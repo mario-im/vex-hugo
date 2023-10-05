@@ -15,7 +15,7 @@ opennig_hour:
   - "**Luglio:**  7 "
   - "**Agosto:**  pausa estiva"
   - "**Settembre:**  8 - 15"
-  - "**Ottobre:**  20 - 27"
+  - "**Ottobre:**  13 - 20"
   - "**Novembre:**  10 - 24"
   - "**Dicembre:**  -"
 download_ics: "Se desideri scaricare direttamente il file ICS con tutte le date degli incontri del club BonsaiBlu, puoi farlo cliccando [qui](https://bonsaiblu.it/images/CalendarioBonsaiBlu2023.ics)."

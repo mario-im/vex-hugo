@@ -3,39 +3,5 @@ VERSION:2.0
 PRODID:-//YourCompany//YourApp//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:20230922T183000Z-001@yourapp.com
-DTSTAMP:20230922T183000Z
-DTSTART;TZID=Europe/Rome:20230922T203000
-DTEND;TZID=Europe/Rome:20230922T233000
-LOCATION:via Edmondo de Amicis 6/A Rozzano
-SUMMARY:Corso Introduttivo all’arte del bonsai | Bonsablu
-DESCRIPTION:Per informazioni: cell 3396894290 danisidonato@libero.it merilu2@alice.it
-END:VEVENT
-BEGIN:VEVENT
-UID:20230929T183000Z-001@yourapp.com
-DTSTAMP:20230929T183000Z
-DTSTART;TZID=Europe/Rome:20230929T203000
-DTEND;TZID=Europe/Rome:20230929T233000
-LOCATION:via Edmondo de Amicis 6/A Rozzano
-SUMMARY:Corso Introduttivo all’arte del bonsai | Bonsablu
-DESCRIPTION:Per informazioni: cell 3396894290 danisidonato@libero.it merilu2@alice.it
-END:VEVENT
-BEGIN:VEVENT
-UID:20231006T183000Z-001@yourapp.com
-DTSTAMP:20231006T183000Z
-DTSTART;TZID=Europe/Rome:20231006T203000
-DTEND;TZID=Europe/Rome:20231006T233000
-LOCATION:via Edmondo de Amicis 6/A Rozzano
-SUMMARY:Corso Introduttivo all’arte del bonsai | Bonsablu
-DESCRIPTION:Per informazioni: cell 3396894290 danisidonato@libero.it merilu2@alice.it
-END:VEVENT
-BEGIN:VEVENT
-UID:20231013T183000Z-001@yourapp.com
-DTSTAMP:20231013T183000Z
-DTSTART;TZID=Europe/Rome:20231013T203000
-DTEND;TZID=Europe/Rome:20231013T233000
-LOCATION:via Edmondo de Amicis 6/A Rozzano
-SUMMARY:Corso Introduttivo all’arte del bonsai | Bonsablu
-DESCRIPTION:Per informazioni: cell 3396894290 danisidonato@libero.it merilu2@alice.it
-END:VEVENT
+
 END:VCALENDAR

@@ -20,7 +20,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:event3@example.com
-DTSTART:20231020T203000
+DTSTART:20231013T203000
 DTEND:20231020T233000
 SUMMARY:Ottobre - Primo Incontro
 DESCRIPTION:Primo incontro del club BonsaiBlu del mese di ottobre, che si terrà alle 20:30.
@@ -28,7 +28,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:event4@example.com
-DTSTART:20231027T203000
+DTSTART:20231020T203000
 DTEND:20231027T233000
 SUMMARY:Ottobre - Ultimo Incontro
 DESCRIPTION:Ultimo incontro del club BonsaiBlu del mese di ottobre, che si terrà alle 20:30.
