@@ -4,20 +4,20 @@ description: troverai quando si incontrano i membri del club del Bonsai Blu di M
   nel 2023
 office:
 opennig_hour:
-  title: Calendario incontri 2023 | dalle ore 20:30
+  title: Calendario Incontri 2024 | dalle ore 20:30
   day_time:
-  - "**Gennaio:** 13 - 25"
-  - "**Febbraio:** 10 - 16"
-  - "**Marzo:** 3 - 17 - 31"
-  - "**Aprile:** 7 - 14 - 28 "
-  - "**Maggio:**  12 - 19 - 26"
-  - "**Giugno:**  9 - 15"
-  - "**Luglio:**  7 "
-  - "**Agosto:**  pausa estiva"
-  - "**Settembre:**  8 - 15"
-  - "**Ottobre:**  13 - 20"
-  - "**Novembre:**  10 - 24"
-  - "**Dicembre:**  -"
+  - "**Gennaio:** 19"
+  - "**Febbraio:** 9 - 23"
+  - "**Marzo:** 1 - 15 - 22"
+  - "**Aprile:** 5 - 19"
+  - "**Maggio:** 3 - 17"
+  - "**Giugno:** 7 - 21"
+  - "**Luglio -"
+  - "**Settembre:** 13 - 27"
+  - "**Ottobre:** 11 - 25"
+  - "**Novembre:** 8 - 22"
+  - "**Dicembre:** 13 assemblea"
+
 download_ics: "Se desideri scaricare direttamente il file ICS con tutte le date degli incontri del club BonsaiBlu, puoi farlo cliccando [qui](https://bonsaiblu.it/images/CalendarioBonsaiBlu2023.ics)."
 tags:
 - gennaio

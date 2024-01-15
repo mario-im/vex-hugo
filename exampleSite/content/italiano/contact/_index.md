@@ -18,20 +18,19 @@ office:
     attivamente alla vita della community.\n\nNon esitare a contattarci, siamo sempre
     felici di accogliere nuovi soci, ti aspettiamo per passare insieme momenti indimenticabili!"
 opennig_hour:
-  title: Calendario incontri 2023 | dalle ore 20:30
+  title: Calendario Incontri 2024 | dalle ore 20:30
   day_time:
-  - "**Gennaio:** 13 - 25"
-  - "**Febbraio:** 10 - 16"
-  - "**Marzo:** 3 - 17 - 31"
-  - "**Aprile:** 7 - 14 - 28 "
-  - "**Maggio:**  12 - 19 - 26"
-  - "**Giugno:**  9 - 15"
-  - "**Luglio:**  7 "
-  - "**Agosto:**  pausa estiva"
-  - "**Settembre:**  8 - 15"
-  - "**Ottobre:**  20 - 27"
-  - "**Novembre:**  10 - 24"
-  - "**Dicembre:**  -"
+  - "**Gennaio:** 19"
+  - "**Febbraio:** 9 - 23"
+  - "**Marzo:** 1 - 15 - 22"
+  - "**Aprile:** 5 - 19"
+  - "**Maggio:** 3 - 17"
+  - "**Giugno:** 7 - 21"
+  - "**Luglio -"
+  - "**Settembre:** 13 - 27"
+  - "**Ottobre:** 11 - 25"
+  - "**Novembre:** 8 - 22"
+  - "**Dicembre:** 13 assemblea"
 maps:
   title: Maps
   alt: mappa del ritrovo del BonsaiBlu di Milano
