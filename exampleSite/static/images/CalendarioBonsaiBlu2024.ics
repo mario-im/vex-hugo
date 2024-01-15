@@ -102,58 +102,58 @@ LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Rome:20240906T203000
-DTEND;TZID=Europe/Rome:20240906T235900
+DTSTART;TZID=Europe/Rome:20240913T203000
+DTEND;TZID=Europe/Rome:20240913T235900
 SUMMARY:Incontro al Club BonsaiBlu
-DESCRIPTION:Venerdì 6 Settembre 2024, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+DESCRIPTION:Venerdì 13 Settembre 2024, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
 LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Rome:20240920T203000
-DTEND;TZID=Europe/Rome:20240920T235900
+DTSTART;TZID=Europe/Rome:20240927T203000
+DTEND;TZID=Europe/Rome:20240927T235900
 SUMMARY:Incontro al Club BonsaiBlu
-DESCRIPTION:Venerdì 20 Settembre 2024, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+DESCRIPTION:Venerdì 27 Settembre 2024, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
 LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Rome:20241004T203000
-DTEND;TZID=Europe/Rome:20241004T235900
+DTSTART;TZID=Europe/Rome:20241011T203000
+DTEND;TZID=Europe/Rome:20241011T235900
 SUMMARY:Incontro al Club BonsaiBlu
-DESCRIPTION:Venerdì 4 Ottobre 2024, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+DESCRIPTION:Venerdì 11 Ottobre 2024, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
 LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Rome:20241018T203000
-DTEND;TZID=Europe/Rome:20241018T235900
+DTSTART;TZID=Europe/Rome:20241025T203000
+DTEND;TZID=Europe/Rome:20241025T235900
 SUMMARY:Incontro al Club BonsaiBlu
-DESCRIPTION:Venerdì 18 Ottobre 2024, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+DESCRIPTION:Venerdì 25 Ottobre 2024, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
 LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
 END:VEVENT
 
 
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Rome:20241101T203000
-DTEND;TZID=Europe/Rome:20241101T235900
+DTSTART;TZID=Europe/Rome:20241108T203000
+DTEND;TZID=Europe/Rome:20241108T235900
 SUMMARY:Incontro al Club BonsaiBlu
-DESCRIPTION:Venerdì 1 Novembre 2024, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+DESCRIPTION:Venerdì 8 Novembre 2024, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
 LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Rome:20241115T203000
-DTEND;TZID=Europe/Rome:20241115T235900
+DTSTART;TZID=Europe/Rome:20241122T203000
+DTEND;TZID=Europe/Rome:20241122T235900
 SUMMARY:Incontro al Club BonsaiBlu
-DESCRIPTION:Venerdì 15 Novembre 2024, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+DESCRIPTION:Venerdì 22 Novembre 2024, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
 LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Rome:20241129T203000
-DTEND;TZID=Europe/Rome:20241129T235900
-SUMMARY:Incontro al Club BonsaiBlu
-DESCRIPTION:Venerdì 29 Novembre 2024, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+DTSTART;TZID=Europe/Rome:20241213T203000
+DTEND;TZID=Europe/Rome:20241213T235900
+SUMMARY:Assemblea dei soci al Club BonsaiBlu
+DESCRIPTION:Venerdì 13 Dicembre 2024, ore 20:30 Assemblea dei soci al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
 LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
 END:VEVENT
