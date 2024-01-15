@@ -43,7 +43,7 @@ allert:
     di partecipare! \U0001F4C5"
   hidden: hidden
 tags: incontri, calendario, mappa, Whatsapp, contatti, orari, dove
-download_ics: "[Salva il calendario 2023](https://bonsaiblu.it/images/CalendarioBonsaiBlu2023.ics)"
+download_ics: "[Salva il calendario 2024](https://bonsaiblu.it/images/CalendarioBonsaiBlu2024.ics)"
 
 ---
 Il nuovo anno è alle porte e con esso arrivano anche nuovi appuntamenti da non perdere. Il calendario degli incontri del 2023 è già pronto con tante date da segnare in agenda.
