@@ -46,12 +46,12 @@ tags: incontri, calendario, mappa, Whatsapp, contatti, orari, dove
 download_ics: "[Salva il calendario 2024](https://bonsaiblu.it/images/CalendarioBonsaiBlu2024.ics)"
 
 ---
-Il nuovo anno è alle porte e con esso arrivano anche nuovi appuntamenti da non perdere. Il calendario degli incontri del 2023 è già pronto con tante date da segnare in agenda.
+Il nuovo anno è alle porte e con esso arrivano anche nuovi appuntamenti da non perdere. Il calendario degli incontri del 2024 è già pronto con tante date da segnare in agenda.
 
 Tutti gli incontri avranno inizio alle ore 20:30, un orario perfetto per poter partecipare dopo il lavoro o la scuola.
 
 Non perdere l'occasione di partecipare a questi appuntamenti, saranno sicuramente interessanti e ricchi di contenuti.
 
-Se desideri scaricare direttamente il file ICS con tutte le date degli incontri del club BonsaiBlu, puoi farlo cliccando [qui](https://bonsaiblu.it/images/CalendarioBonsaiBlu2023.ics).
+Se desideri scaricare direttamente il file ICS con tutte le date degli incontri del club BonsaiBlu, puoi farlo cliccando [qui](https://bonsaiblu.it/images/CalendarioBonsaiBlu2024.ics).
 
 Cliccando sul pulsante, il file ICS verrà scaricato automaticamente sul tuo dispositivo. Assicurati di importarlo nel tuo calendario per visualizzare e ricordare facilmente tutte le date degli incontri.
