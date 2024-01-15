@@ -12,7 +12,7 @@ opennig_hour:
   - "**Aprile:** 5 - 19"
   - "**Maggio:** 3 - 17"
   - "**Giugno:** 7 - 21"
-  - "**Luglio -"
+  - "**Luglio:** - "
   - "**Settembre:** 13 - 27"
   - "**Ottobre:** 11 - 25"
   - "**Novembre:** 8 - 22"
