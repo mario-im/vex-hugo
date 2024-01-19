@@ -2,6 +2,17 @@
 
   {{- partial "banner.html" . }}
 
+  {{ with .Params.allert }}
+<div class="{{ .hidden | markdownify}}" align="center">
+    <button class="balert bbalert" >
+  <div>
+    {{ .content | markdownify }}
+  </div></button>
+  <br><br>
+</div>
+
+  {{ end }}
+
   {{- partial "features.html" . }}
 
   {{- partial "promo.html" . }}
