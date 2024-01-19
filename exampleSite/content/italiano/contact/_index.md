@@ -20,7 +20,7 @@ office:
 opennig_hour:
   title: Calendario Incontri 2024 | dalle ore 20:30
   day_time:
-  - "**Gennaio:** 19"
+  - "**Gennaio:** ~~19~~"
   - "**Febbraio:** 9 - 23"
   - "**Marzo:** 1 - 15 - 22"
   - "**Aprile:** 5 - 19"
