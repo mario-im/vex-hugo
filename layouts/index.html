@@ -1,5 +1,16 @@
 {{ define "main" }}
 
+{{ with .Params.allert }}
+<div class="{{ .hidden | markdownify}}" align="center">
+  <button class="balert bbalert" >
+<div>
+  {{ .content | markdownify }}
+</div></button>
+<br><br>
+</div>
+
+{{ end }}
+
   {{- partial "banner.html" . }}
 
   {{- partial "features.html" . }}
