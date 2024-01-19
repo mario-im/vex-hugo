@@ -1,0 +1,20 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{- if $data.homepage.allert.enable }}
+{{- with $data.homepage.allert }}
+<!-- hero area -->
+
+
+  {{ with .Params.allert }}
+<div class="{{ .hidden | markdownify}}" align="center">
+    <button class="balert bbalert" >
+  <div>
+    {{ .content | markdownify }}
+  </div></button>
+  <br><br>
+</div>
+
+  {{ end }}
+
+{{- end }}
+{{- end }}
