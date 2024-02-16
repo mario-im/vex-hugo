@@ -45,7 +45,7 @@ allert:
     16 giugno è stato anticipato al <br><b>15 GIUGNO (giovedì)</b> sempre alle
     20:30. <br><br>Non dimenticate di segnare questa data nel vostro calendario e
     di partecipare! \U0001F4C5"
-  hidden: hidden
+  hidden: nohidden
 
 ---
 Il calendario degli incontri per il 2024 è stato ufficialmente pubblicato, con una serie di appuntamenti in programma il venerdì dalle ore 20:30.
