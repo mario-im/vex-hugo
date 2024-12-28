@@ -19,7 +19,7 @@ opennig_hour:
   - "**Novembre:** 7 - 21"
   - "**Dicembre:** 12 assemblea"
 
-download_ics: "Se desideri scaricare direttamente il file ICS con tutte le date degli incontri del club BonsaiBlu, puoi farlo cliccando [qui](https://bonsaiblu.it/images/CalendarioBonsaiBlu2025.ics)."
+download_ics: "Se desideri scaricare direttamente il file ICS con tutte le date degli incontri del club BonsaiBlu, puoi farlo cliccando [qui](https://bonsaiblu.it/images/CalendarioBonsaiBlu2025.ics). <br><br>Se preferisci stamparla, [qui puoi trovare qui il calendario completo](https://bonsaiblu.it/images/INCONTRI_2025.pdf)."
 tags:
 - gennaio
 - febbraio
