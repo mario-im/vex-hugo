@@ -1,5 +1,5 @@
 ---
-title: BonsaiBlu Milano | Calendario incontri
+title: BonsaiBlu Milano | Calendario incontri 2025
 description: troverai quando si incontrano i membri del club del Bonsai Blu di Milano
   nel 2025
 office:
