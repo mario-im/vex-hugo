@@ -1,0 +1,168 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//BonsaiBlu//Calendario Incontri 2025//IT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Calendario Incontri 2025 | dalle ore 20:30
+X-WR-TIMEZONE:Europe/Rome
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20250117T203000
+DTEND;TZID=Europe/Rome:20250117T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 17 Gennaio 2025, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20250131T203000
+DTEND;TZID=Europe/Rome:20250131T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 31 Gennaio 2025, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20250207T203000
+DTEND;TZID=Europe/Rome:20250207T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 7 Febbraio 2025, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20250228T203000
+DTEND;TZID=Europe/Rome:20250228T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 28 Febbraio 2025, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20250314T203000
+DTEND;TZID=Europe/Rome:20250314T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 14 Marzo 2025, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20250321T203000
+DTEND;TZID=Europe/Rome:20250321T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 21 Marzo 2025, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20250328T203000
+DTEND;TZID=Europe/Rome:20250328T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 28 Marzo 2025, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20250404T203000
+DTEND;TZID=Europe/Rome:20250404T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 4 Aprile 2025, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20250418T203000
+DTEND;TZID=Europe/Rome:20250418T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 18 Aprile 2025, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20250509T203000
+DTEND;TZID=Europe/Rome:20250509T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 9 Maggio 2025, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20250523T203000
+DTEND;TZID=Europe/Rome:20250523T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 23 Maggio 2025, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20250606T203000
+DTEND;TZID=Europe/Rome:20250606T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 6 Giugno 2025, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20250620T203000
+DTEND;TZID=Europe/Rome:20250620T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 20 Giugno 2025, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20250905T203000
+DTEND;TZID=Europe/Rome:20250905T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 5 Settembre 2025, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20250919T203000
+DTEND;TZID=Europe/Rome:20250919T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 19 Settembre 2025, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20251003T203000
+DTEND;TZID=Europe/Rome:20251003T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 3 Ottobre 2025, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20251017T203000
+DTEND;TZID=Europe/Rome:20251017T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 17 Ottobre 2025, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20251107T203000
+DTEND;TZID=Europe/Rome:20251107T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 7 Novembre 2025, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20251121T203000
+DTEND;TZID=Europe/Rome:20251121T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 21 Novembre 2025, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20251212T203000
+DTEND;TZID=Europe/Rome:20251212T235900
+SUMMARY:Assemblea dei soci al Club BonsaiBlu
+DESCRIPTION:Venerdì 12 Dicembre 2025, ore 20:30 Assemblea dei soci al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
+END:VEVENT
+
+END:VCALENDAR

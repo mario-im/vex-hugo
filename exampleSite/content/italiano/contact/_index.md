@@ -18,19 +18,20 @@ office:
     attivamente alla vita della community.\n\nNon esitare a contattarci, siamo sempre
     felici di accogliere nuovi soci, ti aspettiamo per passare insieme momenti indimenticabili!"
 opennig_hour:
-  title: Calendario Incontri 2024 | dalle ore 20:30
+  title: Calendario Incontri 2025 | dalle ore 20:30
   day_time:
-  - "**Gennaio:** ~~19~~"
-  - "**Febbraio:** 9 - 23"
-  - "**Marzo:** 1 - 15 - 22"
-  - "**Aprile:** 5 - 19"
-  - "**Maggio:** 3 - 17"
-  - "**Giugno:** 7 - 21"
+  - "**Gennaio:** 17 - 31"
+  - "**Febbraio:** 7 - 28"
+  - "**Marzo:** 14 - 21 - 28"
+  - "**Aprile:** 4 - 18"
+  - "**Maggio:** 9 - 23"
+  - "**Giugno:** 6 - 20"
   - "**Luglio:** - "
-  - "**Settembre:** 13 - 27"
-  - "**Ottobre:** 11 - 25"
-  - "**Novembre:** 8 - 22"
-  - "**Dicembre:** 13 assemblea"
+  - "~~Agosto:~~ - "
+  - "**Settembre:** 5 - 19"
+  - "**Ottobre:** 3 - 17"
+  - "**Novembre:** 7 - 21"
+  - "**Dicembre:** 12 assemblea"
 maps:
   title: Maps
   alt: mappa del ritrovo del BonsaiBlu di Milano
@@ -41,7 +42,7 @@ allert:
     19 gennaio 2024 è stato cancellato.<br><b> Verrà programmato un nuovo incontro nei prossimi giorni.</b>  <br><br> \U0001F4C5"
   hidden: hidden
 tags: incontri, calendario, mappa, Whatsapp, contatti, orari, dove
-download_ics: "[Salva il calendario 2024](https://bonsaiblu.it/images/CalendarioBonsaiBlu2024.ics)"
+download_ics: "[Salva il calendario 2025](https://bonsaiblu.it/images/CalendarioBonsaiBlu2025.ics)"
 
 ---
 Il nuovo anno è alle porte e con esso arrivano anche nuovi appuntamenti da non perdere. Il calendario degli incontri del 2024 è già pronto con tante date da segnare in agenda.
