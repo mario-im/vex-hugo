@@ -6,7 +6,7 @@ office:
 opennig_hour:
   title: Calendario Incontri 2025 | dalle ore 20:30
   day_time:
-  - "**Gennaio:** 17 - 31"
+  - "**Gennaio:** 24 - 31"
   - "**Febbraio:** 7 - 28"
   - "**Marzo:** 14 - 21 - 28"
   - "**Aprile:** 4 - 18"
