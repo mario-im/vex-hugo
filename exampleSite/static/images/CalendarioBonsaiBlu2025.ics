@@ -6,10 +6,10 @@ X-WR-CALNAME:Calendario Incontri 2025 | dalle ore 20:30
 X-WR-TIMEZONE:Europe/Rome
 
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Rome:20250117T203000
-DTEND;TZID=Europe/Rome:20250117T235900
+DTSTART;TZID=Europe/Rome:20250124T203000
+DTEND;TZID=Europe/Rome:20250124T235900
 SUMMARY:Incontro al Club BonsaiBlu
-DESCRIPTION:Venerdì 17 Gennaio 2025, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
+DESCRIPTION:Venerdì 24 Gennaio 2025, ore 20:30 al club BonsaiBlu\nIndirizzo: 6/a, Via De Amicis - 20089 Rozzano (MI)
 LOCATION:6/a, Via De Amicis - 20089 Rozzano (MI)
 END:VEVENT
 
