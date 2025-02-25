@@ -6,7 +6,8 @@ office:
     club.
   mobile: "3928268192"
   email: " -"
-  location: 6/a, Via De Amicis - 20089 Rozzano (MI)
+  location: "**Sede** 6/a, Via De Amicis - 20089 Rozzano (MI)"
+  location2: "**Sede delle lezioni** 11, Via Garibaldi - 20090 Buccinasco (MI)"
   content: "La condivisione degli interessi e la possibilità di conoscere persone
     nuove rendono questi incontri divertenti e stimolanti.  \n\nIl nostro obiettivo
     è quello di creare un ambiente accogliente e informale dove ci si possa incontrare,
@@ -35,8 +36,9 @@ opennig_hour:
 maps:
   title: Maps
   alt: mappa del ritrovo del BonsaiBlu di Milano
-  image: "/images/maps.png"
+  image: "/images/maps2.png"
   googlemaps: https://goo.gl/maps/5vG7UHLT3r8ob6ix9
+  googlemaps2: https://maps.app.goo.gl/HFd7qHfy2a1RhayF9
 allert:
   content: "<br><b>Attenzione! \U0001F6A8 </b> <br><br>L'incontro previsto per oggi,
     19 gennaio 2024 è stato cancellato.<br><b> Verrà programmato un nuovo incontro nei prossimi giorni.</b>  <br><br> \U0001F4C5"
