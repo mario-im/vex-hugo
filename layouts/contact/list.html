@@ -20,8 +20,8 @@
         <ul class="list-unstyled contact-list">
           {{with .mobile}} <li class="mb-3"><a href="https://wa.me/39{{ . }}?text=Ciao%20ti%20contatto%20dal%20sito%20BonsaiBlu"><i class="tf-ion-ios-telephone mr-2"></i>
             +39  {{ . }}</a></li>{{ end }}
-          {{with .email}} <li class="mb-3"><a href="mailto:{{ . }}"><i class="tf-ion-email mr-2"></i>{{ . }}</a></li>
-          {{end }}
+         <!-- NON ATTIVO IL MAILTO {{with .email}} <li class="mb-3"><a href="mailto:{{ . }}"><i class="tf-ion-email mr-2"></i>{{ . }}</a></li>
+          {{end }}-->
 
 
           {{with .location | markdownify}} <li class="mb-3"><i class="tf-ion-ios-location mr-2"></i>{{ . }}            
