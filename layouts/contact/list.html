@@ -24,9 +24,9 @@
           {{end }}
 
 
-          {{with .location }} <li class="mb-3"><i class="tf-ion-ios-location mr-2"></i>{{ . }}            
+          {{with .location | markdownify }} <li class="mb-3"><i class="tf-ion-ios-location mr-2"></i>{{ . }}            
           </li>{{ end }}           
-          {{with .location2 }} <li class="mb-3"><i class="tf-ion-ios-location mr-2"></i>{{ . }}           
+          {{with .location2 | markdownify }} <li class="mb-3"><i class="tf-ion-ios-location mr-2"></i>{{ . }}           
            </li>
 
 
