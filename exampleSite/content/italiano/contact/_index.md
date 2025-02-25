@@ -6,7 +6,7 @@ office:
     club.
   mobile: "3928268192"
   email: " -"
-  location: Sede - 6/a, Via De Amicis - 20089 Rozzano (MI)
+  location: "**Sede** - 6/a, Via De Amicis - 20089 Rozzano (MI)"
   location2: "**Sede delle lezioni** - 11, Via Garibaldi - 20090 Buccinasco (MI)"
   content: "La condivisione degli interessi e la possibilità di conoscere persone
     nuove rendono questi incontri divertenti e stimolanti.  \n\nIl nostro obiettivo
