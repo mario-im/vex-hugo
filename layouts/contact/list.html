@@ -24,7 +24,12 @@
           {{end }}
           {{with .location }} <li class="mb-3"><i class="tf-ion-ios-location mr-2"></i>{{ . }}
 
-          </li>{{ end }}{{ end }}
+          </li>{{ end }}
+          {{with .location2 }} <li class="mb-3"><i class="tf-ion-ios-location mr-2"></i>{{ . }}
+
+          </li>{{ end }}
+          
+          {{ end }}
           <!-- maps -->
                     <div class="mb-3">
                     {{ with .Params.maps }}
