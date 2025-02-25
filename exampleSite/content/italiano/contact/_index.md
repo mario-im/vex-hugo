@@ -40,7 +40,7 @@ maps:
   googlemaps: https://goo.gl/maps/5vG7UHLT3r8ob6ix9
   googlemaps2: https://maps.app.goo.gl/HFd7qHfy2a1RhayF9
 allert:
-  content: "<br><b>Attenzione! \U0001F6A8 </b> <br><br>Gli incontri dei soci per 2025 saranno presso l'oratorio Sant'Adele,
+  content: "<br><b>Attenzione! \U0001F6A8 </b> <br><br>Gli incontri dei soci del 2025 saranno presso l'oratorio Sant'Adele,
      in <br><b> Via Giuseppe Garibaldi 11, Buccinasco (MI).</b> <br><br> \U0001F4C5"
   hidden: nohidden
 tags: incontri, calendario, mappa, Whatsapp, contatti, orari, dove
