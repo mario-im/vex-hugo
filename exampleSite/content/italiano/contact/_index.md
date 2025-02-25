@@ -40,9 +40,9 @@ maps:
   googlemaps: https://goo.gl/maps/5vG7UHLT3r8ob6ix9
   googlemaps2: https://maps.app.goo.gl/HFd7qHfy2a1RhayF9
 allert:
-  content: "<br><b>Attenzione! \U0001F6A8 </b> <br><br>L'incontro previsto per oggi,
-    19 gennaio 2024 è stato cancellato.<br><b> Verrà programmato un nuovo incontro nei prossimi giorni.</b>  <br><br> \U0001F4C5"
-  hidden: hidden
+  content: "<br><b>Attenzione! \U0001F6A8 </b> <br><br>Gli incontri dei cosi per 2025 saranno presso l'oratorio Sant'Adele,
+     in <br><b> Via Giuseppe Garibaldi 11, Buccinasco (MI).</b> <br><br> \U0001F4C5"
+  hidden: nohidden
 tags: incontri, calendario, mappa, Whatsapp, contatti, orari, dove
 download_ics: "[Salva il calendario 2025](https://bonsaiblu.it/images/CalendarioBonsaiBlu2025.ics)"
 
