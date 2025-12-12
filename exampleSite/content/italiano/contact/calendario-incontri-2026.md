@@ -4,8 +4,8 @@ description: troverai quando si incontrano i membri del club del Bonsai Blu di M
   nel 2026
 office:
 opennig_hour:
-title: Calendario Incontri 2026 | dalle ore 20:30
-day_time:
+  title: Calendario Incontri 2026 | dalle ore 20:30
+  day_time:
   - "**Gennaio:** 9 - 23"
   - "**Febbraio:** 6 - 20"
   - "**Marzo:** 6 - 13 - 20"
