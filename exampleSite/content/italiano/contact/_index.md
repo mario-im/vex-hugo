@@ -44,7 +44,7 @@ allert:
      in <br><b> Via Giuseppe Garibaldi 11, Buccinasco (MI).</b> <br><br> \U0001F4C5"
   hidden: nohidden
 tags: incontri, calendario, mappa, Whatsapp, contatti, orari, dove
-download_ics: "[Salva il calendario 2025](https://bonsaiblu.it/images/CalendarioBonsaiBlu2026.ics)"
+download_ics: "[Salva il calendario 2026](https://bonsaiblu.it/images/CalendarioBonsaiBlu2026.ics)"
 
 ---
 Il nuovo anno è alle porte e con esso arrivano anche nuovi appuntamenti da non perdere. Il calendario degli incontri del 2026 è già pronto con tante date da segnare in agenda.
@@ -53,6 +53,6 @@ Tutti gli incontri avranno inizio alle ore 20:30, un orario perfetto per poter p
 
 Non perdere l'occasione di partecipare a questi appuntamenti, saranno sicuramente interessanti e ricchi di contenuti.
 
-Se desideri scaricare direttamente il file ICS con tutte le date degli incontri del club BonsaiBlu, puoi farlo cliccando [qui](https://bonsaiblu.it/images/CalendarioBonsaiBlu2024.ics).
+Se desideri scaricare direttamente il file ICS con tutte le date degli incontri del club BonsaiBlu, puoi farlo cliccando [qui](https://bonsaiblu.it/images/CalendarioBonsaiBlu2026.ics).
 
 Cliccando sul pulsante, il file ICS verrà scaricato automaticamente sul tuo dispositivo. Assicurati di importarlo nel tuo calendario per visualizzare e ricordare facilmente tutte le date degli incontri.
