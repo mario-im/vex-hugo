@@ -19,20 +19,20 @@ office:
     attivamente alla vita della community.\n\nNon esitare a contattarci, siamo sempre
     felici di accogliere nuovi soci, ti aspettiamo per passare insieme momenti indimenticabili!"
 opennig_hour:
-  title: Calendario Incontri 2025 | dalle ore 20:30
+  title: Calendario Incontri 2026 | dalle ore 20:30
   day_time:
-  - "**Gennaio:** 24 - 31"
-  - "**Febbraio:** 7 - 28"
-  - "**Marzo:** 14 - 21 - 28"
-  - "**Aprile:** 4 - 18"
-  - "**Maggio:** 9 - 23"
-  - "**Giugno:** 6 - 20"
-  - "**Luglio:** - "
+  - "**Gennaio:** 9 - 23"
+  - "**Febbraio:** 6 - 20"
+  - "**Marzo:** 6 - 13 - 20"
+  - "**Aprile:** 10 - 17"
+  - "**Maggio:** 8 - 22"
+  - "**Giugno:** 5 - 19"
+  - "~~Luglio:~~ - "
   - "~~Agosto:~~ - "
-  - "**Settembre:** 5 - 19"
-  - "**Ottobre:** 3 - 17"
-  - "**Novembre:** 7 - 21"
-  - "**Dicembre:** 12 assemblea"
+  - "**Settembre:** 11 - 25"
+  - "**Ottobre:** 2 - 16"
+  - "**Novembre:** 6 - 20"
+  - "**Dicembre:** 11 assemblea"
 maps:
   title: Maps
   alt: mappa del ritrovo del BonsaiBlu di Milano
@@ -40,14 +40,14 @@ maps:
   googlemaps: https://goo.gl/maps/5vG7UHLT3r8ob6ix9
   googlemaps2: https://maps.app.goo.gl/HFd7qHfy2a1RhayF9
 allert:
-  content: "<br><b>Attenzione! \U0001F6A8 </b> <br><br>Gli incontri dei soci del 2025 saranno presso l'oratorio Sant'Adele,
+  content: "<br><b>Attenzione! \U0001F6A8 </b> <br><br>Gli incontri dei soci del 2026 saranno presso l'oratorio Sant'Adele,
      in <br><b> Via Giuseppe Garibaldi 11, Buccinasco (MI).</b> <br><br> \U0001F4C5"
   hidden: nohidden
 tags: incontri, calendario, mappa, Whatsapp, contatti, orari, dove
-download_ics: "[Salva il calendario 2025](https://bonsaiblu.it/images/CalendarioBonsaiBlu2025.ics)"
+download_ics: "[Salva il calendario 2025](https://bonsaiblu.it/images/CalendarioBonsaiBlu2026.ics)"
 
 ---
-Il nuovo anno è alle porte e con esso arrivano anche nuovi appuntamenti da non perdere. Il calendario degli incontri del 2024 è già pronto con tante date da segnare in agenda.
+Il nuovo anno è alle porte e con esso arrivano anche nuovi appuntamenti da non perdere. Il calendario degli incontri del 2026 è già pronto con tante date da segnare in agenda.
 
 Tutti gli incontri avranno inizio alle ore 20:30, un orario perfetto per poter partecipare dopo il lavoro o la scuola.
 

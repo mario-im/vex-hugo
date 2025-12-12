@@ -1,0 +1,176 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//BonsaiBlu//Calendario Incontri 2026//IT
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Calendario Incontri 2026 | dalle ore 20:30
+X-WR-TIMEZONE:Europe/Rome
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20260109T203000
+DTEND;TZID=Europe/Rome:20260109T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 9 Gennaio 2026, ore 20:30 al club BonsaiBlu\nIndirizzo: Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI presso l'Oratorio Sant'Adele
+LOCATION:Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI (Oratorio Sant'Adele)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20260123T203000
+DTEND;TZID=Europe/Rome:20260123T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 23 Gennaio 2026, ore 20:30 al club BonsaiBlu\nIndirizzo: Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI presso l'Oratorio Sant'Adele
+LOCATION:Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI (Oratorio Sant'Adele)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20260206T203000
+DTEND;TZID=Europe/Rome:20260206T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 6 Febbraio 2026, ore 20:30 al club BonsaiBlu\nIndirizzo: Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI presso l'Oratorio Sant'Adele
+LOCATION:Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI (Oratorio Sant'Adele)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20260220T203000
+DTEND;TZID=Europe/Rome:20260220T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 20 Febbraio 2026, ore 20:30 al club BonsaiBlu\nIndirizzo: Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI presso l'Oratorio Sant'Adele
+LOCATION:Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI (Oratorio Sant'Adele)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20260306T203000
+DTEND;TZID=Europe/Rome:20260306T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 6 Marzo 2026, ore 20:30 al club BonsaiBlu\nIndirizzo: Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI presso l'Oratorio Sant'Adele
+LOCATION:Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI (Oratorio Sant'Adele)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20260313T203000
+DTEND;TZID=Europe/Rome:20260313T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 13 Marzo 2026, ore 20:30 al club BonsaiBlu\nIndirizzo: Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI presso l'Oratorio Sant'Adele
+LOCATION:Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI (Oratorio Sant'Adele)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20260320T203000
+DTEND;TZID=Europe/Rome:20260320T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 20 Marzo 2026, ore 20:30 al club BonsaiBlu\nIndirizzo: Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI presso l'Oratorio Sant'Adele
+LOCATION:Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI (Oratorio Sant'Adele)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20260410T203000
+DTEND;TZID=Europe/Rome:20260410T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 10 Aprile 2026, ore 20:30 al club BonsaiBlu\nIndirizzo: Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI presso l'Oratorio Sant'Adele
+LOCATION:Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI (Oratorio Sant'Adele)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20260417T203000
+DTEND;TZID=Europe/Rome:20260417T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 17 Aprile 2026, ore 20:30 al club BonsaiBlu\nIndirizzo: Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI presso l'Oratorio Sant'Adele
+LOCATION:Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI (Oratorio Sant'Adele)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260427
+SUMMARY:ARCOBONSAI 2026
+LOCATION:Via Bruno Galas, 13, 38062 Arco TN
+URL:http://arcobonsai.com/
+DESCRIPTION:Evento ARCOBONSAI 2026. Sito: http://arcobonsai.com/.
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20260508T203000
+DTEND;TZID=Europe/Rome:20260508T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 8 Maggio 2026, ore 20:30 al club BonsaiBlu\nIndirizzo: Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI presso l'Oratorio Sant'Adele
+LOCATION:Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI (Oratorio Sant'Adele)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20260522T203000
+DTEND;TZID=Europe/Rome:20260522T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 22 Maggio 2026, ore 20:30 al club BonsaiBlu\nIndirizzo: Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI presso l'Oratorio Sant'Adele
+LOCATION:Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI (Oratorio Sant'Adele)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20260605T203000
+DTEND;TZID=Europe/Rome:20260605T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 5 Giugno 2026, ore 20:30 al club BonsaiBlu\nIndirizzo: Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI presso l'Oratorio Sant'Adele
+LOCATION:Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI (Oratorio Sant'Adele)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20260619T203000
+DTEND;TZID=Europe/Rome:20260619T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 19 Giugno 2026, ore 20:30 al club BonsaiBlu\nIndirizzo: Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI presso l'Oratorio Sant'Adele
+LOCATION:Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI (Oratorio Sant'Adele)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20260911T203000
+DTEND;TZID=Europe/Rome:20260911T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 11 Settembre 2026, ore 20:30 al club BonsaiBlu\nIndirizzo: Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI presso l'Oratorio Sant'Adele
+LOCATION:Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI (Oratorio Sant'Adele)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20260925T203000
+DTEND;TZID=Europe/Rome:20260925T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 25 Settembre 2026, ore 20:30 al club BonsaiBlu\nIndirizzo: Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI presso l'Oratorio Sant'Adele
+LOCATION:Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI (Oratorio Sant'Adele)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20261002T203000
+DTEND;TZID=Europe/Rome:20261002T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 2 Ottobre 2026, ore 20:30 al club BonsaiBlu\nIndirizzo: Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI presso l'Oratorio Sant'Adele
+LOCATION:Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI (Oratorio Sant'Adele)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20261016T203000
+DTEND;TZID=Europe/Rome:20261016T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 16 Ottobre 2026, ore 20:30 al club BonsaiBlu\nIndirizzo: Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI presso l'Oratorio Sant'Adele
+LOCATION:Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI (Oratorio Sant'Adele)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20261106T203000
+DTEND;TZID=Europe/Rome:20261106T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 6 Novembre 2026, ore 20:30 al club BonsaiBlu\nIndirizzo: Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI presso l'Oratorio Sant'Adele
+LOCATION:Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI (Oratorio Sant'Adele)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20261120T203000
+DTEND;TZID=Europe/Rome:20261120T235900
+SUMMARY:Incontro al Club BonsaiBlu
+DESCRIPTION:Venerdì 20 Novembre 2026, ore 20:30 al club BonsaiBlu\nIndirizzo: Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI presso l'Oratorio Sant'Adele
+LOCATION:Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI (Oratorio Sant'Adele)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20261211T203000
+DTEND;TZID=Europe/Rome:20261211T235900
+SUMMARY:Assemblea Soci al Club BonsaiBlu
+DESCRIPTION:Venerdì 11 Dicembre 2026, ore 20:30 Assemblea Soci al club BonsaiBlu\nIndirizzo: Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI presso l'Oratorio Sant'Adele
+LOCATION:Via Giuseppe Garibaldi, 11, 20090 Buccinasco MI (Oratorio Sant'Adele)
+END:VEVENT
+END:VCALENDAR
