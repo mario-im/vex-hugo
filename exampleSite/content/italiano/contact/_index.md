@@ -22,7 +22,7 @@ opennig_hour:
   title: Calendario Incontri 2026 | dalle ore 20:30
   day_time:
   - "**Gennaio:** 9 - 23"
-  - "**Febbraio:** 6 - 20"
+  - "**Febbraio:** ~~6~~ 13 - 20"
   - "**Marzo:** 6 - 13 - 20"
   - "**Aprile:** 10 - 17"
   - "**Maggio:** 8 - 22"
@@ -40,7 +40,7 @@ maps:
   googlemaps: https://goo.gl/maps/5vG7UHLT3r8ob6ix9
   googlemaps2: https://maps.app.goo.gl/HFd7qHfy2a1RhayF9
 allert:
-  content: "<br><b>Attenzione! \U0001F6A8 </b> <br><br>Gli incontri dei soci del 2026 saranno presso l'oratorio Sant'Adele,
+  content: "<br><b>Attenzione! \U0001F6A8 </b> <br><b>L'incontro previsto il 6 febbraio viene spostato al 13 febbraio - causa interruzioni stradali per le Olimpiadi.<br><br>Gli incontri dei soci del 2026 saranno presso l'oratorio Sant'Adele,
      in <br><b> Via Giuseppe Garibaldi 11, Buccinasco (MI).</b> <br><br> \U0001F4C5"
   hidden: nohidden
 tags: incontri, calendario, mappa, Whatsapp, contatti, orari, dove
